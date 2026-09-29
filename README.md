@@ -97,7 +97,7 @@ The core execution flow of the LangGraph agent orchestrates 7 sequential steps:
 ---
 ## 🎬 Demo Video
 
-[![TechNova Demo Video](https://img.youtube.com/vi/YOUTUBE_ID/maxresdefault.jpg)](https://drive.google.com/file/d/1sK9ckMGjqHBOQifP_g1dymn42rU4yZSu/view?usp=sharing)
+[![TechNova Demo Video](https://drive.google.com/file/d/1sK9ckMGjqHBOQifP_g1dymn42rU4yZSu/view?usp=sharing)
 
 > 📌 **[Click here to watch the full project demo on Google Drive](https://drive.google.com/file/d/1sK9ckMGjqHBOQifP_g1dymn42rU4yZSu/view?usp=sharing)**
 
