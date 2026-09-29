@@ -67,8 +67,8 @@ async function startServer() {
     app.use(vite.middlewares);
   }
 
-  app.listen(PORT, '0.0.0.0', () => {
-    console.log(`[Deal Intelligence Agent] Full-Stack Server active on http://0.0.0.0:${PORT}`);
+app.listen(PORT, 'localhost', () => {
+    console.log(`[Deal Intelligence Agent] Full-Stack Server active on http://localhost:${PORT}`);
   });
 }
 
