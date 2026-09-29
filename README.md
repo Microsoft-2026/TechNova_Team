@@ -120,23 +120,39 @@ The core execution flow of the LangGraph agent orchestrates 7 sequential steps:
 - **Docker Desktop**: Installed and running (for PostgreSQL + `pgvector`)
 - **API Keys**: Groq API Key, Hindsight Memory API Key
 
-### 1. Repository Setup
+# TechNova
 
-bash:
-git clone [https://github.com/Microsoft-2026/TechNova.git](https://github.com/Microsoft-2026/TechNova.git)
-cd TechNova
-2. Infrastructure Setup (Database)Bashdocker-compose up -d
-3. API Gateway Setup (Node.js)Bashcd api
-cp .env.example .env
+## Prerequisites
+- **Node.js**: v18.0.0 or higher
+- **npm**: v9.0.0 or higher
+
+## Getting Started
+
+### 1. Clone the Repository
+```bash
+git clone [https://github.com/Microsoft-2026/TechNovTeam.git](https://github.com/Microsoft-2026/TechNova_Team.git)
+cd TechNova_Team
+
+2. Install Dependencies
+Bash
 npm install
-npx prisma migrate dev
+npm install -D esbuild@^0.28.2
+
+3. Start the Development Server
+Bash
 npm run dev
-4. AI Service Setup (Python FastAPI)Bashcd ../ai-service
+
+Troubleshooting Common Issues:
+Port in Use (EADDRINUSE):
+If port 3000 or 24678 is already in use, stop the existing process before running npm run dev:
+PowerShell (Windows):
+PowerShell:-
+Stop-Process -Id (Get-NetTCPConnection -LocalPort 3000).OwningProcess -Force
+Bash / macOS / Linux:
+Bash:-
+npx kill-port 3000
+
+Environment Variables:
+If your project uses environment configuration, copy .env.example to .env:
+Bash
 cp .env.example .env
-python -m venv venv
-# On Windows: venv\Scripts\activate | On macOS/Linux: source venv/bin/activate
-pip install -r requirements.txt
-uvicorn app.main:app --reload --port 8000
-5. Frontend Setup (React)Bashcd ../frontend
-npm install
-npm run dev
