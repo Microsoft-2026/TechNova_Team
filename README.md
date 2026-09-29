@@ -1,52 +1,137 @@
-# Deal Intelligence Agent
-## Autonomous AI Intelligence Layer Over Enterprise Sales Pipeline
+<div align="center">
 
-A production-grade Deal Intelligence Agent built with a full-stack architecture (Express + Node.js TypeScript + React 19 + Vite + TanStack Query + Tailwind CSS).
+# 🚀 Deal Intelligence Agent
+### Context-Aware B2B Deal Management Layer with RAG & Reflect–Recall–Retain Memory
+
+[![Microsoft Hackathon 2026](https://img.shields.io/badge/Microsoft%20Hackathon-2026-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/Microsoft-2026/TechNova)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+[![Python 3.11](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Node.js v20](https://img.shields.io/badge/Node.js-v20-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+[![React 18](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.110-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![LangGraph](https://img.shields.io/badge/Orchestration-LangGraph-FF6F00?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.ai)
+
+<p align="center">
+  <a href="#-key-features">Key Features</a> •
+  <a href="#-system-architecture">Architecture</a> •
+  <a href="#-the-rag--reflectrecallretain-loop">Agent Loop</a> •
+  <a href="#-getting-started">Getting Started</a> •
+  <a href="#-api-reference">API Reference</a> •
+  <a href="#-hackathon-problem-statement--solution-alignment">Problem & Solution</a>
+</p>
+
+<!-- BANNER / DEMO ANIMATION PLACEHOLDER -->
+<img src="https://raw.githubusercontent.com/Microsoft-2026/TechNova/main/assets/banner-animation.gif" alt="Deal Intelligence Agent Banner" width="100%" />
+
+</div>
 
 ---
 
-### Core Intelligence Loop
+## 📌 Executive Summary
 
-```text
-UNDERSTAND → RETRIEVE → RECALL → REFLECT → RECOMMEND → SIMULATE → ACT → RETAIN
-```
+Traditional CRMs simply track deal stages and static activities without understanding **why** deals succeed or fail. The **Deal Intelligence Agent** acts as an AI decision-support layer above enterprise sales data. 
 
-1. **Understand**: Decomposes raw conversation transcripts and emails to isolate true customer intent, unstated objections, and competitor mentions with verbatim evidence.
-2. **Retrieve**: Grounded RAG across organizational playbooks, technical specifications, and SLA guidelines with source citations.
-3. **Recall**: Semantic vector similarity matching against historical closed deals (`WON` / `LOST`) to discover how identical hurdles were navigated previously.
-4. **Reflect**: Synthesizes historical outcomes across cluster precedents to expose winning tactics and fatal pitfalls.
-5. **Recommend**: Deterministic next-best-action guidance accompanied by explicit **Why?** reasoning and conversation evidence.
-6. **Simulate**: Strategic What-If Decision Lab evaluating discount %, contract tenure, and package levers against historical patterns (strictly marked `ESTIMATE`).
-7. **Retain**: Post-close structured retrospective ingestion embedding institutional memory for all future evaluations.
+By combining **Retrieval-Augmented Generation (RAG)** over authoritative corporate playbooks with a novel **Reflect–Recall–Retain** memory architecture (powered by Hindsight Memory), the agent extracts deep customer intent from transcripts, surfacing explainable risk signals, scenario simulations, and historical deal insights to sales teams.
 
 ---
 
-### Quick Start & Execution
+## 💡 Hackathon Problem Statement & Solution Alignment
 
-```bash
-# 1. Install dependencies
+| Problem Gap | Traditional CRM / Standard RAG | Deal Intelligence Agent Solution |
+| :--- | :--- | :--- |
+| **Context Fragmentation** | Sales context is split across transcripts, docs, and CRM records. | **Transcript Intelligence** automatically extracts intent, pain points, objections, and sentiment in <30s. |
+| **Static Knowledge Base** | Playbooks and pricing sheets don't adapt to deal experience. | **Hybrid RAG + Recall**: Retrieves product policies alongside top-3 similar historical deal cases. |
+| **Repeated Mistakes** | Win/loss reasons are forgotten as rep churn occurs. | **Reflect & Retain**: Reflects on why historical deals succeeded/failed and retains validated lessons on deal closure. |
+| **Opaque Strategy** | Recommendations lack clear reasoning or evidence. | **Explainable AI**: Every next-best-action explicitly cites supporting signals, playbooks, or past deals. |
+| **Risk Sensitivity** | What-if changes (discounts, terms) are made blindly. | **Constraint-Aware Simulator**: Compares discount, contract duration, and packaging scenarios against historical patterns. |
+
+---
+
+## 🔄 The RAG + Reflect–Recall–Retain Loop
+
+The core execution flow of the LangGraph agent orchestrates 7 sequential steps:
+┌─────────────┐     ┌──────────────┐     ┌─────────────┐     ┌─────────────┐│  UNDERSTAND │ ──> │ RETRIEVE(RAG)│ ──> │   RECALL    │ ──> │   REFLECT   │└─────────────┘     └──────────────┘     └─────────────┘     └─────────────┘│┌─────────────┐     ┌──────────────┐     ┌─────────────┐            ││   RETAIN    │ <── │   SIMULATE   │ <── │  RECOMMEND  │ <──────────┘└─────────────┘     └──────────────┘     └─────────────┘
+1. **Understand**: Parses transcripts/documents into intents, objections, competitors, and sentiment.
+2. **Retrieve (RAG)**: Fetches authoritative playbooks, pricing rules, and compliance docs via `pgvector`.
+3. **Recall**: Queries Hindsight Memory for past deals matched by industry, deal size, objections, and tech stack.
+4. **Reflect**: Synthesizes strategy patterns across recalled cases to explain win/loss factors.
+5. **Recommend**: Generates an actionable next step accompanied by a transparent *"Why?"* evidence list.
+6. **Simulate**: Evaluates what-if levers (discount %, contract length, package type) under business constraints.
+7. **Retain**: Captures approved lessons, objection handling, and outcomes upon deal closure for organizational memory.
+
+---
+
+## 🛠️ System Architecture
+
+                           ┌───────────────────────────────────────────┐
+                           │     Presentation Layer (React 18 + TS)    │
+                           │      Vite · Tailwind CSS · Recharts       │
+                           └─────────────────────┬─────────────────────┘
+                                                 │ HTTPS / SSE
+                                                 ▼
+                           ┌───────────────────────────────────────────┐
+                           │       Node.js / Express API Gateway       │
+                           │        JWT Auth · Zod · Prisma ORM        │
+                           └─────────────────────┬─────────────────────┘
+                                                 │ REST / Async
+                                                 ▼
+                           ┌───────────────────────────────────────────┐
+                           │      FastAPI + LangGraph AI Service       │
+                           │  Pydantic · Groq (Qwen/GPT-OSS) · RAG     │
+                           └──────────────┬──────────────┬─────────────┘
+                                          │              │
+                   ┌──────────────────────┘              └──────────────────────┐
+                   ▼                                                            ▼
+┌──────────────────────────────────────┐                    ┌──────────────────────────────┐│       PostgreSQL + pgvector          │                    │     Hindsight Memory API     ││   Structured Deals & Embeddings      │                    │   retain() · recall() · reflect()│└──────────────────────────────────────┘                    └──────────────────────────────┘
+---
+
+## ✨ Key Features
+
+- 📊 **Command Center Dashboard**: Real-time KPI summaries, active deal pipelines, upcoming meetings, and high-risk deal alerts.
+- 📝 **Transcript Ingestion & Analysis**: Upload PDF, DOCX, or TXT call transcripts to instantly pull out structured requirements, competitor mentions, and sentiment indicators.
+- 🧠 **Deal Memory (Recall & Reflection)**: Instantly surface historical deals sharing similar buyer friction points and understand winning negotiation tactics.
+- 🎯 **Explainable AI Suggestions**: Dynamic recommendations detailing target actions, confidence levels, assumptions, and risks.
+- 🧪 **What-If Deal Simulator**: Test discount thresholds and packaging models with instant margin-impact feedback labeled with historical outcome estimates.
+- 🛡️ **Rule & Signal Risk Engine**: Identifies inactivity gaps, unresolved pricing objections, and missing decision-makers.
+
+---
+
+## 💻 Tech Stack
+
+- **Frontend**: React 18, TypeScript, Vite, Tailwind CSS, TanStack Query, Zustand, Recharts, Lucide Icons
+- **API Gateway**: Node.js 20, Express, Prisma ORM, Zod Validation, JWT Auth, Multer
+- **AI / Agent Orchestration**: Python 3.11, FastAPI, LangGraph, Pydantic, Server-Sent Events (SSE)
+- **Database & Vectors**: PostgreSQL, `pgvector`, SQLAlchemy
+- **Memory & LLM Layer**: Hindsight Memory API (`retain`, `recall`, `reflect`), Groq LMI Engine (Qwen / GPT-OSS)
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- **Node.js**: `v20.x` or higher
+- **Python**: `v3.11` or higher
+- **Docker Desktop**: Installed and running (for PostgreSQL + `pgvector`)
+- **API Keys**: Groq API Key, Hindsight Memory API Key
+
+### 1. Repository Setup
+
+bash:
+git clone [https://github.com/Microsoft-2026/TechNova.git](https://github.com/Microsoft-2026/TechNova.git)
+cd TechNova
+2. Infrastructure Setup (Database)Bashdocker-compose up -d
+3. API Gateway Setup (Node.js)Bashcd api
+cp .env.example .env
 npm install
-
-# 2. Run full-stack dev server (Express backend + Vite frontend unified on port 3000)
+npx prisma migrate dev
 npm run dev
-
-# 3. Build for production
-npm run build
-```
-
----
-
-### Architecture & Key Endpoints
-
-- **Health Probe**: `GET /health`
-- **Authentication**: `POST /auth/login`, `POST /auth/register`, `POST /auth/refresh`, `GET /auth/me`
-- **Dashboard**: `GET /dashboard/summary`
-- **Deals**: `GET /deals`, `POST /deals`, `GET /deals/:id`, `PUT /deals/:id`, `DELETE /deals/:id`, `POST /deals/:id/close`
-- **Transcripts**: `POST /deals/:id/transcripts`
-- **Intelligence**: `GET /deals/:id/intelligence`, `POST /deals/:id/intelligence`
-- **Memory**: `POST /deals/:id/recall`, `POST /deals/:id/reflect`, `GET /deals/memory/retained`
-- **Risk**: `GET /deals/:id/risk`
-- **Simulation**: `POST /deals/:id/simulate`
-- **Suggestions**: `GET /suggestions`, `POST /suggestions/:id/apply`, `POST /suggestions/:id/dismiss`
-- **Knowledge Base**: `GET /knowledge/docs`, `POST /knowledge/docs`, `POST /knowledge/ask`
-- **Reports**: `GET /reports/:timeframe`
+4. AI Service Setup (Python FastAPI)Bashcd ../ai-service
+cp .env.example .env
+python -m venv venv
+# On Windows: venv\Scripts\activate | On macOS/Linux: source venv/bin/activate
+pip install -r requirements.txt
+uvicorn app.main:app --reload --port 8000
+5. Frontend Setup (React)Bashcd ../frontend
+npm install
+npm run dev
