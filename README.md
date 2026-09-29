@@ -135,8 +135,9 @@ cd TechNova_Team
 
 2. Install Dependencies
 Bash
-npm install
 npm install -D esbuild@^0.28.2
+npm install
+
 
 3. Start the Development Server
 Bash
