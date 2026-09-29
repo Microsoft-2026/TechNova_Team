@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Remix Remix Remix Deal Intelligence Agent",
+  "description": "AI-powered deal intelligence layer over enterprise sales data featuring previous deal recall, reflective learning, explainable recommendations, and what-if simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

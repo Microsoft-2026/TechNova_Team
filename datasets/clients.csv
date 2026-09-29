@@ -1,0 +1,151 @@
+client_id,company_name,industry,company_size,region
+C0001,Client Company 001,Banking,Enterprise,APAC
+C0002,Client Company 002,Logistics,SMB,Middle East
+C0003,Client Company 003,Telecom,Enterprise,India
+C0004,Client Company 004,Manufacturing,SMB,Middle East
+C0005,Client Company 005,Manufacturing,Mid-Market,Europe
+C0006,Client Company 006,Logistics,Mid-Market,India
+C0007,Client Company 007,Banking,SMB,APAC
+C0008,Client Company 008,Telecom,Mid-Market,Europe
+C0009,Client Company 009,Healthcare,Mid-Market,APAC
+C0010,Client Company 010,Banking,Enterprise,India
+C0011,Client Company 011,IT Services,Enterprise,North America
+C0012,Client Company 012,Education,Mid-Market,North America
+C0013,Client Company 013,Telecom,Mid-Market,India
+C0014,Client Company 014,Logistics,Mid-Market,APAC
+C0015,Client Company 015,Telecom,Mid-Market,APAC
+C0016,Client Company 016,Logistics,Enterprise,North America
+C0017,Client Company 017,IT Services,SMB,North America
+C0018,Client Company 018,Healthcare,SMB,North America
+C0019,Client Company 019,Logistics,Mid-Market,Middle East
+C0020,Client Company 020,Manufacturing,SMB,North America
+C0021,Client Company 021,IT Services,SMB,APAC
+C0022,Client Company 022,Retail,SMB,India
+C0023,Client Company 023,Healthcare,Enterprise,North America
+C0024,Client Company 024,Education,Enterprise,Middle East
+C0025,Client Company 025,Logistics,Enterprise,Middle East
+C0026,Client Company 026,Telecom,Mid-Market,APAC
+C0027,Client Company 027,Manufacturing,Enterprise,APAC
+C0028,Client Company 028,Logistics,SMB,India
+C0029,Client Company 029,IT Services,Enterprise,India
+C0030,Client Company 030,Manufacturing,Mid-Market,Europe
+C0031,Client Company 031,Manufacturing,Enterprise,Europe
+C0032,Client Company 032,Healthcare,SMB,APAC
+C0033,Client Company 033,Banking,Mid-Market,APAC
+C0034,Client Company 034,IT Services,Enterprise,Middle East
+C0035,Client Company 035,Education,Mid-Market,Europe
+C0036,Client Company 036,Banking,Mid-Market,Middle East
+C0037,Client Company 037,Logistics,SMB,Middle East
+C0038,Client Company 038,Logistics,Mid-Market,APAC
+C0039,Client Company 039,Retail,SMB,APAC
+C0040,Client Company 040,Telecom,SMB,Middle East
+C0041,Client Company 041,Healthcare,Enterprise,North America
+C0042,Client Company 042,Logistics,Mid-Market,APAC
+C0043,Client Company 043,Telecom,Mid-Market,North America
+C0044,Client Company 044,Retail,Mid-Market,Europe
+C0045,Client Company 045,Banking,Enterprise,Middle East
+C0046,Client Company 046,Education,SMB,APAC
+C0047,Client Company 047,Manufacturing,Mid-Market,Middle East
+C0048,Client Company 048,Education,SMB,Middle East
+C0049,Client Company 049,Telecom,Mid-Market,India
+C0050,Client Company 050,Logistics,Enterprise,India
+C0051,Client Company 051,Logistics,Mid-Market,Europe
+C0052,Client Company 052,Healthcare,Enterprise,India
+C0053,Client Company 053,Retail,Mid-Market,APAC
+C0054,Client Company 054,Manufacturing,Enterprise,Europe
+C0055,Client Company 055,Manufacturing,Mid-Market,Middle East
+C0056,Client Company 056,Banking,SMB,Middle East
+C0057,Client Company 057,IT Services,Enterprise,India
+C0058,Client Company 058,Healthcare,Enterprise,Middle East
+C0059,Client Company 059,Telecom,SMB,India
+C0060,Client Company 060,Telecom,Enterprise,North America
+C0061,Client Company 061,Education,SMB,Middle East
+C0062,Client Company 062,Telecom,Enterprise,Middle East
+C0063,Client Company 063,Retail,Enterprise,APAC
+C0064,Client Company 064,Education,Mid-Market,Middle East
+C0065,Client Company 065,Manufacturing,Enterprise,India
+C0066,Client Company 066,Retail,SMB,Europe
+C0067,Client Company 067,Education,SMB,Europe
+C0068,Client Company 068,Retail,SMB,APAC
+C0069,Client Company 069,Banking,Mid-Market,India
+C0070,Client Company 070,Manufacturing,Enterprise,North America
+C0071,Client Company 071,Logistics,SMB,APAC
+C0072,Client Company 072,Healthcare,Mid-Market,North America
+C0073,Client Company 073,Manufacturing,Enterprise,Europe
+C0074,Client Company 074,Healthcare,SMB,APAC
+C0075,Client Company 075,Telecom,Enterprise,Middle East
+C0076,Client Company 076,Manufacturing,SMB,India
+C0077,Client Company 077,Retail,Enterprise,North America
+C0078,Client Company 078,Healthcare,Mid-Market,North America
+C0079,Client Company 079,IT Services,Mid-Market,APAC
+C0080,Client Company 080,Telecom,SMB,APAC
+C0081,Client Company 081,Education,Mid-Market,India
+C0082,Client Company 082,Manufacturing,Enterprise,Middle East
+C0083,Client Company 083,Healthcare,SMB,Middle East
+C0084,Client Company 084,Logistics,Enterprise,APAC
+C0085,Client Company 085,Telecom,Mid-Market,India
+C0086,Client Company 086,Telecom,Enterprise,India
+C0087,Client Company 087,Banking,Mid-Market,India
+C0088,Client Company 088,Retail,Mid-Market,Middle East
+C0089,Client Company 089,Logistics,SMB,Middle East
+C0090,Client Company 090,Logistics,Mid-Market,India
+C0091,Client Company 091,Manufacturing,SMB,North America
+C0092,Client Company 092,Logistics,Mid-Market,India
+C0093,Client Company 093,Logistics,SMB,APAC
+C0094,Client Company 094,Manufacturing,Mid-Market,Europe
+C0095,Client Company 095,Education,Mid-Market,North America
+C0096,Client Company 096,Retail,SMB,Middle East
+C0097,Client Company 097,Healthcare,Enterprise,India
+C0098,Client Company 098,Telecom,Mid-Market,India
+C0099,Client Company 099,Telecom,Enterprise,APAC
+C0100,Client Company 100,Healthcare,SMB,APAC
+C0101,Client Company 101,Logistics,SMB,Middle East
+C0102,Client Company 102,Healthcare,Mid-Market,North America
+C0103,Client Company 103,Logistics,SMB,APAC
+C0104,Client Company 104,Banking,SMB,Middle East
+C0105,Client Company 105,Logistics,Mid-Market,Europe
+C0106,Client Company 106,Logistics,SMB,Europe
+C0107,Client Company 107,Logistics,Enterprise,Europe
+C0108,Client Company 108,Telecom,SMB,India
+C0109,Client Company 109,Manufacturing,SMB,Middle East
+C0110,Client Company 110,Telecom,Mid-Market,India
+C0111,Client Company 111,Retail,Enterprise,India
+C0112,Client Company 112,Logistics,SMB,APAC
+C0113,Client Company 113,IT Services,SMB,APAC
+C0114,Client Company 114,Manufacturing,Enterprise,India
+C0115,Client Company 115,IT Services,Enterprise,India
+C0116,Client Company 116,IT Services,Mid-Market,North America
+C0117,Client Company 117,Banking,Mid-Market,Middle East
+C0118,Client Company 118,Healthcare,Mid-Market,India
+C0119,Client Company 119,Healthcare,Mid-Market,APAC
+C0120,Client Company 120,Banking,Mid-Market,Europe
+C0121,Client Company 121,Manufacturing,SMB,Middle East
+C0122,Client Company 122,Telecom,SMB,North America
+C0123,Client Company 123,Telecom,SMB,North America
+C0124,Client Company 124,Manufacturing,Enterprise,Europe
+C0125,Client Company 125,Logistics,Mid-Market,Europe
+C0126,Client Company 126,IT Services,Mid-Market,India
+C0127,Client Company 127,Banking,Mid-Market,Middle East
+C0128,Client Company 128,Logistics,Enterprise,Middle East
+C0129,Client Company 129,IT Services,SMB,India
+C0130,Client Company 130,Telecom,SMB,North America
+C0131,Client Company 131,IT Services,SMB,India
+C0132,Client Company 132,IT Services,Mid-Market,North America
+C0133,Client Company 133,Banking,Enterprise,Middle East
+C0134,Client Company 134,IT Services,Mid-Market,India
+C0135,Client Company 135,Logistics,Mid-Market,Europe
+C0136,Client Company 136,Retail,Enterprise,India
+C0137,Client Company 137,IT Services,SMB,Europe
+C0138,Client Company 138,Banking,Mid-Market,Middle East
+C0139,Client Company 139,Retail,Mid-Market,India
+C0140,Client Company 140,Manufacturing,Mid-Market,APAC
+C0141,Client Company 141,Education,Enterprise,Middle East
+C0142,Client Company 142,Healthcare,SMB,APAC
+C0143,Client Company 143,Retail,Enterprise,India
+C0144,Client Company 144,Manufacturing,SMB,Europe
+C0145,Client Company 145,Education,Mid-Market,Europe
+C0146,Client Company 146,Logistics,Mid-Market,North America
+C0147,Client Company 147,Banking,Enterprise,APAC
+C0148,Client Company 148,Healthcare,Mid-Market,Middle East
+C0149,Client Company 149,Logistics,SMB,Europe
+C0150,Client Company 150,Banking,SMB,APAC

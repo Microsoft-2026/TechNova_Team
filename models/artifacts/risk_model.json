@@ -1,0 +1,47 @@
+{
+  "version": "1.0.0",
+  "model_name": "deal-risk",
+  "weights": [
+    -0.17529693520195264,
+    0.16863251797802326,
+    -0.6610623307447927,
+    -1.02814010182574,
+    0.06890896386171112,
+    0.01425331893695945,
+    0.07722400076016728,
+    -0.5178411258370323,
+    -0.09509551610667531,
+    0.14391183329817156,
+    0.02489019040545198,
+    0.0,
+    -0.7951345300555389
+  ],
+  "bias": -0.08813751933368108,
+  "feature_names": [
+    "log_deal_value",
+    "discount_ratio",
+    "industry_win_rate",
+    "product_win_rate",
+    "company_size_tier",
+    "total_objections",
+    "high_severity_objections",
+    "unresolved_objections",
+    "has_competitor",
+    "competitor_preferred",
+    "interaction_count",
+    "inactivity_days",
+    "rep_win_rate"
+  ],
+  "baseline_risk_rate": 0.48,
+  "metrics": {
+    "accuracy": 0.6,
+    "precision": 0.5714,
+    "recall": 0.4,
+    "f1": 0.4706,
+    "rocAuc": 0.578,
+    "brierScore": 0.2888,
+    "threshold": 0.5,
+    "sampleCount": 45,
+    "baselineRiskRate": 0.48
+  }
+}

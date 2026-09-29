@@ -1,0 +1,451 @@
+objection_id,deal_id,objection_type,objection,severity,resolution_status,source_interaction_id,client_reaction,resolution_action
+O00001,D0241,Competition,Security concerns,Low,Unresolved,I00218,Concerned,Security documentation
+O00002,D0247,Technical,Integration complexity,High,Partially Resolved,I01131,Concerned,No resolution
+O00003,D0246,Contract,Compliance requirement,Low,Partially Resolved,I00323,Hesitant,Implementation plan
+O00004,D0032,Implementation,Support concerns,Low,Unresolved,I00610,Concerned,Implementation plan
+O00005,D0089,Technical,Missing feature,Medium,Resolved,I00831,Positive,No resolution
+O00006,D0094,Technical,Contract terms,Medium,Partially Resolved,I01452,Hesitant,No resolution
+O00007,D0008,Technical,Data migration risk,High,Resolved,I00532,Concerned,Security documentation
+O00008,D0078,Pricing,Security concerns,Medium,Partially Resolved,I01378,Hesitant,Pricing revision
+O00009,D0130,Competition,Compliance requirement,Medium,Resolved,I01122,Positive,Executive discussion
+O00010,D0266,Technical,Compliance requirement,High,Resolved,I00951,Neutral,Implementation plan
+O00011,D0052,Implementation,Security concerns,High,Partially Resolved,I01054,Neutral,Security documentation
+O00012,D0259,Implementation,Competitor pricing,Low,Resolved,I01190,Neutral,Executive discussion
+O00013,D0246,Implementation,Data migration risk,Medium,Resolved,I01049,Hesitant,Implementation plan
+O00014,D0048,Implementation,Support concerns,Medium,Resolved,I01009,Positive,No resolution
+O00015,D0079,Competition,Integration complexity,High,Unresolved,I00567,Positive,Security documentation
+O00016,D0138,Competition,Data migration risk,Medium,Resolved,I00642,Positive,Executive discussion
+O00017,D0284,Competition,Integration complexity,Medium,Resolved,I00899,Hesitant,Pricing revision
+O00018,D0236,Security,Competitor pricing,Medium,Unresolved,I01266,Positive,No resolution
+O00019,D0292,Contract,Implementation timeline,Medium,Unresolved,I00977,Concerned,Technical demo
+O00020,D0094,Technical,Security concerns,High,Resolved,I01482,Positive,Executive discussion
+O00021,D0273,Competition,Contract terms,Medium,Partially Resolved,I01022,Neutral,Technical demo
+O00022,D0287,Technical,Compliance requirement,High,Resolved,I00612,Concerned,No resolution
+O00023,D0180,Pricing,Implementation timeline,Low,Unresolved,I00863,Positive,No resolution
+O00024,D0047,Contract,Support concerns,High,Resolved,I00935,Positive,Executive discussion
+O00025,D0081,Contract,Contract terms,High,Resolved,I01301,Concerned,Executive discussion
+O00026,D0039,Pricing,Data migration risk,Medium,Resolved,I00384,Positive,Security documentation
+O00027,D0243,Competition,Competitor pricing,High,Partially Resolved,I00374,Neutral,Pricing revision
+O00028,D0094,Pricing,Integration complexity,Medium,Resolved,I00303,Concerned,No resolution
+O00029,D0211,Pricing,Competitor pricing,Medium,Partially Resolved,I00084,Positive,Implementation plan
+O00030,D0081,Competition,Data migration risk,Low,Resolved,I01013,Positive,Executive discussion
+O00031,D0294,Technical,Price too high,High,Partially Resolved,I01444,Neutral,Executive discussion
+O00032,D0233,Technical,Compliance requirement,Medium,Unresolved,I00921,Concerned,Executive discussion
+O00033,D0114,Contract,Support concerns,Medium,Resolved,I00092,Positive,Security documentation
+O00034,D0144,Implementation,Competitor pricing,High,Resolved,I00548,Neutral,Security documentation
+O00035,D0018,Implementation,Integration complexity,Medium,Resolved,I01355,Hesitant,Security documentation
+O00036,D0042,Competition,Support concerns,Low,Partially Resolved,I00078,Neutral,Implementation plan
+O00037,D0300,Pricing,Contract terms,Medium,Resolved,I00919,Neutral,Executive discussion
+O00038,D0245,Competition,Compliance requirement,Low,Partially Resolved,I00661,Concerned,Pricing revision
+O00039,D0252,Technical,Implementation timeline,Medium,Partially Resolved,I01379,Neutral,Pricing revision
+O00040,D0194,Implementation,Compliance requirement,Medium,Partially Resolved,I00770,Neutral,Technical demo
+O00041,D0067,Technical,Support concerns,Low,Partially Resolved,I00848,Hesitant,Implementation plan
+O00042,D0032,Technical,Security concerns,High,Resolved,I01084,Positive,Executive discussion
+O00043,D0218,Technical,Security concerns,Medium,Resolved,I01232,Concerned,Pricing revision
+O00044,D0100,Implementation,Compliance requirement,Medium,Partially Resolved,I00774,Neutral,Executive discussion
+O00045,D0001,Competition,Contract terms,Low,Resolved,I01082,Hesitant,Technical demo
+O00046,D0007,Pricing,Integration complexity,Low,Partially Resolved,I01209,Concerned,No resolution
+O00047,D0168,Implementation,Integration complexity,High,Unresolved,I00788,Hesitant,Executive discussion
+O00048,D0253,Competition,Competitor pricing,Medium,Resolved,I01075,Positive,Executive discussion
+O00049,D0109,Contract,Integration complexity,High,Resolved,I00545,Positive,Executive discussion
+O00050,D0300,Competition,Security concerns,Medium,Resolved,I00533,Hesitant,Security documentation
+O00051,D0115,Pricing,Contract terms,Medium,Resolved,I00005,Neutral,No resolution
+O00052,D0220,Security,Competitor pricing,High,Unresolved,I01005,Hesitant,Executive discussion
+O00053,D0074,Security,Implementation timeline,Low,Unresolved,I00377,Concerned,Pricing revision
+O00054,D0183,Implementation,Contract terms,Medium,Resolved,I01221,Neutral,No resolution
+O00055,D0083,Technical,Support concerns,Medium,Unresolved,I01428,Positive,Executive discussion
+O00056,D0234,Technical,Contract terms,Low,Resolved,I01314,Positive,Pricing revision
+O00057,D0137,Competition,Contract terms,Medium,Unresolved,I00414,Concerned,No resolution
+O00058,D0013,Technical,Security concerns,Medium,Unresolved,I00978,Positive,Pricing revision
+O00059,D0075,Competition,Contract terms,High,Resolved,I01128,Positive,Implementation plan
+O00060,D0106,Pricing,Price too high,High,Partially Resolved,I00760,Positive,Executive discussion
+O00061,D0140,Security,Support concerns,High,Partially Resolved,I00763,Hesitant,No resolution
+O00062,D0082,Implementation,Support concerns,Medium,Resolved,I00657,Concerned,Implementation plan
+O00063,D0174,Competition,Support concerns,Medium,Resolved,I00463,Concerned,No resolution
+O00064,D0290,Contract,Price too high,Medium,Partially Resolved,I00860,Concerned,Pricing revision
+O00065,D0214,Pricing,Compliance requirement,Medium,Resolved,I01487,Concerned,Executive discussion
+O00066,D0094,Contract,Data migration risk,High,Resolved,I00329,Neutral,Pricing revision
+O00067,D0204,Technical,Price too high,Medium,Resolved,I00071,Neutral,No resolution
+O00068,D0291,Competition,Missing feature,Low,Partially Resolved,I00085,Concerned,Executive discussion
+O00069,D0073,Contract,Missing feature,High,Resolved,I00874,Hesitant,Implementation plan
+O00070,D0070,Technical,Data migration risk,Medium,Partially Resolved,I00405,Hesitant,Technical demo
+O00071,D0012,Security,Support concerns,High,Resolved,I00693,Concerned,Security documentation
+O00072,D0253,Contract,Missing feature,Medium,Resolved,I01426,Hesitant,Technical demo
+O00073,D0250,Competition,Security concerns,Medium,Partially Resolved,I00115,Hesitant,No resolution
+O00074,D0125,Implementation,Contract terms,High,Resolved,I00262,Concerned,Security documentation
+O00075,D0262,Technical,Security concerns,Medium,Partially Resolved,I00322,Hesitant,Executive discussion
+O00076,D0196,Security,Integration complexity,Low,Resolved,I00686,Positive,No resolution
+O00077,D0294,Contract,Security concerns,High,Partially Resolved,I01042,Positive,Technical demo
+O00078,D0277,Implementation,Compliance requirement,Medium,Resolved,I00275,Neutral,Executive discussion
+O00079,D0288,Technical,Missing feature,Medium,Unresolved,I00163,Positive,Pricing revision
+O00080,D0118,Technical,Implementation timeline,High,Resolved,I00129,Neutral,Technical demo
+O00081,D0191,Technical,Implementation timeline,Medium,Unresolved,I01202,Positive,Pricing revision
+O00082,D0051,Security,Competitor pricing,Medium,Resolved,I00045,Hesitant,Implementation plan
+O00083,D0269,Security,Contract terms,High,Resolved,I00938,Concerned,No resolution
+O00084,D0096,Implementation,Support concerns,Low,Partially Resolved,I00868,Positive,Executive discussion
+O00085,D0135,Competition,Contract terms,Medium,Resolved,I00152,Concerned,Pricing revision
+O00086,D0179,Implementation,Compliance requirement,Medium,Resolved,I00829,Concerned,Pricing revision
+O00087,D0237,Implementation,Contract terms,High,Unresolved,I00431,Neutral,Pricing revision
+O00088,D0220,Security,Data migration risk,High,Partially Resolved,I00773,Hesitant,Executive discussion
+O00089,D0287,Implementation,Security concerns,Medium,Partially Resolved,I00206,Hesitant,Implementation plan
+O00090,D0214,Competition,Price too high,Medium,Unresolved,I01002,Hesitant,Technical demo
+O00091,D0239,Pricing,Support concerns,High,Resolved,I01197,Positive,Technical demo
+O00092,D0172,Security,Compliance requirement,Medium,Resolved,I00005,Neutral,Technical demo
+O00093,D0125,Pricing,Contract terms,Medium,Unresolved,I00800,Hesitant,No resolution
+O00094,D0275,Technical,Data migration risk,Medium,Resolved,I00972,Neutral,Implementation plan
+O00095,D0114,Pricing,Integration complexity,Medium,Resolved,I00005,Neutral,Security documentation
+O00096,D0187,Implementation,Contract terms,Medium,Resolved,I01087,Neutral,Executive discussion
+O00097,D0088,Contract,Security concerns,Medium,Resolved,I00815,Neutral,Pricing revision
+O00098,D0145,Competition,Contract terms,Medium,Resolved,I00460,Concerned,Technical demo
+O00099,D0111,Technical,Implementation timeline,Medium,Resolved,I00725,Positive,Pricing revision
+O00100,D0078,Contract,Competitor pricing,Low,Partially Resolved,I01024,Hesitant,Pricing revision
+O00101,D0247,Technical,Compliance requirement,Low,Partially Resolved,I00965,Concerned,Executive discussion
+O00102,D0231,Technical,Security concerns,Medium,Unresolved,I01165,Positive,Executive discussion
+O00103,D0211,Implementation,Implementation timeline,Medium,Resolved,I00053,Hesitant,Implementation plan
+O00104,D0025,Contract,Compliance requirement,Low,Resolved,I01182,Concerned,No resolution
+O00105,D0075,Implementation,Price too high,Low,Partially Resolved,I00054,Neutral,Security documentation
+O00106,D0066,Pricing,Missing feature,High,Resolved,I00976,Neutral,Pricing revision
+O00107,D0214,Security,Integration complexity,High,Resolved,I00525,Concerned,Pricing revision
+O00108,D0268,Technical,Data migration risk,Medium,Partially Resolved,I00096,Positive,Technical demo
+O00109,D0114,Pricing,Price too high,Low,Partially Resolved,I01033,Concerned,No resolution
+O00110,D0100,Pricing,Integration complexity,Low,Resolved,I00829,Concerned,Implementation plan
+O00111,D0168,Security,Data migration risk,Low,Partially Resolved,I01000,Neutral,Executive discussion
+O00112,D0297,Pricing,Price too high,High,Partially Resolved,I00564,Neutral,Pricing revision
+O00113,D0112,Contract,Support concerns,Low,Unresolved,I00418,Concerned,Executive discussion
+O00114,D0084,Pricing,Missing feature,High,Resolved,I00937,Concerned,Pricing revision
+O00115,D0157,Technical,Data migration risk,Medium,Partially Resolved,I00325,Neutral,Security documentation
+O00116,D0275,Competition,Data migration risk,Medium,Partially Resolved,I01219,Hesitant,Implementation plan
+O00117,D0219,Contract,Competitor pricing,Medium,Resolved,I01025,Hesitant,No resolution
+O00118,D0156,Implementation,Competitor pricing,Medium,Partially Resolved,I01500,Neutral,Implementation plan
+O00119,D0220,Pricing,Price too high,High,Partially Resolved,I00041,Concerned,Executive discussion
+O00120,D0005,Pricing,Contract terms,High,Resolved,I00879,Hesitant,Implementation plan
+O00121,D0226,Competition,Data migration risk,Low,Resolved,I00836,Positive,Security documentation
+O00122,D0030,Contract,Support concerns,High,Resolved,I01287,Concerned,No resolution
+O00123,D0118,Competition,Support concerns,Medium,Partially Resolved,I00637,Hesitant,No resolution
+O00124,D0105,Contract,Support concerns,High,Resolved,I01405,Positive,Pricing revision
+O00125,D0208,Pricing,Contract terms,Medium,Partially Resolved,I00359,Neutral,No resolution
+O00126,D0073,Contract,Security concerns,High,Resolved,I01282,Hesitant,Security documentation
+O00127,D0072,Security,Competitor pricing,Medium,Partially Resolved,I00781,Hesitant,Executive discussion
+O00128,D0266,Contract,Support concerns,Medium,Partially Resolved,I01416,Hesitant,Implementation plan
+O00129,D0144,Security,Security concerns,High,Partially Resolved,I00326,Concerned,Executive discussion
+O00130,D0223,Contract,Security concerns,Low,Partially Resolved,I00391,Positive,No resolution
+O00131,D0175,Competition,Missing feature,High,Resolved,I00847,Positive,Security documentation
+O00132,D0186,Competition,Implementation timeline,Medium,Resolved,I00828,Hesitant,Executive discussion
+O00133,D0206,Implementation,Contract terms,High,Partially Resolved,I00224,Concerned,Implementation plan
+O00134,D0201,Technical,Data migration risk,Low,Resolved,I00978,Positive,Executive discussion
+O00135,D0274,Implementation,Integration complexity,High,Partially Resolved,I00609,Positive,Pricing revision
+O00136,D0236,Security,Implementation timeline,Medium,Partially Resolved,I00227,Positive,Executive discussion
+O00137,D0092,Technical,Competitor pricing,Medium,Unresolved,I00766,Hesitant,Implementation plan
+O00138,D0051,Contract,Competitor pricing,Medium,Resolved,I01047,Hesitant,Security documentation
+O00139,D0254,Pricing,Implementation timeline,Low,Partially Resolved,I00048,Hesitant,Security documentation
+O00140,D0112,Security,Support concerns,High,Resolved,I01381,Positive,Executive discussion
+O00141,D0094,Contract,Price too high,Medium,Unresolved,I00917,Concerned,Security documentation
+O00142,D0034,Competition,Compliance requirement,Low,Partially Resolved,I00391,Hesitant,Technical demo
+O00143,D0166,Implementation,Support concerns,Low,Partially Resolved,I01126,Concerned,No resolution
+O00144,D0154,Competition,Price too high,Medium,Partially Resolved,I01266,Hesitant,Security documentation
+O00145,D0249,Contract,Support concerns,Medium,Resolved,I01435,Concerned,Technical demo
+O00146,D0225,Technical,Data migration risk,Medium,Partially Resolved,I01186,Positive,Pricing revision
+O00147,D0217,Competition,Competitor pricing,Medium,Unresolved,I00305,Neutral,Executive discussion
+O00148,D0162,Security,Security concerns,Low,Resolved,I00246,Neutral,Pricing revision
+O00149,D0259,Implementation,Competitor pricing,Low,Unresolved,I00314,Positive,Pricing revision
+O00150,D0295,Technical,Competitor pricing,Medium,Unresolved,I01314,Concerned,Security documentation
+O00151,D0245,Implementation,Security concerns,Medium,Unresolved,I00458,Hesitant,Technical demo
+O00152,D0105,Contract,Data migration risk,Medium,Unresolved,I00496,Positive,Implementation plan
+O00153,D0083,Competition,Contract terms,High,Resolved,I01337,Neutral,Technical demo
+O00154,D0001,Competition,Security concerns,Low,Partially Resolved,I00307,Concerned,No resolution
+O00155,D0298,Contract,Compliance requirement,Medium,Resolved,I00611,Neutral,Security documentation
+O00156,D0220,Implementation,Integration complexity,High,Partially Resolved,I00445,Positive,Pricing revision
+O00157,D0282,Competition,Security concerns,Medium,Resolved,I00453,Positive,Security documentation
+O00158,D0237,Pricing,Missing feature,High,Unresolved,I00894,Positive,Pricing revision
+O00159,D0130,Competition,Data migration risk,High,Resolved,I01112,Hesitant,Pricing revision
+O00160,D0044,Technical,Price too high,Medium,Resolved,I00398,Neutral,Technical demo
+O00161,D0015,Security,Compliance requirement,Medium,Resolved,I00057,Hesitant,Executive discussion
+O00162,D0238,Competition,Security concerns,Medium,Partially Resolved,I00960,Concerned,No resolution
+O00163,D0092,Contract,Integration complexity,High,Resolved,I00824,Neutral,Security documentation
+O00164,D0114,Competition,Missing feature,Medium,Resolved,I00989,Hesitant,Technical demo
+O00165,D0251,Contract,Compliance requirement,High,Resolved,I00676,Neutral,Technical demo
+O00166,D0145,Implementation,Price too high,Low,Resolved,I01166,Positive,Executive discussion
+O00167,D0286,Technical,Data migration risk,High,Unresolved,I00938,Hesitant,Security documentation
+O00168,D0164,Competition,Compliance requirement,Low,Resolved,I01137,Concerned,Pricing revision
+O00169,D0250,Implementation,Competitor pricing,High,Resolved,I01097,Neutral,Technical demo
+O00170,D0038,Contract,Integration complexity,High,Resolved,I00746,Concerned,Implementation plan
+O00171,D0120,Security,Contract terms,Medium,Resolved,I00488,Hesitant,Technical demo
+O00172,D0055,Competition,Competitor pricing,Medium,Resolved,I00874,Neutral,No resolution
+O00173,D0017,Security,Contract terms,Low,Resolved,I00955,Hesitant,Pricing revision
+O00174,D0298,Technical,Contract terms,Medium,Resolved,I00858,Hesitant,Technical demo
+O00175,D0156,Technical,Support concerns,Medium,Resolved,I00787,Hesitant,Executive discussion
+O00176,D0107,Contract,Data migration risk,High,Resolved,I00515,Positive,Security documentation
+O00177,D0113,Contract,Price too high,Medium,Partially Resolved,I00201,Positive,Executive discussion
+O00178,D0073,Technical,Contract terms,Medium,Resolved,I00642,Positive,Technical demo
+O00179,D0037,Contract,Contract terms,Low,Partially Resolved,I01323,Concerned,No resolution
+O00180,D0275,Competition,Competitor pricing,Medium,Partially Resolved,I01076,Neutral,Pricing revision
+O00181,D0032,Implementation,Compliance requirement,Medium,Unresolved,I01132,Hesitant,Executive discussion
+O00182,D0116,Competition,Implementation timeline,Low,Resolved,I01106,Positive,No resolution
+O00183,D0046,Pricing,Compliance requirement,High,Partially Resolved,I01383,Neutral,Implementation plan
+O00184,D0279,Security,Price too high,Medium,Unresolved,I00340,Neutral,Security documentation
+O00185,D0062,Implementation,Compliance requirement,Low,Unresolved,I01081,Hesitant,Pricing revision
+O00186,D0119,Security,Integration complexity,Medium,Unresolved,I00105,Positive,Executive discussion
+O00187,D0227,Pricing,Contract terms,Medium,Resolved,I00368,Neutral,Technical demo
+O00188,D0172,Security,Contract terms,Low,Unresolved,I00045,Hesitant,Technical demo
+O00189,D0115,Security,Contract terms,High,Unresolved,I00646,Hesitant,Implementation plan
+O00190,D0170,Technical,Compliance requirement,Low,Resolved,I00212,Hesitant,Technical demo
+O00191,D0132,Security,Missing feature,Medium,Resolved,I00581,Concerned,Pricing revision
+O00192,D0087,Security,Integration complexity,Medium,Unresolved,I00202,Positive,Implementation plan
+O00193,D0180,Competition,Contract terms,Medium,Resolved,I00054,Positive,Pricing revision
+O00194,D0110,Security,Security concerns,Medium,Partially Resolved,I00717,Neutral,No resolution
+O00195,D0289,Security,Contract terms,High,Resolved,I00616,Neutral,No resolution
+O00196,D0139,Security,Implementation timeline,High,Partially Resolved,I00626,Concerned,Technical demo
+O00197,D0227,Implementation,Price too high,Medium,Resolved,I00519,Positive,Pricing revision
+O00198,D0071,Technical,Contract terms,Medium,Partially Resolved,I00614,Concerned,No resolution
+O00199,D0194,Competition,Price too high,Medium,Partially Resolved,I00006,Neutral,Technical demo
+O00200,D0168,Security,Implementation timeline,High,Unresolved,I00718,Positive,Security documentation
+O00201,D0224,Security,Contract terms,High,Resolved,I01271,Hesitant,No resolution
+O00202,D0139,Pricing,Competitor pricing,High,Resolved,I00210,Neutral,Implementation plan
+O00203,D0216,Competition,Implementation timeline,Medium,Resolved,I00216,Positive,Pricing revision
+O00204,D0018,Security,Security concerns,High,Resolved,I01171,Neutral,Technical demo
+O00205,D0208,Pricing,Implementation timeline,High,Unresolved,I00752,Hesitant,Security documentation
+O00206,D0227,Technical,Missing feature,Medium,Resolved,I00386,Hesitant,Implementation plan
+O00207,D0149,Security,Integration complexity,Medium,Resolved,I01178,Positive,Technical demo
+O00208,D0011,Contract,Missing feature,Medium,Unresolved,I00488,Concerned,Implementation plan
+O00209,D0171,Pricing,Competitor pricing,High,Resolved,I00907,Concerned,Security documentation
+O00210,D0235,Pricing,Price too high,Low,Resolved,I00835,Hesitant,Pricing revision
+O00211,D0139,Implementation,Compliance requirement,Medium,Partially Resolved,I00255,Hesitant,No resolution
+O00212,D0029,Security,Missing feature,Medium,Resolved,I01133,Concerned,No resolution
+O00213,D0119,Competition,Contract terms,High,Unresolved,I00928,Concerned,Executive discussion
+O00214,D0299,Contract,Contract terms,High,Partially Resolved,I00313,Neutral,Implementation plan
+O00215,D0082,Implementation,Compliance requirement,Medium,Resolved,I01137,Hesitant,Security documentation
+O00216,D0159,Security,Contract terms,High,Partially Resolved,I00931,Hesitant,Technical demo
+O00217,D0107,Implementation,Competitor pricing,Medium,Unresolved,I01283,Hesitant,Pricing revision
+O00218,D0214,Implementation,Security concerns,Medium,Resolved,I01231,Hesitant,Technical demo
+O00219,D0129,Technical,Security concerns,High,Partially Resolved,I00478,Concerned,Security documentation
+O00220,D0116,Security,Contract terms,High,Resolved,I01406,Hesitant,Security documentation
+O00221,D0174,Competition,Integration complexity,High,Partially Resolved,I00051,Hesitant,Implementation plan
+O00222,D0172,Implementation,Integration complexity,Medium,Partially Resolved,I00502,Positive,Security documentation
+O00223,D0150,Security,Security concerns,High,Resolved,I00912,Positive,Pricing revision
+O00224,D0078,Contract,Security concerns,Medium,Resolved,I00803,Hesitant,Executive discussion
+O00225,D0033,Technical,Price too high,High,Resolved,I00339,Neutral,Technical demo
+O00226,D0208,Technical,Support concerns,Medium,Partially Resolved,I00300,Hesitant,Technical demo
+O00227,D0102,Competition,Missing feature,Low,Partially Resolved,I01172,Neutral,Executive discussion
+O00228,D0184,Contract,Security concerns,Low,Resolved,I01315,Neutral,Implementation plan
+O00229,D0113,Security,Security concerns,Medium,Resolved,I01020,Hesitant,No resolution
+O00230,D0257,Competition,Compliance requirement,Medium,Unresolved,I00796,Concerned,Executive discussion
+O00231,D0213,Security,Compliance requirement,Medium,Resolved,I01160,Concerned,No resolution
+O00232,D0122,Contract,Integration complexity,Low,Resolved,I00361,Neutral,Implementation plan
+O00233,D0100,Pricing,Contract terms,Medium,Resolved,I01452,Concerned,No resolution
+O00234,D0225,Contract,Implementation timeline,High,Partially Resolved,I00188,Neutral,Pricing revision
+O00235,D0003,Technical,Implementation timeline,Medium,Resolved,I00877,Hesitant,Implementation plan
+O00236,D0018,Technical,Missing feature,High,Unresolved,I00512,Neutral,No resolution
+O00237,D0026,Contract,Compliance requirement,Medium,Partially Resolved,I01357,Positive,Executive discussion
+O00238,D0104,Technical,Missing feature,High,Resolved,I00368,Concerned,Security documentation
+O00239,D0150,Security,Compliance requirement,High,Partially Resolved,I00963,Hesitant,No resolution
+O00240,D0088,Competition,Competitor pricing,Medium,Resolved,I00235,Hesitant,Pricing revision
+O00241,D0057,Competition,Support concerns,Medium,Resolved,I00273,Positive,Technical demo
+O00242,D0094,Security,Support concerns,Medium,Partially Resolved,I00625,Hesitant,Executive discussion
+O00243,D0149,Pricing,Support concerns,Low,Resolved,I01199,Neutral,Security documentation
+O00244,D0090,Technical,Security concerns,Low,Unresolved,I00418,Hesitant,Technical demo
+O00245,D0173,Implementation,Compliance requirement,Medium,Partially Resolved,I01041,Concerned,Pricing revision
+O00246,D0115,Security,Compliance requirement,Low,Resolved,I00857,Hesitant,Technical demo
+O00247,D0281,Contract,Contract terms,Medium,Unresolved,I01467,Neutral,No resolution
+O00248,D0298,Competition,Support concerns,High,Partially Resolved,I00452,Concerned,No resolution
+O00249,D0197,Implementation,Competitor pricing,Low,Resolved,I00366,Concerned,No resolution
+O00250,D0167,Implementation,Integration complexity,Medium,Partially Resolved,I01354,Positive,Pricing revision
+O00251,D0010,Implementation,Price too high,Low,Unresolved,I00500,Hesitant,Executive discussion
+O00252,D0187,Technical,Compliance requirement,High,Resolved,I00322,Positive,Implementation plan
+O00253,D0115,Implementation,Missing feature,High,Resolved,I01233,Hesitant,Pricing revision
+O00254,D0087,Competition,Support concerns,High,Resolved,I01220,Positive,Executive discussion
+O00255,D0239,Contract,Missing feature,Medium,Resolved,I00095,Positive,No resolution
+O00256,D0013,Contract,Missing feature,Low,Resolved,I01285,Neutral,Security documentation
+O00257,D0079,Competition,Price too high,Medium,Partially Resolved,I00950,Positive,Technical demo
+O00258,D0233,Security,Security concerns,High,Unresolved,I00419,Positive,No resolution
+O00259,D0278,Security,Price too high,Medium,Partially Resolved,I00804,Positive,Pricing revision
+O00260,D0155,Competition,Data migration risk,Medium,Resolved,I00358,Neutral,Pricing revision
+O00261,D0159,Security,Price too high,Medium,Resolved,I00254,Neutral,Implementation plan
+O00262,D0291,Contract,Competitor pricing,Medium,Resolved,I00199,Positive,Executive discussion
+O00263,D0028,Implementation,Security concerns,High,Resolved,I00248,Positive,Executive discussion
+O00264,D0145,Pricing,Support concerns,Medium,Partially Resolved,I00875,Concerned,No resolution
+O00265,D0073,Technical,Price too high,Medium,Resolved,I01216,Neutral,No resolution
+O00266,D0144,Technical,Price too high,High,Unresolved,I00730,Hesitant,Technical demo
+O00267,D0272,Technical,Data migration risk,Medium,Resolved,I00024,Hesitant,Pricing revision
+O00268,D0179,Contract,Support concerns,Medium,Partially Resolved,I00644,Positive,Executive discussion
+O00269,D0298,Competition,Competitor pricing,Medium,Unresolved,I01121,Hesitant,Security documentation
+O00270,D0152,Competition,Missing feature,High,Partially Resolved,I01253,Concerned,Executive discussion
+O00271,D0259,Technical,Contract terms,High,Unresolved,I01100,Hesitant,Security documentation
+O00272,D0051,Security,Contract terms,Medium,Unresolved,I00555,Neutral,Security documentation
+O00273,D0097,Technical,Contract terms,High,Partially Resolved,I00975,Positive,Technical demo
+O00274,D0083,Pricing,Support concerns,Low,Resolved,I00103,Hesitant,Implementation plan
+O00275,D0231,Implementation,Price too high,Medium,Resolved,I00615,Concerned,No resolution
+O00276,D0154,Competition,Data migration risk,Medium,Unresolved,I00806,Positive,Executive discussion
+O00277,D0067,Pricing,Competitor pricing,Medium,Resolved,I00043,Positive,Security documentation
+O00278,D0052,Implementation,Data migration risk,Medium,Unresolved,I00022,Positive,Executive discussion
+O00279,D0116,Pricing,Integration complexity,High,Resolved,I01203,Neutral,Pricing revision
+O00280,D0047,Competition,Contract terms,High,Partially Resolved,I00331,Neutral,Implementation plan
+O00281,D0210,Pricing,Implementation timeline,Medium,Resolved,I00189,Neutral,Security documentation
+O00282,D0255,Security,Missing feature,Medium,Unresolved,I00889,Hesitant,No resolution
+O00283,D0291,Pricing,Missing feature,Low,Resolved,I00422,Hesitant,Executive discussion
+O00284,D0071,Security,Contract terms,Medium,Resolved,I01470,Concerned,Technical demo
+O00285,D0132,Security,Compliance requirement,Medium,Unresolved,I01421,Concerned,No resolution
+O00286,D0152,Implementation,Contract terms,High,Resolved,I01236,Hesitant,Executive discussion
+O00287,D0149,Contract,Compliance requirement,High,Resolved,I00453,Neutral,Pricing revision
+O00288,D0136,Competition,Price too high,Low,Unresolved,I01314,Concerned,Pricing revision
+O00289,D0067,Security,Support concerns,High,Unresolved,I00383,Concerned,Pricing revision
+O00290,D0034,Competition,Data migration risk,Low,Resolved,I00360,Neutral,Pricing revision
+O00291,D0121,Security,Support concerns,High,Partially Resolved,I01461,Hesitant,No resolution
+O00292,D0028,Pricing,Price too high,Medium,Resolved,I01012,Positive,No resolution
+O00293,D0019,Implementation,Missing feature,High,Resolved,I00129,Positive,Implementation plan
+O00294,D0158,Contract,Price too high,Medium,Partially Resolved,I01330,Neutral,Security documentation
+O00295,D0258,Technical,Contract terms,High,Resolved,I00242,Hesitant,Security documentation
+O00296,D0163,Implementation,Security concerns,Medium,Resolved,I01022,Neutral,No resolution
+O00297,D0008,Security,Integration complexity,Low,Resolved,I00658,Positive,Pricing revision
+O00298,D0253,Pricing,Price too high,Medium,Unresolved,I00027,Hesitant,Executive discussion
+O00299,D0206,Security,Security concerns,High,Partially Resolved,I01182,Positive,No resolution
+O00300,D0091,Security,Compliance requirement,Medium,Resolved,I01030,Positive,No resolution
+O00301,D0082,Security,Compliance requirement,Medium,Unresolved,I01327,Hesitant,Executive discussion
+O00302,D0270,Competition,Price too high,High,Unresolved,I00918,Neutral,No resolution
+O00303,D0143,Security,Compliance requirement,Medium,Resolved,I01134,Positive,Pricing revision
+O00304,D0043,Implementation,Missing feature,Low,Unresolved,I01360,Neutral,No resolution
+O00305,D0085,Pricing,Implementation timeline,Medium,Resolved,I01465,Concerned,Technical demo
+O00306,D0080,Technical,Compliance requirement,Medium,Resolved,I00841,Hesitant,Technical demo
+O00307,D0121,Competition,Security concerns,Medium,Resolved,I00026,Positive,Pricing revision
+O00308,D0104,Competition,Integration complexity,Medium,Resolved,I00519,Neutral,Implementation plan
+O00309,D0165,Competition,Security concerns,Medium,Partially Resolved,I00930,Concerned,Pricing revision
+O00310,D0097,Pricing,Integration complexity,Medium,Partially Resolved,I00165,Concerned,Implementation plan
+O00311,D0193,Competition,Data migration risk,Medium,Unresolved,I00175,Concerned,Technical demo
+O00312,D0148,Technical,Integration complexity,High,Resolved,I00593,Neutral,Executive discussion
+O00313,D0283,Pricing,Security concerns,Medium,Resolved,I01366,Hesitant,Pricing revision
+O00314,D0249,Pricing,Implementation timeline,Low,Resolved,I00483,Positive,Implementation plan
+O00315,D0100,Contract,Contract terms,High,Resolved,I01403,Hesitant,Technical demo
+O00316,D0013,Implementation,Competitor pricing,High,Unresolved,I01205,Hesitant,No resolution
+O00317,D0176,Implementation,Price too high,High,Partially Resolved,I00455,Concerned,Security documentation
+O00318,D0102,Competition,Contract terms,High,Partially Resolved,I00347,Neutral,Implementation plan
+O00319,D0271,Pricing,Integration complexity,Low,Partially Resolved,I01242,Neutral,Security documentation
+O00320,D0122,Pricing,Compliance requirement,Medium,Resolved,I01135,Neutral,Implementation plan
+O00321,D0088,Competition,Security concerns,Medium,Resolved,I00946,Positive,Security documentation
+O00322,D0102,Implementation,Competitor pricing,Medium,Resolved,I01468,Positive,Technical demo
+O00323,D0260,Contract,Support concerns,Medium,Unresolved,I00151,Concerned,Executive discussion
+O00324,D0034,Implementation,Implementation timeline,Medium,Resolved,I00579,Concerned,Implementation plan
+O00325,D0288,Pricing,Implementation timeline,Low,Resolved,I00905,Neutral,Pricing revision
+O00326,D0071,Implementation,Implementation timeline,Medium,Partially Resolved,I00108,Neutral,Technical demo
+O00327,D0255,Competition,Data migration risk,Medium,Resolved,I01465,Positive,No resolution
+O00328,D0164,Pricing,Data migration risk,Medium,Partially Resolved,I00858,Hesitant,Pricing revision
+O00329,D0171,Pricing,Contract terms,Low,Resolved,I00463,Hesitant,No resolution
+O00330,D0062,Security,Data migration risk,High,Partially Resolved,I00359,Positive,Executive discussion
+O00331,D0217,Security,Support concerns,Medium,Resolved,I00002,Neutral,No resolution
+O00332,D0195,Implementation,Data migration risk,Medium,Unresolved,I00889,Concerned,Implementation plan
+O00333,D0145,Pricing,Implementation timeline,Medium,Partially Resolved,I01466,Positive,Pricing revision
+O00334,D0138,Competition,Implementation timeline,Low,Resolved,I00055,Positive,Technical demo
+O00335,D0180,Pricing,Support concerns,Medium,Partially Resolved,I00621,Hesitant,Pricing revision
+O00336,D0142,Technical,Integration complexity,High,Partially Resolved,I00994,Positive,Security documentation
+O00337,D0293,Competition,Security concerns,Medium,Partially Resolved,I00647,Concerned,Implementation plan
+O00338,D0013,Security,Implementation timeline,Low,Unresolved,I00977,Hesitant,No resolution
+O00339,D0076,Implementation,Contract terms,Medium,Unresolved,I01069,Concerned,Technical demo
+O00340,D0256,Security,Integration complexity,Low,Resolved,I01449,Neutral,Implementation plan
+O00341,D0238,Technical,Data migration risk,Low,Resolved,I00907,Positive,Technical demo
+O00342,D0105,Implementation,Contract terms,Low,Resolved,I01065,Concerned,Security documentation
+O00343,D0152,Contract,Compliance requirement,Medium,Partially Resolved,I00453,Neutral,Technical demo
+O00344,D0009,Pricing,Data migration risk,Medium,Unresolved,I00227,Hesitant,Security documentation
+O00345,D0054,Competition,Compliance requirement,Low,Partially Resolved,I00150,Concerned,Implementation plan
+O00346,D0284,Technical,Contract terms,Low,Resolved,I00165,Positive,Executive discussion
+O00347,D0194,Competition,Support concerns,High,Unresolved,I01242,Neutral,Executive discussion
+O00348,D0012,Competition,Security concerns,High,Partially Resolved,I00061,Concerned,Implementation plan
+O00349,D0238,Competition,Compliance requirement,Medium,Resolved,I00726,Concerned,Pricing revision
+O00350,D0122,Implementation,Security concerns,Medium,Unresolved,I00921,Concerned,No resolution
+O00351,D0171,Competition,Integration complexity,Low,Resolved,I01009,Positive,No resolution
+O00352,D0258,Competition,Price too high,Medium,Partially Resolved,I00100,Positive,No resolution
+O00353,D0252,Implementation,Contract terms,High,Resolved,I01291,Positive,Executive discussion
+O00354,D0041,Competition,Contract terms,Medium,Unresolved,I00657,Concerned,Executive discussion
+O00355,D0110,Security,Integration complexity,Low,Resolved,I00027,Positive,Technical demo
+O00356,D0082,Competition,Competitor pricing,Medium,Resolved,I00200,Hesitant,Implementation plan
+O00357,D0275,Competition,Security concerns,High,Partially Resolved,I01290,Neutral,Security documentation
+O00358,D0235,Implementation,Contract terms,Medium,Unresolved,I01415,Neutral,Pricing revision
+O00359,D0195,Pricing,Missing feature,Low,Resolved,I01128,Positive,Technical demo
+O00360,D0018,Technical,Missing feature,Medium,Resolved,I00501,Neutral,Pricing revision
+O00361,D0241,Technical,Support concerns,High,Unresolved,I01421,Hesitant,No resolution
+O00362,D0169,Implementation,Compliance requirement,Medium,Partially Resolved,I00414,Positive,No resolution
+O00363,D0082,Security,Support concerns,Low,Resolved,I00351,Concerned,Executive discussion
+O00364,D0133,Contract,Compliance requirement,Medium,Resolved,I01148,Positive,Technical demo
+O00365,D0134,Technical,Competitor pricing,Medium,Resolved,I00484,Positive,Executive discussion
+O00366,D0089,Pricing,Implementation timeline,High,Partially Resolved,I00780,Concerned,Technical demo
+O00367,D0273,Implementation,Missing feature,Medium,Partially Resolved,I00993,Concerned,Executive discussion
+O00368,D0276,Pricing,Integration complexity,Low,Partially Resolved,I00250,Concerned,Technical demo
+O00369,D0016,Competition,Compliance requirement,Medium,Resolved,I01389,Positive,Pricing revision
+O00370,D0281,Pricing,Compliance requirement,Medium,Unresolved,I00250,Positive,Technical demo
+O00371,D0122,Security,Competitor pricing,Low,Resolved,I01490,Neutral,No resolution
+O00372,D0240,Competition,Support concerns,Medium,Unresolved,I00417,Positive,Implementation plan
+O00373,D0235,Implementation,Competitor pricing,Low,Resolved,I00626,Hesitant,No resolution
+O00374,D0180,Contract,Support concerns,High,Resolved,I00380,Neutral,Technical demo
+O00375,D0224,Security,Security concerns,Medium,Resolved,I00809,Concerned,Executive discussion
+O00376,D0205,Contract,Security concerns,Low,Resolved,I00002,Positive,Security documentation
+O00377,D0256,Contract,Missing feature,Low,Resolved,I00256,Concerned,Security documentation
+O00378,D0128,Implementation,Data migration risk,Medium,Partially Resolved,I00780,Positive,No resolution
+O00379,D0222,Pricing,Support concerns,Medium,Unresolved,I01041,Neutral,Technical demo
+O00380,D0294,Competition,Support concerns,Low,Partially Resolved,I01445,Neutral,No resolution
+O00381,D0285,Pricing,Compliance requirement,Medium,Partially Resolved,I01257,Positive,Technical demo
+O00382,D0045,Security,Support concerns,High,Resolved,I01383,Positive,Security documentation
+O00383,D0150,Implementation,Price too high,Medium,Unresolved,I01198,Hesitant,Technical demo
+O00384,D0154,Contract,Implementation timeline,Medium,Resolved,I01165,Neutral,Implementation plan
+O00385,D0188,Implementation,Implementation timeline,Medium,Resolved,I00519,Concerned,Implementation plan
+O00386,D0195,Security,Contract terms,Low,Resolved,I01358,Concerned,Implementation plan
+O00387,D0255,Security,Implementation timeline,Medium,Resolved,I01445,Concerned,Executive discussion
+O00388,D0160,Competition,Compliance requirement,High,Partially Resolved,I00771,Concerned,Executive discussion
+O00389,D0211,Security,Security concerns,High,Resolved,I00181,Hesitant,No resolution
+O00390,D0270,Competition,Data migration risk,Low,Resolved,I00064,Concerned,Security documentation
+O00391,D0031,Pricing,Competitor pricing,High,Unresolved,I00741,Neutral,Pricing revision
+O00392,D0193,Implementation,Implementation timeline,Low,Resolved,I00953,Neutral,Technical demo
+O00393,D0111,Contract,Price too high,High,Partially Resolved,I00832,Hesitant,Pricing revision
+O00394,D0272,Contract,Implementation timeline,Medium,Resolved,I01345,Neutral,Implementation plan
+O00395,D0166,Security,Implementation timeline,Low,Unresolved,I00805,Concerned,Technical demo
+O00396,D0181,Contract,Contract terms,Medium,Partially Resolved,I00992,Hesitant,No resolution
+O00397,D0227,Security,Support concerns,Low,Resolved,I01137,Positive,No resolution
+O00398,D0073,Implementation,Missing feature,High,Unresolved,I01343,Positive,Technical demo
+O00399,D0164,Competition,Data migration risk,Medium,Resolved,I00915,Positive,Executive discussion
+O00400,D0232,Contract,Missing feature,Medium,Resolved,I00837,Positive,Implementation plan
+O00401,D0234,Contract,Integration complexity,Low,Partially Resolved,I00116,Concerned,Security documentation
+O00402,D0069,Competition,Integration complexity,High,Partially Resolved,I00964,Concerned,Executive discussion
+O00403,D0252,Technical,Contract terms,Medium,Resolved,I00270,Neutral,Implementation plan
+O00404,D0049,Implementation,Competitor pricing,Medium,Resolved,I00554,Positive,Pricing revision
+O00405,D0080,Implementation,Missing feature,Low,Resolved,I00799,Concerned,Implementation plan
+O00406,D0257,Contract,Price too high,Low,Partially Resolved,I00124,Positive,Technical demo
+O00407,D0185,Pricing,Compliance requirement,Low,Unresolved,I01042,Concerned,Pricing revision
+O00408,D0163,Contract,Implementation timeline,Medium,Resolved,I00421,Hesitant,No resolution
+O00409,D0168,Technical,Support concerns,Medium,Unresolved,I00772,Neutral,Pricing revision
+O00410,D0291,Security,Competitor pricing,Low,Resolved,I00526,Neutral,Implementation plan
+O00411,D0069,Contract,Compliance requirement,Low,Partially Resolved,I00534,Concerned,Pricing revision
+O00412,D0090,Technical,Integration complexity,Low,Unresolved,I00591,Positive,Security documentation
+O00413,D0147,Pricing,Integration complexity,Low,Partially Resolved,I00077,Concerned,Pricing revision
+O00414,D0254,Contract,Contract terms,Low,Resolved,I00294,Neutral,Implementation plan
+O00415,D0165,Technical,Support concerns,High,Resolved,I01179,Neutral,Implementation plan
+O00416,D0218,Contract,Competitor pricing,High,Resolved,I00183,Positive,Implementation plan
+O00417,D0246,Competition,Missing feature,Low,Partially Resolved,I00746,Hesitant,Pricing revision
+O00418,D0268,Security,Integration complexity,Medium,Unresolved,I00211,Neutral,Implementation plan
+O00419,D0139,Contract,Support concerns,High,Resolved,I00809,Positive,Executive discussion
+O00420,D0138,Technical,Contract terms,Medium,Resolved,I00966,Hesitant,Executive discussion
+O00421,D0025,Competition,Data migration risk,Medium,Resolved,I00704,Hesitant,Implementation plan
+O00422,D0025,Technical,Contract terms,Low,Partially Resolved,I01158,Concerned,Pricing revision
+O00423,D0147,Competition,Security concerns,Low,Partially Resolved,I00399,Positive,Implementation plan
+O00424,D0225,Contract,Competitor pricing,High,Resolved,I00837,Hesitant,Implementation plan
+O00425,D0252,Technical,Price too high,Medium,Partially Resolved,I00415,Positive,No resolution
+O00426,D0123,Contract,Competitor pricing,High,Resolved,I00764,Positive,Security documentation
+O00427,D0172,Implementation,Competitor pricing,Low,Partially Resolved,I00096,Concerned,Pricing revision
+O00428,D0244,Contract,Contract terms,High,Resolved,I00404,Neutral,Executive discussion
+O00429,D0096,Security,Competitor pricing,Medium,Resolved,I01062,Positive,Implementation plan
+O00430,D0048,Technical,Compliance requirement,Medium,Partially Resolved,I01168,Concerned,Security documentation
+O00431,D0277,Contract,Integration complexity,Medium,Partially Resolved,I00408,Neutral,Technical demo
+O00432,D0164,Pricing,Missing feature,Medium,Resolved,I00388,Hesitant,Executive discussion
+O00433,D0047,Security,Contract terms,Medium,Partially Resolved,I00448,Positive,Executive discussion
+O00434,D0076,Pricing,Compliance requirement,Medium,Partially Resolved,I00419,Hesitant,No resolution
+O00435,D0099,Pricing,Support concerns,High,Resolved,I01491,Concerned,Implementation plan
+O00436,D0061,Pricing,Missing feature,Medium,Unresolved,I00977,Positive,Implementation plan
+O00437,D0132,Pricing,Missing feature,Medium,Unresolved,I00579,Concerned,Pricing revision
+O00438,D0244,Competition,Integration complexity,Medium,Resolved,I00693,Hesitant,Security documentation
+O00439,D0222,Contract,Implementation timeline,Medium,Unresolved,I00767,Positive,Technical demo
+O00440,D0276,Competition,Data migration risk,Medium,Partially Resolved,I00830,Hesitant,Implementation plan
+O00441,D0251,Pricing,Competitor pricing,Low,Resolved,I00580,Neutral,Executive discussion
+O00442,D0094,Competition,Competitor pricing,High,Partially Resolved,I01462,Hesitant,Executive discussion
+O00443,D0018,Implementation,Contract terms,Medium,Resolved,I00436,Positive,Implementation plan
+O00444,D0046,Contract,Integration complexity,High,Partially Resolved,I00641,Concerned,Executive discussion
+O00445,D0238,Competition,Support concerns,Medium,Unresolved,I00009,Hesitant,Implementation plan
+O00446,D0103,Technical,Data migration risk,Medium,Resolved,I00738,Neutral,Executive discussion
+O00447,D0217,Contract,Contract terms,Medium,Partially Resolved,I01283,Positive,Security documentation
+O00448,D0138,Implementation,Data migration risk,High,Resolved,I01496,Neutral,Implementation plan
+O00449,D0269,Security,Support concerns,Medium,Partially Resolved,I00710,Concerned,Implementation plan
+O00450,D0153,Security,Security concerns,Medium,Unresolved,I00210,Concerned,Implementation plan

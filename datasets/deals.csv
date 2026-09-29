@@ -1,0 +1,301 @@
+deal_id,client_id,deal_name,product,deal_value,stage,outcome,sales_rep_id
+D0001,C0145,Enterprise Opportunity 0001,Product 24,441007,Closed Won,Won,S016
+D0002,C0139,Enterprise Opportunity 0002,Product 20,328255,Discovery,Active,S021
+D0003,C0075,Enterprise Opportunity 0003,Product 14,198840,Closed Lost,Lost,S037
+D0004,C0004,Enterprise Opportunity 0004,Product 26,215305,Closed Won,Won,S036
+D0005,C0090,Enterprise Opportunity 0005,Product 15,265754,Closed Lost,Lost,S024
+D0006,C0084,Enterprise Opportunity 0006,Product 29,58054,Closed Lost,Lost,S016
+D0007,C0023,Enterprise Opportunity 0007,Product 30,374732,Proposal,Active,S033
+D0008,C0096,Enterprise Opportunity 0008,Product 18,331596,Closed Lost,Lost,S033
+D0009,C0127,Enterprise Opportunity 0009,Product 21,369600,Closed Lost,Lost,S030
+D0010,C0016,Enterprise Opportunity 0010,Product 08,273962,Closed Won,Won,S004
+D0011,C0109,Enterprise Opportunity 0011,Product 25,394735,Proposal,Active,S024
+D0012,C0022,Enterprise Opportunity 0012,Product 21,475629,Closed Lost,Lost,S031
+D0013,C0113,Enterprise Opportunity 0013,Product 28,291417,Evaluation,Active,S048
+D0014,C0063,Enterprise Opportunity 0014,Product 09,230526,Closed Won,Won,S027
+D0015,C0001,Enterprise Opportunity 0015,Product 24,65738,Discovery,Active,S018
+D0016,C0145,Enterprise Opportunity 0016,Product 15,392658,Closed Lost,Lost,S028
+D0017,C0025,Enterprise Opportunity 0017,Product 06,453427,Closed Won,Won,S009
+D0018,C0090,Enterprise Opportunity 0018,Product 06,354252,Closed Lost,Lost,S005
+D0019,C0028,Enterprise Opportunity 0019,Product 17,434802,Closed Lost,Lost,S034
+D0020,C0140,Enterprise Opportunity 0020,Product 10,432681,Closed Won,Won,S050
+D0021,C0111,Enterprise Opportunity 0021,Product 04,402077,Closed Lost,Lost,S043
+D0022,C0121,Enterprise Opportunity 0022,Product 13,258897,Proposal,Active,S030
+D0023,C0065,Enterprise Opportunity 0023,Product 20,63433,Closed Won,Won,S003
+D0024,C0071,Enterprise Opportunity 0024,Product 10,16574,Closed Lost,Lost,S050
+D0025,C0096,Enterprise Opportunity 0025,Product 29,114132,Closed Lost,Lost,S023
+D0026,C0118,Enterprise Opportunity 0026,Product 24,224046,Closed Won,Won,S015
+D0027,C0128,Enterprise Opportunity 0027,Product 16,375646,Proposal,Active,S045
+D0028,C0003,Enterprise Opportunity 0028,Product 29,236066,Closed Lost,Lost,S038
+D0029,C0100,Enterprise Opportunity 0029,Product 13,26222,Closed Won,Won,S038
+D0030,C0017,Enterprise Opportunity 0030,Product 05,117017,Discovery,Active,S014
+D0031,C0044,Enterprise Opportunity 0031,Product 02,489923,Discovery,Active,S050
+D0032,C0125,Enterprise Opportunity 0032,Product 29,494190,Closed Won,Won,S023
+D0033,C0038,Enterprise Opportunity 0033,Product 29,197915,Proposal,Active,S027
+D0034,C0120,Enterprise Opportunity 0034,Product 23,405418,Closed Won,Won,S038
+D0035,C0070,Enterprise Opportunity 0035,Product 04,363866,Discovery,Active,S033
+D0036,C0035,Enterprise Opportunity 0036,Product 09,466665,Closed Lost,Lost,S009
+D0037,C0051,Enterprise Opportunity 0037,Product 02,445471,Closed Lost,Lost,S016
+D0038,C0080,Enterprise Opportunity 0038,Product 02,319939,Closed Won,Won,S019
+D0039,C0115,Enterprise Opportunity 0039,Product 08,206395,Discovery,Active,S048
+D0040,C0091,Enterprise Opportunity 0040,Product 18,318929,Closed Won,Won,S036
+D0041,C0140,Enterprise Opportunity 0041,Product 02,169779,Closed Won,Won,S019
+D0042,C0131,Enterprise Opportunity 0042,Product 30,183823,Closed Won,Won,S037
+D0043,C0114,Enterprise Opportunity 0043,Product 14,310239,Closed Lost,Lost,S037
+D0044,C0091,Enterprise Opportunity 0044,Product 08,292128,Closed Won,Won,S020
+D0045,C0044,Enterprise Opportunity 0045,Product 16,296779,Proposal,Active,S021
+D0046,C0062,Enterprise Opportunity 0046,Product 24,201567,Closed Lost,Lost,S045
+D0047,C0018,Enterprise Opportunity 0047,Product 10,213432,Closed Won,Won,S029
+D0048,C0057,Enterprise Opportunity 0048,Product 02,19943,Closed Won,Won,S008
+D0049,C0139,Enterprise Opportunity 0049,Product 02,306860,Closed Won,Won,S036
+D0050,C0064,Enterprise Opportunity 0050,Product 26,294255,Closed Lost,Lost,S030
+D0051,C0018,Enterprise Opportunity 0051,Product 04,468659,Discovery,Active,S026
+D0052,C0098,Enterprise Opportunity 0052,Product 20,259575,Closed Won,Won,S037
+D0053,C0145,Enterprise Opportunity 0053,Product 12,241805,Negotiation,Active,S046
+D0054,C0131,Enterprise Opportunity 0054,Product 24,47825,Closed Won,Won,S017
+D0055,C0042,Enterprise Opportunity 0055,Product 02,110419,Discovery,Active,S021
+D0056,C0069,Enterprise Opportunity 0056,Product 27,178948,Proposal,Active,S010
+D0057,C0080,Enterprise Opportunity 0057,Product 21,197944,Closed Lost,Lost,S033
+D0058,C0038,Enterprise Opportunity 0058,Product 14,190902,Closed Lost,Lost,S021
+D0059,C0041,Enterprise Opportunity 0059,Product 07,206141,Proposal,Active,S018
+D0060,C0036,Enterprise Opportunity 0060,Product 30,387925,Closed Won,Won,S035
+D0061,C0150,Enterprise Opportunity 0061,Product 10,78587,Closed Won,Won,S021
+D0062,C0112,Enterprise Opportunity 0062,Product 15,176145,Closed Won,Won,S024
+D0063,C0127,Enterprise Opportunity 0063,Product 12,93992,Closed Lost,Lost,S023
+D0064,C0123,Enterprise Opportunity 0064,Product 07,164280,Closed Lost,Lost,S013
+D0065,C0144,Enterprise Opportunity 0065,Product 13,347012,Closed Lost,Lost,S007
+D0066,C0016,Enterprise Opportunity 0066,Product 05,37680,Evaluation,Active,S042
+D0067,C0133,Enterprise Opportunity 0067,Product 01,179646,Closed Won,Won,S005
+D0068,C0010,Enterprise Opportunity 0068,Product 09,26487,Closed Lost,Lost,S017
+D0069,C0072,Enterprise Opportunity 0069,Product 04,478125,Closed Won,Won,S034
+D0070,C0090,Enterprise Opportunity 0070,Product 13,367720,Closed Won,Won,S007
+D0071,C0054,Enterprise Opportunity 0071,Product 26,133144,Closed Lost,Lost,S033
+D0072,C0022,Enterprise Opportunity 0072,Product 05,111125,Negotiation,Active,S037
+D0073,C0029,Enterprise Opportunity 0073,Product 01,62978,Closed Lost,Lost,S034
+D0074,C0124,Enterprise Opportunity 0074,Product 04,244346,Closed Won,Won,S016
+D0075,C0048,Enterprise Opportunity 0075,Product 16,380449,Closed Lost,Lost,S001
+D0076,C0047,Enterprise Opportunity 0076,Product 09,298341,Closed Won,Won,S045
+D0077,C0139,Enterprise Opportunity 0077,Product 15,442302,Evaluation,Active,S017
+D0078,C0022,Enterprise Opportunity 0078,Product 01,181751,Closed Lost,Lost,S041
+D0079,C0138,Enterprise Opportunity 0079,Product 10,149884,Closed Won,Won,S010
+D0080,C0139,Enterprise Opportunity 0080,Product 13,246855,Closed Won,Won,S009
+D0081,C0090,Enterprise Opportunity 0081,Product 13,113012,Closed Won,Won,S039
+D0082,C0025,Enterprise Opportunity 0082,Product 17,488187,Proposal,Active,S047
+D0083,C0024,Enterprise Opportunity 0083,Product 24,105096,Closed Lost,Lost,S044
+D0084,C0043,Enterprise Opportunity 0084,Product 15,247250,Closed Lost,Lost,S038
+D0085,C0087,Enterprise Opportunity 0085,Product 26,268175,Closed Lost,Lost,S013
+D0086,C0024,Enterprise Opportunity 0086,Product 16,42667,Closed Lost,Lost,S046
+D0087,C0069,Enterprise Opportunity 0087,Product 08,242182,Closed Won,Won,S034
+D0088,C0018,Enterprise Opportunity 0088,Product 07,235530,Proposal,Active,S009
+D0089,C0082,Enterprise Opportunity 0089,Product 10,140828,Closed Won,Won,S007
+D0090,C0004,Enterprise Opportunity 0090,Product 18,77064,Closed Lost,Lost,S044
+D0091,C0107,Enterprise Opportunity 0091,Product 08,36908,Closed Lost,Lost,S014
+D0092,C0009,Enterprise Opportunity 0092,Product 28,19162,Closed Lost,Lost,S039
+D0093,C0030,Enterprise Opportunity 0093,Product 15,248523,Proposal,Active,S007
+D0094,C0027,Enterprise Opportunity 0094,Product 26,58572,Closed Won,Won,S015
+D0095,C0125,Enterprise Opportunity 0095,Product 21,480276,Closed Lost,Lost,S015
+D0096,C0009,Enterprise Opportunity 0096,Product 11,133702,Closed Won,Won,S015
+D0097,C0065,Enterprise Opportunity 0097,Product 07,331471,Closed Lost,Lost,S034
+D0098,C0089,Enterprise Opportunity 0098,Product 23,341641,Closed Won,Won,S046
+D0099,C0078,Enterprise Opportunity 0099,Product 10,255320,Closed Won,Won,S046
+D0100,C0103,Enterprise Opportunity 0100,Product 08,443552,Closed Won,Won,S038
+D0101,C0121,Enterprise Opportunity 0101,Product 28,68685,Closed Won,Won,S011
+D0102,C0060,Enterprise Opportunity 0102,Product 15,128505,Closed Lost,Lost,S049
+D0103,C0125,Enterprise Opportunity 0103,Product 02,137431,Closed Lost,Lost,S028
+D0104,C0048,Enterprise Opportunity 0104,Product 15,80675,Closed Lost,Lost,S028
+D0105,C0148,Enterprise Opportunity 0105,Product 14,157965,Closed Won,Won,S036
+D0106,C0076,Enterprise Opportunity 0106,Product 26,166653,Closed Won,Won,S039
+D0107,C0111,Enterprise Opportunity 0107,Product 22,385929,Closed Won,Won,S048
+D0108,C0132,Enterprise Opportunity 0108,Product 06,161288,Closed Lost,Lost,S030
+D0109,C0119,Enterprise Opportunity 0109,Product 05,440204,Closed Won,Won,S031
+D0110,C0128,Enterprise Opportunity 0110,Product 19,389746,Closed Won,Won,S038
+D0111,C0081,Enterprise Opportunity 0111,Product 02,452296,Closed Won,Won,S013
+D0112,C0007,Enterprise Opportunity 0112,Product 10,66033,Closed Lost,Lost,S016
+D0113,C0074,Enterprise Opportunity 0113,Product 05,492515,Closed Won,Won,S032
+D0114,C0028,Enterprise Opportunity 0114,Product 01,312771,Closed Lost,Lost,S004
+D0115,C0134,Enterprise Opportunity 0115,Product 28,491447,Closed Lost,Lost,S017
+D0116,C0036,Enterprise Opportunity 0116,Product 03,187098,Closed Lost,Lost,S036
+D0117,C0035,Enterprise Opportunity 0117,Product 01,477204,Closed Lost,Lost,S049
+D0118,C0038,Enterprise Opportunity 0118,Product 28,300473,Closed Lost,Lost,S026
+D0119,C0097,Enterprise Opportunity 0119,Product 06,49833,Closed Won,Won,S020
+D0120,C0086,Enterprise Opportunity 0120,Product 25,213910,Closed Lost,Lost,S023
+D0121,C0143,Enterprise Opportunity 0121,Product 01,81829,Closed Lost,Lost,S035
+D0122,C0063,Enterprise Opportunity 0122,Product 05,471520,Closed Lost,Lost,S028
+D0123,C0043,Enterprise Opportunity 0123,Product 04,162666,Closed Lost,Lost,S002
+D0124,C0008,Enterprise Opportunity 0124,Product 22,122845,Closed Won,Won,S027
+D0125,C0002,Enterprise Opportunity 0125,Product 19,283155,Closed Lost,Lost,S021
+D0126,C0057,Enterprise Opportunity 0126,Product 15,221203,Closed Lost,Lost,S036
+D0127,C0139,Enterprise Opportunity 0127,Product 08,62034,Evaluation,Active,S044
+D0128,C0079,Enterprise Opportunity 0128,Product 03,410999,Evaluation,Active,S049
+D0129,C0135,Enterprise Opportunity 0129,Product 18,425211,Closed Lost,Lost,S031
+D0130,C0016,Enterprise Opportunity 0130,Product 07,375336,Closed Lost,Lost,S019
+D0131,C0014,Enterprise Opportunity 0131,Product 18,314126,Closed Lost,Lost,S023
+D0132,C0126,Enterprise Opportunity 0132,Product 21,210240,Closed Won,Won,S009
+D0133,C0017,Enterprise Opportunity 0133,Product 26,278046,Evaluation,Active,S047
+D0134,C0008,Enterprise Opportunity 0134,Product 15,267683,Closed Lost,Lost,S043
+D0135,C0061,Enterprise Opportunity 0135,Product 01,95175,Closed Won,Won,S043
+D0136,C0139,Enterprise Opportunity 0136,Product 09,54679,Closed Won,Won,S017
+D0137,C0104,Enterprise Opportunity 0137,Product 26,137828,Evaluation,Active,S017
+D0138,C0015,Enterprise Opportunity 0138,Product 16,235351,Closed Won,Won,S043
+D0139,C0126,Enterprise Opportunity 0139,Product 19,92751,Closed Won,Won,S028
+D0140,C0127,Enterprise Opportunity 0140,Product 14,66733,Closed Won,Won,S036
+D0141,C0121,Enterprise Opportunity 0141,Product 05,428187,Closed Won,Won,S025
+D0142,C0136,Enterprise Opportunity 0142,Product 27,196873,Closed Won,Won,S023
+D0143,C0036,Enterprise Opportunity 0143,Product 24,298350,Closed Lost,Lost,S032
+D0144,C0147,Enterprise Opportunity 0144,Product 30,269153,Closed Won,Won,S041
+D0145,C0049,Enterprise Opportunity 0145,Product 26,371537,Negotiation,Active,S017
+D0146,C0121,Enterprise Opportunity 0146,Product 09,373808,Negotiation,Active,S041
+D0147,C0087,Enterprise Opportunity 0147,Product 08,158575,Closed Won,Won,S013
+D0148,C0117,Enterprise Opportunity 0148,Product 08,426235,Closed Won,Won,S021
+D0149,C0095,Enterprise Opportunity 0149,Product 28,195057,Closed Lost,Lost,S046
+D0150,C0097,Enterprise Opportunity 0150,Product 17,420075,Closed Won,Won,S048
+D0151,C0093,Enterprise Opportunity 0151,Product 14,211354,Closed Won,Won,S047
+D0152,C0117,Enterprise Opportunity 0152,Product 30,68832,Evaluation,Active,S016
+D0153,C0111,Enterprise Opportunity 0153,Product 19,383607,Proposal,Active,S043
+D0154,C0021,Enterprise Opportunity 0154,Product 28,29628,Closed Lost,Lost,S047
+D0155,C0124,Enterprise Opportunity 0155,Product 30,389591,Closed Won,Won,S049
+D0156,C0081,Enterprise Opportunity 0156,Product 03,35933,Closed Lost,Lost,S002
+D0157,C0049,Enterprise Opportunity 0157,Product 11,115304,Closed Lost,Lost,S038
+D0158,C0078,Enterprise Opportunity 0158,Product 23,307631,Closed Won,Won,S050
+D0159,C0146,Enterprise Opportunity 0159,Product 25,471646,Closed Lost,Lost,S039
+D0160,C0129,Enterprise Opportunity 0160,Product 05,213111,Closed Won,Won,S012
+D0161,C0126,Enterprise Opportunity 0161,Product 10,73517,Closed Won,Won,S039
+D0162,C0070,Enterprise Opportunity 0162,Product 17,127960,Closed Lost,Lost,S006
+D0163,C0118,Enterprise Opportunity 0163,Product 24,449619,Closed Won,Won,S025
+D0164,C0058,Enterprise Opportunity 0164,Product 04,367466,Closed Won,Won,S032
+D0165,C0103,Enterprise Opportunity 0165,Product 19,63691,Proposal,Active,S023
+D0166,C0096,Enterprise Opportunity 0166,Product 09,201675,Evaluation,Active,S035
+D0167,C0038,Enterprise Opportunity 0167,Product 07,143301,Closed Lost,Lost,S013
+D0168,C0040,Enterprise Opportunity 0168,Product 16,101248,Proposal,Active,S031
+D0169,C0010,Enterprise Opportunity 0169,Product 13,425542,Discovery,Active,S033
+D0170,C0021,Enterprise Opportunity 0170,Product 20,314590,Closed Won,Won,S032
+D0171,C0066,Enterprise Opportunity 0171,Product 10,102053,Closed Lost,Lost,S015
+D0172,C0072,Enterprise Opportunity 0172,Product 25,330587,Closed Won,Won,S016
+D0173,C0025,Enterprise Opportunity 0173,Product 03,215580,Closed Won,Won,S013
+D0174,C0063,Enterprise Opportunity 0174,Product 26,44816,Closed Lost,Lost,S024
+D0175,C0091,Enterprise Opportunity 0175,Product 01,233181,Closed Lost,Lost,S030
+D0176,C0035,Enterprise Opportunity 0176,Product 23,104837,Closed Lost,Lost,S019
+D0177,C0051,Enterprise Opportunity 0177,Product 11,133950,Closed Won,Won,S021
+D0178,C0056,Enterprise Opportunity 0178,Product 12,441314,Closed Won,Won,S015
+D0179,C0076,Enterprise Opportunity 0179,Product 01,359468,Negotiation,Active,S011
+D0180,C0055,Enterprise Opportunity 0180,Product 22,80034,Closed Won,Won,S033
+D0181,C0111,Enterprise Opportunity 0181,Product 05,427897,Closed Won,Won,S041
+D0182,C0050,Enterprise Opportunity 0182,Product 20,293539,Closed Won,Won,S015
+D0183,C0066,Enterprise Opportunity 0183,Product 22,439168,Closed Lost,Lost,S044
+D0184,C0057,Enterprise Opportunity 0184,Product 26,377331,Closed Lost,Lost,S029
+D0185,C0028,Enterprise Opportunity 0185,Product 22,179571,Closed Lost,Lost,S009
+D0186,C0103,Enterprise Opportunity 0186,Product 10,274411,Closed Won,Won,S019
+D0187,C0036,Enterprise Opportunity 0187,Product 23,272462,Closed Won,Won,S001
+D0188,C0045,Enterprise Opportunity 0188,Product 25,364171,Proposal,Active,S002
+D0189,C0119,Enterprise Opportunity 0189,Product 10,135477,Closed Lost,Lost,S017
+D0190,C0143,Enterprise Opportunity 0190,Product 04,176547,Closed Lost,Lost,S023
+D0191,C0101,Enterprise Opportunity 0191,Product 27,133726,Closed Lost,Lost,S040
+D0192,C0138,Enterprise Opportunity 0192,Product 05,158629,Closed Lost,Lost,S007
+D0193,C0129,Enterprise Opportunity 0193,Product 18,93208,Closed Won,Won,S042
+D0194,C0073,Enterprise Opportunity 0194,Product 08,32725,Closed Won,Won,S012
+D0195,C0116,Enterprise Opportunity 0195,Product 04,470909,Closed Lost,Lost,S007
+D0196,C0050,Enterprise Opportunity 0196,Product 24,51042,Closed Won,Won,S035
+D0197,C0070,Enterprise Opportunity 0197,Product 05,445674,Evaluation,Active,S039
+D0198,C0081,Enterprise Opportunity 0198,Product 21,16492,Closed Lost,Lost,S031
+D0199,C0145,Enterprise Opportunity 0199,Product 21,392018,Closed Lost,Lost,S006
+D0200,C0128,Enterprise Opportunity 0200,Product 02,174276,Evaluation,Active,S006
+D0201,C0074,Enterprise Opportunity 0201,Product 06,266065,Closed Lost,Lost,S020
+D0202,C0098,Enterprise Opportunity 0202,Product 24,151877,Proposal,Active,S023
+D0203,C0031,Enterprise Opportunity 0203,Product 16,252944,Closed Lost,Lost,S050
+D0204,C0121,Enterprise Opportunity 0204,Product 04,234007,Negotiation,Active,S015
+D0205,C0083,Enterprise Opportunity 0205,Product 30,271926,Closed Won,Won,S010
+D0206,C0080,Enterprise Opportunity 0206,Product 08,205742,Closed Lost,Lost,S048
+D0207,C0115,Enterprise Opportunity 0207,Product 01,275235,Closed Lost,Lost,S008
+D0208,C0095,Enterprise Opportunity 0208,Product 28,415347,Closed Won,Won,S002
+D0209,C0011,Enterprise Opportunity 0209,Product 01,225763,Closed Won,Won,S022
+D0210,C0044,Enterprise Opportunity 0210,Product 17,190266,Evaluation,Active,S021
+D0211,C0027,Enterprise Opportunity 0211,Product 30,78901,Closed Lost,Lost,S031
+D0212,C0111,Enterprise Opportunity 0212,Product 18,189463,Closed Won,Won,S044
+D0213,C0006,Enterprise Opportunity 0213,Product 18,75946,Closed Won,Won,S047
+D0214,C0031,Enterprise Opportunity 0214,Product 12,103513,Closed Won,Won,S015
+D0215,C0090,Enterprise Opportunity 0215,Product 04,476841,Closed Won,Won,S050
+D0216,C0105,Enterprise Opportunity 0216,Product 18,58366,Negotiation,Active,S032
+D0217,C0076,Enterprise Opportunity 0217,Product 27,248784,Closed Lost,Lost,S004
+D0218,C0130,Enterprise Opportunity 0218,Product 03,419635,Closed Won,Won,S047
+D0219,C0138,Enterprise Opportunity 0219,Product 27,477304,Closed Lost,Lost,S007
+D0220,C0020,Enterprise Opportunity 0220,Product 13,86156,Closed Won,Won,S030
+D0221,C0143,Enterprise Opportunity 0221,Product 17,94334,Closed Won,Won,S040
+D0222,C0093,Enterprise Opportunity 0222,Product 05,195709,Closed Lost,Lost,S013
+D0223,C0096,Enterprise Opportunity 0223,Product 19,283892,Closed Lost,Lost,S014
+D0224,C0015,Enterprise Opportunity 0224,Product 06,480506,Discovery,Active,S024
+D0225,C0094,Enterprise Opportunity 0225,Product 09,115742,Closed Lost,Lost,S045
+D0226,C0109,Enterprise Opportunity 0226,Product 22,94731,Closed Lost,Lost,S012
+D0227,C0088,Enterprise Opportunity 0227,Product 02,137794,Closed Lost,Lost,S034
+D0228,C0013,Enterprise Opportunity 0228,Product 14,439044,Negotiation,Active,S023
+D0229,C0079,Enterprise Opportunity 0229,Product 18,29576,Closed Lost,Lost,S006
+D0230,C0141,Enterprise Opportunity 0230,Product 04,199364,Negotiation,Active,S036
+D0231,C0109,Enterprise Opportunity 0231,Product 09,72692,Closed Lost,Lost,S042
+D0232,C0021,Enterprise Opportunity 0232,Product 11,91180,Negotiation,Active,S029
+D0233,C0144,Enterprise Opportunity 0233,Product 20,459671,Closed Won,Won,S009
+D0234,C0144,Enterprise Opportunity 0234,Product 30,15805,Closed Lost,Lost,S008
+D0235,C0026,Enterprise Opportunity 0235,Product 26,170943,Closed Lost,Lost,S022
+D0236,C0121,Enterprise Opportunity 0236,Product 06,458980,Closed Lost,Lost,S026
+D0237,C0062,Enterprise Opportunity 0237,Product 01,309942,Closed Lost,Lost,S028
+D0238,C0090,Enterprise Opportunity 0238,Product 02,49801,Discovery,Active,S013
+D0239,C0067,Enterprise Opportunity 0239,Product 18,240531,Proposal,Active,S026
+D0240,C0118,Enterprise Opportunity 0240,Product 05,485908,Closed Won,Won,S015
+D0241,C0150,Enterprise Opportunity 0241,Product 07,209218,Closed Lost,Lost,S035
+D0242,C0120,Enterprise Opportunity 0242,Product 26,271386,Closed Lost,Lost,S040
+D0243,C0140,Enterprise Opportunity 0243,Product 27,272964,Closed Won,Won,S033
+D0244,C0142,Enterprise Opportunity 0244,Product 26,335316,Closed Won,Won,S001
+D0245,C0014,Enterprise Opportunity 0245,Product 08,105810,Closed Won,Won,S050
+D0246,C0039,Enterprise Opportunity 0246,Product 19,422246,Closed Lost,Lost,S002
+D0247,C0109,Enterprise Opportunity 0247,Product 19,494472,Closed Lost,Lost,S050
+D0248,C0089,Enterprise Opportunity 0248,Product 06,84138,Evaluation,Active,S002
+D0249,C0008,Enterprise Opportunity 0249,Product 17,411879,Closed Lost,Lost,S026
+D0250,C0015,Enterprise Opportunity 0250,Product 16,411201,Discovery,Active,S006
+D0251,C0079,Enterprise Opportunity 0251,Product 12,374683,Closed Won,Won,S005
+D0252,C0093,Enterprise Opportunity 0252,Product 23,194875,Closed Lost,Lost,S035
+D0253,C0026,Enterprise Opportunity 0253,Product 21,242348,Closed Won,Won,S037
+D0254,C0026,Enterprise Opportunity 0254,Product 16,422017,Closed Lost,Lost,S006
+D0255,C0020,Enterprise Opportunity 0255,Product 22,89145,Proposal,Active,S049
+D0256,C0085,Enterprise Opportunity 0256,Product 23,416941,Proposal,Active,S017
+D0257,C0002,Enterprise Opportunity 0257,Product 18,461522,Discovery,Active,S016
+D0258,C0086,Enterprise Opportunity 0258,Product 09,345706,Closed Won,Won,S015
+D0259,C0072,Enterprise Opportunity 0259,Product 23,180572,Closed Won,Won,S024
+D0260,C0070,Enterprise Opportunity 0260,Product 22,286188,Closed Won,Won,S009
+D0261,C0102,Enterprise Opportunity 0261,Product 30,39301,Closed Won,Won,S022
+D0262,C0079,Enterprise Opportunity 0262,Product 05,466924,Closed Lost,Lost,S011
+D0263,C0110,Enterprise Opportunity 0263,Product 13,181065,Closed Lost,Lost,S003
+D0264,C0115,Enterprise Opportunity 0264,Product 28,42692,Closed Lost,Lost,S019
+D0265,C0139,Enterprise Opportunity 0265,Product 16,400311,Discovery,Active,S034
+D0266,C0120,Enterprise Opportunity 0266,Product 29,333915,Closed Lost,Lost,S039
+D0267,C0078,Enterprise Opportunity 0267,Product 01,317013,Proposal,Active,S018
+D0268,C0074,Enterprise Opportunity 0268,Product 02,41236,Closed Won,Won,S017
+D0269,C0036,Enterprise Opportunity 0269,Product 24,379156,Closed Won,Won,S040
+D0270,C0090,Enterprise Opportunity 0270,Product 11,324098,Closed Lost,Lost,S035
+D0271,C0021,Enterprise Opportunity 0271,Product 16,399913,Evaluation,Active,S042
+D0272,C0140,Enterprise Opportunity 0272,Product 13,416255,Closed Won,Won,S046
+D0273,C0127,Enterprise Opportunity 0273,Product 13,117797,Closed Lost,Lost,S042
+D0274,C0018,Enterprise Opportunity 0274,Product 29,117160,Closed Lost,Lost,S047
+D0275,C0118,Enterprise Opportunity 0275,Product 03,463034,Closed Won,Won,S021
+D0276,C0018,Enterprise Opportunity 0276,Product 24,272547,Closed Won,Won,S020
+D0277,C0109,Enterprise Opportunity 0277,Product 27,227424,Discovery,Active,S017
+D0278,C0014,Enterprise Opportunity 0278,Product 20,154292,Closed Lost,Lost,S012
+D0279,C0074,Enterprise Opportunity 0279,Product 12,324921,Closed Won,Won,S038
+D0280,C0099,Enterprise Opportunity 0280,Product 05,380669,Proposal,Active,S036
+D0281,C0110,Enterprise Opportunity 0281,Product 21,16119,Closed Won,Won,S041
+D0282,C0063,Enterprise Opportunity 0282,Product 15,283029,Discovery,Active,S009
+D0283,C0139,Enterprise Opportunity 0283,Product 05,496783,Closed Won,Won,S025
+D0284,C0117,Enterprise Opportunity 0284,Product 11,151110,Closed Lost,Lost,S012
+D0285,C0032,Enterprise Opportunity 0285,Product 29,151234,Closed Won,Won,S045
+D0286,C0101,Enterprise Opportunity 0286,Product 08,440893,Closed Won,Won,S014
+D0287,C0110,Enterprise Opportunity 0287,Product 06,45100,Negotiation,Active,S008
+D0288,C0051,Enterprise Opportunity 0288,Product 21,207797,Closed Won,Won,S029
+D0289,C0111,Enterprise Opportunity 0289,Product 06,237257,Closed Won,Won,S044
+D0290,C0135,Enterprise Opportunity 0290,Product 28,401971,Closed Won,Won,S046
+D0291,C0123,Enterprise Opportunity 0291,Product 26,77579,Closed Lost,Lost,S005
+D0292,C0115,Enterprise Opportunity 0292,Product 30,225518,Proposal,Active,S017
+D0293,C0096,Enterprise Opportunity 0293,Product 28,88878,Evaluation,Active,S008
+D0294,C0041,Enterprise Opportunity 0294,Product 08,397003,Closed Won,Won,S016
+D0295,C0120,Enterprise Opportunity 0295,Product 07,321657,Closed Won,Won,S027
+D0296,C0055,Enterprise Opportunity 0296,Product 11,255917,Closed Won,Won,S015
+D0297,C0080,Enterprise Opportunity 0297,Product 15,205569,Closed Lost,Lost,S004
+D0298,C0048,Enterprise Opportunity 0298,Product 27,89289,Negotiation,Active,S026
+D0299,C0047,Enterprise Opportunity 0299,Product 23,462098,Closed Lost,Lost,S003
+D0300,C0024,Enterprise Opportunity 0300,Product 20,329115,Closed Lost,Lost,S012

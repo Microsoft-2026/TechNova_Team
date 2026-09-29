@@ -1,0 +1,160 @@
+{
+  "deal-outcome": {
+    "modelName": "deal-outcome",
+    "version": "1.0.0",
+    "algorithm": "Calibrated Logistic Regression with L2 Regularization",
+    "trainedAt": "2026-09-28T20:27:11.829991+00:00",
+    "features": [
+      "log_deal_value",
+      "discount_ratio",
+      "industry_win_rate",
+      "product_win_rate",
+      "company_size_tier",
+      "total_objections",
+      "high_severity_objections",
+      "unresolved_objections",
+      "has_competitor",
+      "competitor_preferred",
+      "interaction_count",
+      "inactivity_days",
+      "rep_win_rate"
+    ],
+    "metrics": {
+      "accuracy": 0.6,
+      "precision": 0.6129,
+      "recall": 0.76,
+      "f1": 0.6786,
+      "rocAuc": 0.578,
+      "brierScore": 0.2911,
+      "threshold": 0.5,
+      "sampleCount": 45,
+      "baselineWinRate": 0.52
+    },
+    "datasetVersion": "v1.0-historical-235-closed-deals",
+    "status": "ACTIVE",
+    "notes": "Trained on chronological 150-deal split; evaluated on 45-deal holdout."
+  },
+  "deal-risk": {
+    "modelName": "deal-risk",
+    "version": "1.0.0",
+    "algorithm": "Calibrated Risk Classification Model with Feature Attribution",
+    "trainedAt": "2026-09-28T20:27:11.961167+00:00",
+    "features": [
+      "log_deal_value",
+      "discount_ratio",
+      "industry_win_rate",
+      "product_win_rate",
+      "company_size_tier",
+      "total_objections",
+      "high_severity_objections",
+      "unresolved_objections",
+      "has_competitor",
+      "competitor_preferred",
+      "interaction_count",
+      "inactivity_days",
+      "rep_win_rate"
+    ],
+    "metrics": {
+      "accuracy": 0.6,
+      "precision": 0.5714,
+      "recall": 0.4,
+      "f1": 0.4706,
+      "rocAuc": 0.578,
+      "brierScore": 0.2888,
+      "threshold": 0.5,
+      "sampleCount": 45,
+      "baselineRiskRate": 0.48
+    },
+    "datasetVersion": "v1.0-historical-235-closed-deals",
+    "status": "ACTIVE",
+    "notes": "Outputs calibrated risk probabilities, risk levels, and SHAP-like attribution vectors."
+  },
+  "sales-cycle": {
+    "modelName": "sales-cycle",
+    "version": "1.0.0",
+    "algorithm": "Ridge Linear Regression with Standard Error Prediction Intervals",
+    "trainedAt": "2026-09-28T20:27:12.080814+00:00",
+    "features": [
+      "log_deal_value",
+      "discount_ratio",
+      "industry_win_rate",
+      "product_win_rate",
+      "company_size_tier",
+      "total_objections",
+      "high_severity_objections",
+      "unresolved_objections",
+      "has_competitor",
+      "competitor_preferred",
+      "interaction_count",
+      "inactivity_days",
+      "rep_win_rate"
+    ],
+    "metrics": {
+      "mae": 3.77,
+      "rmse": 4.87,
+      "r2": 0.9417,
+      "sampleCount": 45,
+      "baselineMedianDays": 73.5
+    },
+    "datasetVersion": "v1.0-historical-235-closed-deals",
+    "status": "ACTIVE",
+    "notes": "Predicts expected days to close with 80% confidence interval."
+  },
+  "deal-similarity": {
+    "modelName": "deal-similarity",
+    "version": "1.0.0",
+    "algorithm": "Dual-Signal Hybrid Retrieval (TF-IDF Cosine + Structured Multi-Attribute Proximity)",
+    "trainedAt": "2026-09-28T20:27:12.092677+00:00",
+    "features": [
+      "text_corpus",
+      "industry",
+      "deal_value",
+      "product"
+    ],
+    "metrics": {
+      "precisionAtK": 0.88,
+      "deterministicScore": 1.0,
+      "indexedDeals": 235
+    },
+    "datasetVersion": "v1.0-historical-235-closed-deals",
+    "status": "ACTIVE",
+    "notes": "Completely deterministic mathematical similarity scoring without randomization."
+  },
+  "what-if-simulation": {
+    "modelName": "what-if-simulation",
+    "version": "1.0.0",
+    "algorithm": "Multi-Model Scenario Delta Estimator",
+    "trainedAt": "2026-09-28T20:27:12.092995+00:00",
+    "features": [
+      "discount_percent",
+      "contract_duration_months",
+      "product_package",
+      "deal_value"
+    ],
+    "metrics": {
+      "baselineSupportCount": 235,
+      "status": "ACTIVE"
+    },
+    "datasetVersion": "v1.0-historical-235-closed-deals",
+    "status": "ACTIVE",
+    "notes": "Couples Outcome, Risk, and Cycle models to project scenario deltas without arbitrary scaling."
+  },
+  "pipeline-forecasting": {
+    "modelName": "pipeline-forecasting",
+    "version": "1.0.0",
+    "algorithm": "Probability-Weighted Pipeline Forecast with Confidence Bands",
+    "trainedAt": "2026-09-28T20:27:12.093216+00:00",
+    "features": [
+      "active_deals",
+      "win_probability",
+      "deal_value"
+    ],
+    "metrics": {
+      "activeDealsEvaluated": 65,
+      "status": "ACTIVE"
+    },
+    "datasetVersion": "v1.0-active-65-deals",
+    "status": "ACTIVE",
+    "notes": "Produces conservative, expected, and optimistic forecast bands."
+  }
+}

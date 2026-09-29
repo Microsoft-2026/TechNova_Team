@@ -1,0 +1,301 @@
+competitor_id,deal_id,competitor_name,category,strength,weakness,client_reason,competitor_status
+CP00001,D0172,Competitor B,Analytics,Brand recognition,Security gap,Existing relationship,Rejected
+CP00002,D0235,Competitor B,Analytics,Strong integrations,Security gap,Integration,Preferred
+CP00003,D0072,Competitor B,Cloud Platform,Faster deployment,Higher implementation cost,Security,Shortlisted
+CP00004,D0096,Competitor B,CRM,Lower price,Security gap,Existing relationship,Preferred
+CP00005,D0156,Competitor D,Enterprise Software,Faster deployment,Complex licensing,Integration,Shortlisted
+CP00006,D0194,Competitor E,Enterprise Software,Feature breadth,Complex licensing,Feature match,Mentioned
+CP00007,D0155,Competitor E,Cloud Platform,Lower price,Security gap,Integration,Preferred
+CP00008,D0060,Competitor E,Cloud Platform,Strong integrations,Higher implementation cost,Existing relationship,Preferred
+CP00009,D0248,Competitor D,Enterprise Software,Strong integrations,Complex licensing,Pricing,Rejected
+CP00010,D0164,Competitor C,Analytics,Faster deployment,Complex licensing,Pricing,Mentioned
+CP00011,D0131,Competitor D,CRM,Brand recognition,Limited customization,Integration,Shortlisted
+CP00012,D0264,Competitor A,CRM,Strong integrations,Higher implementation cost,Security,Mentioned
+CP00013,D0131,Competitor E,Analytics,Faster deployment,Support limitations,Pricing,Rejected
+CP00014,D0049,Competitor C,Cloud Platform,Lower price,Support limitations,Integration,Rejected
+CP00015,D0296,Competitor A,Enterprise Software,Faster deployment,Security gap,Pricing,Shortlisted
+CP00016,D0115,Competitor C,Cloud Platform,Faster deployment,Support limitations,Feature match,Rejected
+CP00017,D0269,Competitor B,Enterprise Software,Strong integrations,Limited customization,Security,Preferred
+CP00018,D0156,Competitor B,Analytics,Lower price,Limited customization,Pricing,Shortlisted
+CP00019,D0073,Competitor A,Enterprise Software,Faster deployment,Security gap,Integration,Shortlisted
+CP00020,D0113,Competitor A,Enterprise Software,Faster deployment,Security gap,Security,Preferred
+CP00021,D0274,Competitor B,Enterprise Software,Strong integrations,Security gap,Integration,Mentioned
+CP00022,D0284,Competitor B,Cloud Platform,Lower price,Support limitations,Integration,Mentioned
+CP00023,D0042,Competitor E,Analytics,Strong integrations,Higher implementation cost,Integration,Rejected
+CP00024,D0297,Competitor B,Analytics,Lower price,Higher implementation cost,Feature match,Mentioned
+CP00025,D0257,Competitor B,Enterprise Software,Feature breadth,Security gap,Feature match,Mentioned
+CP00026,D0195,Competitor E,Cloud Platform,Brand recognition,Support limitations,Feature match,Rejected
+CP00027,D0055,Competitor E,Cloud Platform,Strong integrations,Limited customization,Pricing,Rejected
+CP00028,D0176,Competitor A,CRM,Feature breadth,Higher implementation cost,Security,Rejected
+CP00029,D0128,Competitor A,Cloud Platform,Feature breadth,Complex licensing,Pricing,Mentioned
+CP00030,D0038,Competitor A,Enterprise Software,Lower price,Support limitations,Existing relationship,Rejected
+CP00031,D0296,Competitor C,CRM,Brand recognition,Complex licensing,Existing relationship,Shortlisted
+CP00032,D0182,Competitor C,Enterprise Software,Faster deployment,Support limitations,Existing relationship,Mentioned
+CP00033,D0030,Competitor B,Enterprise Software,Feature breadth,Support limitations,Existing relationship,Rejected
+CP00034,D0103,Competitor A,Cloud Platform,Faster deployment,Complex licensing,Feature match,Shortlisted
+CP00035,D0252,Competitor B,CRM,Faster deployment,Support limitations,Pricing,Preferred
+CP00036,D0133,Competitor D,Analytics,Lower price,Limited customization,Integration,Mentioned
+CP00037,D0149,Competitor B,Cloud Platform,Strong integrations,Support limitations,Existing relationship,Mentioned
+CP00038,D0043,Competitor A,Cloud Platform,Brand recognition,Security gap,Existing relationship,Rejected
+CP00039,D0034,Competitor D,CRM,Brand recognition,Higher implementation cost,Existing relationship,Preferred
+CP00040,D0294,Competitor D,CRM,Feature breadth,Support limitations,Feature match,Rejected
+CP00041,D0286,Competitor C,Enterprise Software,Feature breadth,Complex licensing,Security,Mentioned
+CP00042,D0029,Competitor E,Cloud Platform,Feature breadth,Support limitations,Feature match,Rejected
+CP00043,D0165,Competitor E,Cloud Platform,Lower price,Higher implementation cost,Existing relationship,Rejected
+CP00044,D0205,Competitor A,Analytics,Feature breadth,Limited customization,Integration,Rejected
+CP00045,D0265,Competitor E,CRM,Feature breadth,Support limitations,Feature match,Mentioned
+CP00046,D0168,Competitor A,Cloud Platform,Feature breadth,Security gap,Security,Mentioned
+CP00047,D0261,Competitor C,CRM,Brand recognition,Higher implementation cost,Security,Preferred
+CP00048,D0037,Competitor E,CRM,Lower price,Support limitations,Pricing,Mentioned
+CP00049,D0005,Competitor E,Cloud Platform,Lower price,Security gap,Security,Mentioned
+CP00050,D0140,Competitor A,CRM,Feature breadth,Complex licensing,Integration,Rejected
+CP00051,D0080,Competitor A,Cloud Platform,Faster deployment,Complex licensing,Feature match,Preferred
+CP00052,D0227,Competitor B,Enterprise Software,Faster deployment,Higher implementation cost,Integration,Rejected
+CP00053,D0102,Competitor B,CRM,Brand recognition,Limited customization,Pricing,Rejected
+CP00054,D0123,Competitor B,CRM,Brand recognition,Security gap,Pricing,Mentioned
+CP00055,D0161,Competitor C,CRM,Lower price,Higher implementation cost,Integration,Rejected
+CP00056,D0289,Competitor B,Cloud Platform,Brand recognition,Higher implementation cost,Integration,Mentioned
+CP00057,D0022,Competitor C,CRM,Lower price,Limited customization,Security,Shortlisted
+CP00058,D0166,Competitor E,Cloud Platform,Feature breadth,Security gap,Security,Shortlisted
+CP00059,D0117,Competitor C,Enterprise Software,Feature breadth,Limited customization,Feature match,Mentioned
+CP00060,D0011,Competitor B,CRM,Lower price,Higher implementation cost,Existing relationship,Preferred
+CP00061,D0245,Competitor C,CRM,Faster deployment,Support limitations,Existing relationship,Mentioned
+CP00062,D0275,Competitor D,Analytics,Feature breadth,Limited customization,Pricing,Rejected
+CP00063,D0052,Competitor E,Enterprise Software,Strong integrations,Security gap,Existing relationship,Rejected
+CP00064,D0228,Competitor E,CRM,Brand recognition,Security gap,Pricing,Preferred
+CP00065,D0211,Competitor B,Analytics,Lower price,Support limitations,Pricing,Mentioned
+CP00066,D0212,Competitor E,CRM,Faster deployment,Limited customization,Pricing,Preferred
+CP00067,D0139,Competitor E,Cloud Platform,Lower price,Limited customization,Pricing,Preferred
+CP00068,D0097,Competitor A,CRM,Faster deployment,Limited customization,Pricing,Shortlisted
+CP00069,D0022,Competitor C,Cloud Platform,Feature breadth,Security gap,Integration,Shortlisted
+CP00070,D0011,Competitor A,Enterprise Software,Faster deployment,Security gap,Integration,Shortlisted
+CP00071,D0054,Competitor C,Cloud Platform,Strong integrations,Security gap,Existing relationship,Rejected
+CP00072,D0159,Competitor A,CRM,Faster deployment,Complex licensing,Feature match,Mentioned
+CP00073,D0043,Competitor B,Enterprise Software,Brand recognition,Higher implementation cost,Pricing,Preferred
+CP00074,D0206,Competitor C,Analytics,Strong integrations,Limited customization,Integration,Shortlisted
+CP00075,D0186,Competitor B,Enterprise Software,Strong integrations,Higher implementation cost,Security,Preferred
+CP00076,D0104,Competitor A,Enterprise Software,Faster deployment,Security gap,Security,Mentioned
+CP00077,D0027,Competitor B,Analytics,Brand recognition,Security gap,Existing relationship,Rejected
+CP00078,D0156,Competitor C,Cloud Platform,Brand recognition,Support limitations,Pricing,Shortlisted
+CP00079,D0247,Competitor D,CRM,Feature breadth,Limited customization,Security,Rejected
+CP00080,D0119,Competitor A,Analytics,Brand recognition,Security gap,Existing relationship,Mentioned
+CP00081,D0242,Competitor C,Enterprise Software,Brand recognition,Complex licensing,Feature match,Preferred
+CP00082,D0086,Competitor A,Enterprise Software,Strong integrations,Higher implementation cost,Feature match,Preferred
+CP00083,D0025,Competitor A,Cloud Platform,Lower price,Complex licensing,Pricing,Rejected
+CP00084,D0195,Competitor A,Enterprise Software,Faster deployment,Security gap,Integration,Mentioned
+CP00085,D0267,Competitor D,CRM,Brand recognition,Complex licensing,Pricing,Preferred
+CP00086,D0266,Competitor E,Analytics,Faster deployment,Security gap,Integration,Mentioned
+CP00087,D0288,Competitor D,Enterprise Software,Brand recognition,Limited customization,Integration,Shortlisted
+CP00088,D0033,Competitor B,Cloud Platform,Brand recognition,Security gap,Pricing,Mentioned
+CP00089,D0014,Competitor E,Analytics,Brand recognition,Limited customization,Security,Mentioned
+CP00090,D0171,Competitor C,CRM,Faster deployment,Higher implementation cost,Pricing,Rejected
+CP00091,D0286,Competitor C,Cloud Platform,Lower price,Complex licensing,Integration,Preferred
+CP00092,D0300,Competitor D,Analytics,Brand recognition,Complex licensing,Existing relationship,Rejected
+CP00093,D0084,Competitor D,Analytics,Lower price,Support limitations,Pricing,Preferred
+CP00094,D0113,Competitor C,Enterprise Software,Faster deployment,Higher implementation cost,Security,Preferred
+CP00095,D0200,Competitor C,Enterprise Software,Brand recognition,Higher implementation cost,Security,Mentioned
+CP00096,D0275,Competitor B,Enterprise Software,Faster deployment,Higher implementation cost,Integration,Rejected
+CP00097,D0053,Competitor D,Analytics,Strong integrations,Support limitations,Existing relationship,Mentioned
+CP00098,D0293,Competitor D,Cloud Platform,Lower price,Support limitations,Integration,Mentioned
+CP00099,D0246,Competitor C,Cloud Platform,Feature breadth,Limited customization,Security,Preferred
+CP00100,D0021,Competitor D,Analytics,Lower price,Security gap,Existing relationship,Preferred
+CP00101,D0253,Competitor A,Enterprise Software,Strong integrations,Security gap,Feature match,Mentioned
+CP00102,D0193,Competitor C,Analytics,Strong integrations,Security gap,Feature match,Preferred
+CP00103,D0294,Competitor E,Analytics,Strong integrations,Complex licensing,Security,Preferred
+CP00104,D0063,Competitor D,Analytics,Lower price,Security gap,Security,Shortlisted
+CP00105,D0298,Competitor D,Analytics,Feature breadth,Security gap,Pricing,Preferred
+CP00106,D0015,Competitor E,Analytics,Feature breadth,Higher implementation cost,Existing relationship,Preferred
+CP00107,D0023,Competitor D,Analytics,Strong integrations,Support limitations,Pricing,Shortlisted
+CP00108,D0135,Competitor D,CRM,Strong integrations,Support limitations,Feature match,Mentioned
+CP00109,D0198,Competitor C,Enterprise Software,Lower price,Complex licensing,Security,Shortlisted
+CP00110,D0051,Competitor E,Enterprise Software,Feature breadth,Support limitations,Security,Rejected
+CP00111,D0082,Competitor D,Cloud Platform,Faster deployment,Security gap,Pricing,Shortlisted
+CP00112,D0117,Competitor C,CRM,Brand recognition,Support limitations,Security,Preferred
+CP00113,D0038,Competitor A,CRM,Brand recognition,Limited customization,Pricing,Shortlisted
+CP00114,D0053,Competitor E,CRM,Feature breadth,Complex licensing,Pricing,Preferred
+CP00115,D0045,Competitor B,Enterprise Software,Faster deployment,Security gap,Integration,Preferred
+CP00116,D0287,Competitor B,Cloud Platform,Faster deployment,Higher implementation cost,Pricing,Shortlisted
+CP00117,D0281,Competitor A,Enterprise Software,Lower price,Limited customization,Feature match,Preferred
+CP00118,D0189,Competitor B,Enterprise Software,Brand recognition,Complex licensing,Pricing,Rejected
+CP00119,D0206,Competitor A,CRM,Faster deployment,Higher implementation cost,Existing relationship,Rejected
+CP00120,D0042,Competitor A,CRM,Feature breadth,Limited customization,Existing relationship,Rejected
+CP00121,D0016,Competitor A,Enterprise Software,Faster deployment,Security gap,Integration,Mentioned
+CP00122,D0114,Competitor B,CRM,Faster deployment,Limited customization,Integration,Rejected
+CP00123,D0296,Competitor D,Cloud Platform,Lower price,Higher implementation cost,Security,Preferred
+CP00124,D0144,Competitor E,CRM,Feature breadth,Complex licensing,Existing relationship,Shortlisted
+CP00125,D0243,Competitor B,Cloud Platform,Brand recognition,Limited customization,Pricing,Shortlisted
+CP00126,D0111,Competitor C,CRM,Strong integrations,Security gap,Integration,Mentioned
+CP00127,D0093,Competitor E,Enterprise Software,Feature breadth,Security gap,Existing relationship,Rejected
+CP00128,D0244,Competitor D,Enterprise Software,Lower price,Higher implementation cost,Feature match,Rejected
+CP00129,D0142,Competitor E,Cloud Platform,Brand recognition,Higher implementation cost,Existing relationship,Mentioned
+CP00130,D0220,Competitor C,CRM,Brand recognition,Support limitations,Feature match,Preferred
+CP00131,D0218,Competitor A,Cloud Platform,Strong integrations,Support limitations,Feature match,Preferred
+CP00132,D0219,Competitor A,Cloud Platform,Feature breadth,Complex licensing,Existing relationship,Mentioned
+CP00133,D0203,Competitor D,Enterprise Software,Faster deployment,Higher implementation cost,Security,Preferred
+CP00134,D0243,Competitor A,CRM,Faster deployment,Support limitations,Pricing,Rejected
+CP00135,D0139,Competitor C,Analytics,Feature breadth,Security gap,Integration,Shortlisted
+CP00136,D0091,Competitor B,Enterprise Software,Strong integrations,Limited customization,Pricing,Preferred
+CP00137,D0154,Competitor E,Cloud Platform,Faster deployment,Complex licensing,Pricing,Rejected
+CP00138,D0098,Competitor E,Enterprise Software,Faster deployment,Complex licensing,Security,Shortlisted
+CP00139,D0013,Competitor C,Cloud Platform,Faster deployment,Limited customization,Pricing,Mentioned
+CP00140,D0109,Competitor C,Cloud Platform,Faster deployment,Higher implementation cost,Security,Shortlisted
+CP00141,D0151,Competitor B,Analytics,Faster deployment,Security gap,Security,Mentioned
+CP00142,D0157,Competitor D,Cloud Platform,Feature breadth,Complex licensing,Existing relationship,Shortlisted
+CP00143,D0103,Competitor B,Cloud Platform,Feature breadth,Limited customization,Existing relationship,Preferred
+CP00144,D0218,Competitor D,Analytics,Feature breadth,Complex licensing,Integration,Mentioned
+CP00145,D0086,Competitor E,Analytics,Feature breadth,Higher implementation cost,Security,Preferred
+CP00146,D0195,Competitor A,CRM,Strong integrations,Higher implementation cost,Security,Rejected
+CP00147,D0081,Competitor B,CRM,Faster deployment,Higher implementation cost,Pricing,Shortlisted
+CP00148,D0296,Competitor B,Cloud Platform,Feature breadth,Security gap,Existing relationship,Rejected
+CP00149,D0195,Competitor E,Enterprise Software,Feature breadth,Higher implementation cost,Pricing,Shortlisted
+CP00150,D0168,Competitor D,CRM,Feature breadth,Support limitations,Feature match,Preferred
+CP00151,D0129,Competitor A,Analytics,Lower price,Limited customization,Security,Mentioned
+CP00152,D0227,Competitor B,CRM,Faster deployment,Limited customization,Existing relationship,Shortlisted
+CP00153,D0128,Competitor D,CRM,Brand recognition,Security gap,Integration,Rejected
+CP00154,D0241,Competitor E,Analytics,Faster deployment,Higher implementation cost,Integration,Preferred
+CP00155,D0048,Competitor C,CRM,Lower price,Security gap,Pricing,Preferred
+CP00156,D0247,Competitor A,Cloud Platform,Strong integrations,Security gap,Integration,Preferred
+CP00157,D0289,Competitor A,Enterprise Software,Faster deployment,Complex licensing,Integration,Mentioned
+CP00158,D0073,Competitor A,CRM,Feature breadth,Limited customization,Pricing,Rejected
+CP00159,D0068,Competitor A,Cloud Platform,Feature breadth,Complex licensing,Feature match,Shortlisted
+CP00160,D0287,Competitor C,CRM,Brand recognition,Complex licensing,Integration,Mentioned
+CP00161,D0122,Competitor B,Analytics,Brand recognition,Support limitations,Pricing,Rejected
+CP00162,D0209,Competitor B,Analytics,Brand recognition,Limited customization,Pricing,Mentioned
+CP00163,D0058,Competitor D,CRM,Lower price,Limited customization,Existing relationship,Rejected
+CP00164,D0129,Competitor C,Analytics,Brand recognition,Support limitations,Integration,Shortlisted
+CP00165,D0211,Competitor D,Enterprise Software,Brand recognition,Limited customization,Feature match,Mentioned
+CP00166,D0269,Competitor C,Analytics,Strong integrations,Limited customization,Security,Mentioned
+CP00167,D0131,Competitor B,Enterprise Software,Strong integrations,Support limitations,Security,Preferred
+CP00168,D0023,Competitor E,Analytics,Feature breadth,Support limitations,Pricing,Preferred
+CP00169,D0125,Competitor C,Enterprise Software,Feature breadth,Complex licensing,Feature match,Mentioned
+CP00170,D0193,Competitor E,Cloud Platform,Brand recognition,Complex licensing,Security,Shortlisted
+CP00171,D0263,Competitor A,Analytics,Feature breadth,Higher implementation cost,Existing relationship,Mentioned
+CP00172,D0251,Competitor E,Enterprise Software,Strong integrations,Higher implementation cost,Feature match,Preferred
+CP00173,D0228,Competitor D,Enterprise Software,Brand recognition,Limited customization,Feature match,Rejected
+CP00174,D0050,Competitor B,Enterprise Software,Brand recognition,Higher implementation cost,Existing relationship,Shortlisted
+CP00175,D0156,Competitor D,Cloud Platform,Strong integrations,Support limitations,Integration,Rejected
+CP00176,D0173,Competitor D,Analytics,Lower price,Complex licensing,Existing relationship,Shortlisted
+CP00177,D0141,Competitor E,CRM,Brand recognition,Complex licensing,Integration,Mentioned
+CP00178,D0277,Competitor B,CRM,Faster deployment,Complex licensing,Security,Shortlisted
+CP00179,D0288,Competitor E,Enterprise Software,Brand recognition,Support limitations,Existing relationship,Rejected
+CP00180,D0064,Competitor D,Enterprise Software,Faster deployment,Security gap,Security,Rejected
+CP00181,D0287,Competitor B,Cloud Platform,Faster deployment,Security gap,Existing relationship,Preferred
+CP00182,D0254,Competitor B,Analytics,Feature breadth,Higher implementation cost,Security,Shortlisted
+CP00183,D0212,Competitor B,CRM,Faster deployment,Support limitations,Integration,Rejected
+CP00184,D0115,Competitor C,Enterprise Software,Brand recognition,Support limitations,Security,Preferred
+CP00185,D0229,Competitor E,CRM,Feature breadth,Higher implementation cost,Pricing,Rejected
+CP00186,D0176,Competitor E,CRM,Lower price,Support limitations,Pricing,Preferred
+CP00187,D0270,Competitor A,Enterprise Software,Strong integrations,Support limitations,Integration,Preferred
+CP00188,D0214,Competitor A,Analytics,Brand recognition,Limited customization,Integration,Rejected
+CP00189,D0290,Competitor A,Analytics,Lower price,Security gap,Existing relationship,Rejected
+CP00190,D0126,Competitor D,Cloud Platform,Feature breadth,Complex licensing,Feature match,Preferred
+CP00191,D0025,Competitor B,CRM,Faster deployment,Security gap,Integration,Mentioned
+CP00192,D0148,Competitor D,CRM,Lower price,Complex licensing,Existing relationship,Shortlisted
+CP00193,D0300,Competitor D,Cloud Platform,Faster deployment,Support limitations,Feature match,Preferred
+CP00194,D0197,Competitor A,CRM,Lower price,Limited customization,Feature match,Preferred
+CP00195,D0211,Competitor D,Analytics,Lower price,Higher implementation cost,Feature match,Shortlisted
+CP00196,D0188,Competitor D,Analytics,Feature breadth,Complex licensing,Feature match,Mentioned
+CP00197,D0178,Competitor E,Cloud Platform,Feature breadth,Limited customization,Feature match,Rejected
+CP00198,D0019,Competitor D,CRM,Faster deployment,Support limitations,Security,Rejected
+CP00199,D0124,Competitor B,Analytics,Brand recognition,Limited customization,Pricing,Mentioned
+CP00200,D0026,Competitor E,Enterprise Software,Brand recognition,Higher implementation cost,Feature match,Shortlisted
+CP00201,D0101,Competitor B,Cloud Platform,Lower price,Limited customization,Pricing,Shortlisted
+CP00202,D0216,Competitor E,Enterprise Software,Feature breadth,Limited customization,Security,Rejected
+CP00203,D0242,Competitor B,Analytics,Faster deployment,Limited customization,Integration,Rejected
+CP00204,D0068,Competitor E,Enterprise Software,Brand recognition,Support limitations,Security,Shortlisted
+CP00205,D0197,Competitor D,CRM,Faster deployment,Security gap,Feature match,Shortlisted
+CP00206,D0068,Competitor C,Enterprise Software,Strong integrations,Higher implementation cost,Existing relationship,Shortlisted
+CP00207,D0061,Competitor B,Analytics,Faster deployment,Complex licensing,Pricing,Mentioned
+CP00208,D0288,Competitor A,CRM,Brand recognition,Higher implementation cost,Existing relationship,Shortlisted
+CP00209,D0183,Competitor E,Analytics,Lower price,Security gap,Feature match,Shortlisted
+CP00210,D0060,Competitor E,CRM,Strong integrations,Support limitations,Existing relationship,Mentioned
+CP00211,D0043,Competitor C,Enterprise Software,Brand recognition,Security gap,Existing relationship,Preferred
+CP00212,D0015,Competitor E,Analytics,Lower price,Complex licensing,Security,Rejected
+CP00213,D0150,Competitor D,Analytics,Faster deployment,Complex licensing,Existing relationship,Shortlisted
+CP00214,D0031,Competitor B,Analytics,Strong integrations,Support limitations,Integration,Shortlisted
+CP00215,D0176,Competitor E,CRM,Feature breadth,Complex licensing,Pricing,Shortlisted
+CP00216,D0131,Competitor D,Analytics,Faster deployment,Security gap,Integration,Mentioned
+CP00217,D0191,Competitor C,Analytics,Brand recognition,Higher implementation cost,Security,Preferred
+CP00218,D0063,Competitor A,Enterprise Software,Feature breadth,Complex licensing,Security,Shortlisted
+CP00219,D0044,Competitor D,Enterprise Software,Brand recognition,Limited customization,Integration,Rejected
+CP00220,D0031,Competitor B,CRM,Feature breadth,Support limitations,Pricing,Shortlisted
+CP00221,D0029,Competitor B,Enterprise Software,Lower price,Limited customization,Feature match,Rejected
+CP00222,D0022,Competitor D,Analytics,Strong integrations,Security gap,Pricing,Shortlisted
+CP00223,D0078,Competitor E,Enterprise Software,Feature breadth,Complex licensing,Security,Mentioned
+CP00224,D0241,Competitor A,Enterprise Software,Lower price,Complex licensing,Feature match,Shortlisted
+CP00225,D0183,Competitor E,Enterprise Software,Faster deployment,Limited customization,Feature match,Rejected
+CP00226,D0076,Competitor B,CRM,Feature breadth,Higher implementation cost,Security,Shortlisted
+CP00227,D0280,Competitor C,Enterprise Software,Lower price,Higher implementation cost,Existing relationship,Rejected
+CP00228,D0229,Competitor E,Analytics,Lower price,Limited customization,Security,Preferred
+CP00229,D0234,Competitor B,Enterprise Software,Lower price,Support limitations,Integration,Preferred
+CP00230,D0270,Competitor B,Cloud Platform,Feature breadth,Limited customization,Feature match,Rejected
+CP00231,D0224,Competitor E,Analytics,Brand recognition,Security gap,Integration,Preferred
+CP00232,D0288,Competitor B,Enterprise Software,Brand recognition,Support limitations,Existing relationship,Preferred
+CP00233,D0100,Competitor E,CRM,Brand recognition,Support limitations,Feature match,Mentioned
+CP00234,D0257,Competitor B,Enterprise Software,Brand recognition,Complex licensing,Integration,Preferred
+CP00235,D0034,Competitor D,Cloud Platform,Strong integrations,Security gap,Existing relationship,Preferred
+CP00236,D0091,Competitor C,Analytics,Lower price,Higher implementation cost,Pricing,Mentioned
+CP00237,D0268,Competitor E,Cloud Platform,Lower price,Support limitations,Feature match,Preferred
+CP00238,D0041,Competitor C,CRM,Feature breadth,Complex licensing,Integration,Preferred
+CP00239,D0151,Competitor C,Enterprise Software,Feature breadth,Complex licensing,Existing relationship,Shortlisted
+CP00240,D0103,Competitor C,Enterprise Software,Strong integrations,Security gap,Existing relationship,Mentioned
+CP00241,D0031,Competitor B,CRM,Strong integrations,Limited customization,Security,Mentioned
+CP00242,D0071,Competitor C,Cloud Platform,Brand recognition,Support limitations,Pricing,Mentioned
+CP00243,D0161,Competitor C,CRM,Feature breadth,Complex licensing,Pricing,Mentioned
+CP00244,D0190,Competitor D,Cloud Platform,Brand recognition,Limited customization,Existing relationship,Mentioned
+CP00245,D0203,Competitor A,CRM,Brand recognition,Support limitations,Integration,Preferred
+CP00246,D0040,Competitor C,Enterprise Software,Lower price,Support limitations,Pricing,Shortlisted
+CP00247,D0096,Competitor C,CRM,Brand recognition,Higher implementation cost,Security,Mentioned
+CP00248,D0032,Competitor D,Enterprise Software,Feature breadth,Higher implementation cost,Integration,Mentioned
+CP00249,D0003,Competitor D,Analytics,Brand recognition,Complex licensing,Pricing,Preferred
+CP00250,D0118,Competitor C,Enterprise Software,Faster deployment,Support limitations,Pricing,Rejected
+CP00251,D0187,Competitor A,Analytics,Feature breadth,Complex licensing,Integration,Rejected
+CP00252,D0112,Competitor B,CRM,Faster deployment,Support limitations,Pricing,Rejected
+CP00253,D0013,Competitor B,CRM,Brand recognition,Complex licensing,Security,Shortlisted
+CP00254,D0066,Competitor B,Analytics,Brand recognition,Security gap,Security,Preferred
+CP00255,D0130,Competitor D,Analytics,Brand recognition,Complex licensing,Feature match,Mentioned
+CP00256,D0107,Competitor C,Cloud Platform,Strong integrations,Higher implementation cost,Feature match,Mentioned
+CP00257,D0248,Competitor D,CRM,Brand recognition,Higher implementation cost,Existing relationship,Mentioned
+CP00258,D0180,Competitor A,Cloud Platform,Lower price,Limited customization,Existing relationship,Mentioned
+CP00259,D0300,Competitor E,Cloud Platform,Brand recognition,Higher implementation cost,Integration,Shortlisted
+CP00260,D0053,Competitor C,Cloud Platform,Lower price,Limited customization,Existing relationship,Mentioned
+CP00261,D0112,Competitor B,Cloud Platform,Brand recognition,Limited customization,Integration,Rejected
+CP00262,D0027,Competitor B,Cloud Platform,Faster deployment,Higher implementation cost,Feature match,Preferred
+CP00263,D0007,Competitor E,CRM,Brand recognition,Complex licensing,Feature match,Preferred
+CP00264,D0278,Competitor D,Analytics,Feature breadth,Higher implementation cost,Feature match,Mentioned
+CP00265,D0148,Competitor A,Cloud Platform,Brand recognition,Complex licensing,Security,Rejected
+CP00266,D0198,Competitor E,CRM,Faster deployment,Complex licensing,Pricing,Mentioned
+CP00267,D0083,Competitor A,Cloud Platform,Strong integrations,Complex licensing,Integration,Rejected
+CP00268,D0016,Competitor B,Analytics,Faster deployment,Support limitations,Security,Preferred
+CP00269,D0268,Competitor D,CRM,Feature breadth,Complex licensing,Integration,Mentioned
+CP00270,D0198,Competitor C,Cloud Platform,Faster deployment,Support limitations,Integration,Mentioned
+CP00271,D0214,Competitor C,Enterprise Software,Lower price,Security gap,Pricing,Preferred
+CP00272,D0161,Competitor E,Analytics,Faster deployment,Complex licensing,Security,Rejected
+CP00273,D0122,Competitor D,Cloud Platform,Faster deployment,Limited customization,Existing relationship,Shortlisted
+CP00274,D0127,Competitor E,Enterprise Software,Strong integrations,Limited customization,Security,Mentioned
+CP00275,D0229,Competitor B,CRM,Feature breadth,Limited customization,Integration,Shortlisted
+CP00276,D0069,Competitor E,Analytics,Brand recognition,Security gap,Existing relationship,Shortlisted
+CP00277,D0103,Competitor B,Enterprise Software,Lower price,Support limitations,Pricing,Shortlisted
+CP00278,D0093,Competitor E,Cloud Platform,Brand recognition,Higher implementation cost,Integration,Rejected
+CP00279,D0157,Competitor C,Analytics,Feature breadth,Security gap,Existing relationship,Shortlisted
+CP00280,D0291,Competitor C,CRM,Strong integrations,Limited customization,Existing relationship,Mentioned
+CP00281,D0277,Competitor A,CRM,Strong integrations,Limited customization,Existing relationship,Preferred
+CP00282,D0164,Competitor E,Enterprise Software,Brand recognition,Support limitations,Integration,Preferred
+CP00283,D0061,Competitor B,Enterprise Software,Faster deployment,Complex licensing,Existing relationship,Preferred
+CP00284,D0283,Competitor C,Analytics,Lower price,Security gap,Feature match,Preferred
+CP00285,D0094,Competitor A,Cloud Platform,Faster deployment,Security gap,Security,Shortlisted
+CP00286,D0107,Competitor E,CRM,Faster deployment,Security gap,Security,Shortlisted
+CP00287,D0266,Competitor B,Enterprise Software,Faster deployment,Higher implementation cost,Pricing,Mentioned
+CP00288,D0079,Competitor D,Analytics,Lower price,Support limitations,Existing relationship,Mentioned
+CP00289,D0139,Competitor D,Analytics,Brand recognition,Complex licensing,Security,Preferred
+CP00290,D0276,Competitor C,Enterprise Software,Strong integrations,Security gap,Integration,Shortlisted
+CP00291,D0096,Competitor A,Analytics,Faster deployment,Support limitations,Feature match,Preferred
+CP00292,D0188,Competitor B,Enterprise Software,Feature breadth,Limited customization,Existing relationship,Rejected
+CP00293,D0012,Competitor D,Enterprise Software,Feature breadth,Security gap,Integration,Preferred
+CP00294,D0299,Competitor C,CRM,Lower price,Higher implementation cost,Existing relationship,Mentioned
+CP00295,D0126,Competitor C,Analytics,Faster deployment,Higher implementation cost,Existing relationship,Mentioned
+CP00296,D0202,Competitor B,Analytics,Brand recognition,Security gap,Pricing,Mentioned
+CP00297,D0151,Competitor C,Analytics,Lower price,Higher implementation cost,Pricing,Shortlisted
+CP00298,D0131,Competitor A,Enterprise Software,Faster deployment,Support limitations,Security,Mentioned
+CP00299,D0122,Competitor C,CRM,Faster deployment,Limited customization,Integration,Rejected
+CP00300,D0006,Competitor A,Analytics,Brand recognition,Limited customization,Security,Shortlisted

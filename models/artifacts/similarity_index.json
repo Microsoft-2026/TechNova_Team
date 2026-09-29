@@ -1,0 +1,3709 @@
+{
+  "version": "1.0.0",
+  "model_name": "deal-similarity",
+  "historical_deals": [
+    {
+      "id": "D0001",
+      "deal_id": "D0001",
+      "client": "Client Company 145",
+      "industry": "Education",
+      "product": "Product 24",
+      "value": 441007.0,
+      "outcome": "WON",
+      "summary": "Product 24 evaluation across Europe Mid-Market",
+      "objections": [
+        "Contract terms",
+        "Security concerns"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0003",
+      "deal_id": "D0003",
+      "client": "Client Company 075",
+      "industry": "Telecom",
+      "product": "Product 14",
+      "value": 198840.0,
+      "outcome": "LOST",
+      "summary": "Product 14 evaluation across Middle East Enterprise",
+      "objections": [
+        "Implementation timeline"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0004",
+      "deal_id": "D0004",
+      "client": "Client Company 004",
+      "industry": "Manufacturing",
+      "product": "Product 26",
+      "value": 215305.0,
+      "outcome": "WON",
+      "summary": "Product 26 evaluation across Middle East SMB",
+      "objections": [],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0005",
+      "deal_id": "D0005",
+      "client": "Client Company 090",
+      "industry": "Logistics",
+      "product": "Product 15",
+      "value": 265754.0,
+      "outcome": "LOST",
+      "summary": "Product 15 evaluation across India Mid-Market",
+      "objections": [
+        "Contract terms"
+      ],
+      "strategyUsed": "Implementation roadmap",
+      "relevantLessons": "Provide evidence before negotiation"
+    },
+    {
+      "id": "D0006",
+      "deal_id": "D0006",
+      "client": "Client Company 084",
+      "industry": "Logistics",
+      "product": "Product 29",
+      "value": 58054.0,
+      "outcome": "LOST",
+      "summary": "Product 29 evaluation across APAC Enterprise",
+      "objections": [],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0008",
+      "deal_id": "D0008",
+      "client": "Client Company 096",
+      "industry": "Retail",
+      "product": "Product 18",
+      "value": 331596.0,
+      "outcome": "LOST",
+      "summary": "Product 18 evaluation across Middle East SMB",
+      "objections": [
+        "Data migration risk",
+        "Integration complexity"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0009",
+      "deal_id": "D0009",
+      "client": "Client Company 127",
+      "industry": "Banking",
+      "product": "Product 21",
+      "value": 369600.0,
+      "outcome": "LOST",
+      "summary": "Product 21 evaluation across Middle East Mid-Market",
+      "objections": [
+        "Data migration risk"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0010",
+      "deal_id": "D0010",
+      "client": "Client Company 016",
+      "industry": "Logistics",
+      "product": "Product 08",
+      "value": 273962.0,
+      "outcome": "WON",
+      "summary": "Product 08 evaluation across North America Enterprise",
+      "objections": [
+        "Price too high"
+      ],
+      "strategyUsed": "Security documentation",
+      "relevantLessons": "Provide evidence before negotiation"
+    },
+    {
+      "id": "D0012",
+      "deal_id": "D0012",
+      "client": "Client Company 022",
+      "industry": "Retail",
+      "product": "Product 21",
+      "value": 475629.0,
+      "outcome": "LOST",
+      "summary": "Product 21 evaluation across India SMB",
+      "objections": [
+        "Support concerns",
+        "Security concerns"
+      ],
+      "strategyUsed": "Implementation roadmap",
+      "relevantLessons": "Validate technical requirements early"
+    },
+    {
+      "id": "D0014",
+      "deal_id": "D0014",
+      "client": "Client Company 063",
+      "industry": "Retail",
+      "product": "Product 09",
+      "value": 230526.0,
+      "outcome": "WON",
+      "summary": "Product 09 evaluation across APAC Enterprise",
+      "objections": [],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0016",
+      "deal_id": "D0016",
+      "client": "Client Company 145",
+      "industry": "Education",
+      "product": "Product 15",
+      "value": 392658.0,
+      "outcome": "LOST",
+      "summary": "Product 15 evaluation across Europe Mid-Market",
+      "objections": [
+        "Compliance requirement"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0017",
+      "deal_id": "D0017",
+      "client": "Client Company 025",
+      "industry": "Logistics",
+      "product": "Product 06",
+      "value": 453427.0,
+      "outcome": "WON",
+      "summary": "Product 06 evaluation across Middle East Enterprise",
+      "objections": [
+        "Contract terms"
+      ],
+      "strategyUsed": "Implementation roadmap",
+      "relevantLessons": "Map competitor strengths to customer priorities"
+    },
+    {
+      "id": "D0018",
+      "deal_id": "D0018",
+      "client": "Client Company 090",
+      "industry": "Logistics",
+      "product": "Product 06",
+      "value": 354252.0,
+      "outcome": "LOST",
+      "summary": "Product 06 evaluation across India Mid-Market",
+      "objections": [
+        "Integration complexity",
+        "Security concerns",
+        "Missing feature",
+        "Missing feature",
+        "Contract terms"
+      ],
+      "strategyUsed": "Technical proof",
+      "relevantLessons": "Understand the real pricing concern"
+    },
+    {
+      "id": "D0019",
+      "deal_id": "D0019",
+      "client": "Client Company 028",
+      "industry": "Logistics",
+      "product": "Product 17",
+      "value": 434802.0,
+      "outcome": "LOST",
+      "summary": "Product 17 evaluation across India SMB",
+      "objections": [
+        "Missing feature"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0020",
+      "deal_id": "D0020",
+      "client": "Client Company 140",
+      "industry": "Manufacturing",
+      "product": "Product 10",
+      "value": 432681.0,
+      "outcome": "WON",
+      "summary": "Product 10 evaluation across APAC Mid-Market",
+      "objections": [],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0021",
+      "deal_id": "D0021",
+      "client": "Client Company 111",
+      "industry": "Retail",
+      "product": "Product 04",
+      "value": 402077.0,
+      "outcome": "LOST",
+      "summary": "Product 04 evaluation across India Enterprise",
+      "objections": [],
+      "strategyUsed": "Technical proof",
+      "relevantLessons": "Address implementation risk explicitly"
+    },
+    {
+      "id": "D0023",
+      "deal_id": "D0023",
+      "client": "Client Company 065",
+      "industry": "Manufacturing",
+      "product": "Product 20",
+      "value": 63433.0,
+      "outcome": "WON",
+      "summary": "Product 20 evaluation across India Enterprise",
+      "objections": [],
+      "strategyUsed": "Technical proof",
+      "relevantLessons": "Provide evidence before negotiation"
+    },
+    {
+      "id": "D0024",
+      "deal_id": "D0024",
+      "client": "Client Company 071",
+      "industry": "Logistics",
+      "product": "Product 10",
+      "value": 16574.0,
+      "outcome": "LOST",
+      "summary": "Product 10 evaluation across APAC SMB",
+      "objections": [],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0025",
+      "deal_id": "D0025",
+      "client": "Client Company 096",
+      "industry": "Retail",
+      "product": "Product 29",
+      "value": 114132.0,
+      "outcome": "LOST",
+      "summary": "Product 29 evaluation across Middle East SMB",
+      "objections": [
+        "Compliance requirement",
+        "Data migration risk",
+        "Contract terms"
+      ],
+      "strategyUsed": "Technical proof",
+      "relevantLessons": "Validate technical requirements early"
+    },
+    {
+      "id": "D0026",
+      "deal_id": "D0026",
+      "client": "Client Company 118",
+      "industry": "Healthcare",
+      "product": "Product 24",
+      "value": 224046.0,
+      "outcome": "WON",
+      "summary": "Product 24 evaluation across India Mid-Market",
+      "objections": [
+        "Compliance requirement"
+      ],
+      "strategyUsed": "Security documentation",
+      "relevantLessons": "Map competitor strengths to customer priorities"
+    },
+    {
+      "id": "D0028",
+      "deal_id": "D0028",
+      "client": "Client Company 003",
+      "industry": "Telecom",
+      "product": "Product 29",
+      "value": 236066.0,
+      "outcome": "LOST",
+      "summary": "Product 29 evaluation across India Enterprise",
+      "objections": [
+        "Security concerns",
+        "Price too high"
+      ],
+      "strategyUsed": "Technical proof",
+      "relevantLessons": "Address implementation risk explicitly"
+    },
+    {
+      "id": "D0029",
+      "deal_id": "D0029",
+      "client": "Client Company 100",
+      "industry": "Healthcare",
+      "product": "Product 13",
+      "value": 26222.0,
+      "outcome": "WON",
+      "summary": "Product 13 evaluation across APAC SMB",
+      "objections": [
+        "Missing feature"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0032",
+      "deal_id": "D0032",
+      "client": "Client Company 125",
+      "industry": "Logistics",
+      "product": "Product 29",
+      "value": 494190.0,
+      "outcome": "WON",
+      "summary": "Product 29 evaluation across Europe Mid-Market",
+      "objections": [
+        "Support concerns",
+        "Security concerns",
+        "Compliance requirement"
+      ],
+      "strategyUsed": "No change",
+      "relevantLessons": "Provide evidence before negotiation"
+    },
+    {
+      "id": "D0034",
+      "deal_id": "D0034",
+      "client": "Client Company 120",
+      "industry": "Banking",
+      "product": "Product 23",
+      "value": 405418.0,
+      "outcome": "WON",
+      "summary": "Product 23 evaluation across Europe Mid-Market",
+      "objections": [
+        "Compliance requirement",
+        "Data migration risk",
+        "Implementation timeline"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0036",
+      "deal_id": "D0036",
+      "client": "Client Company 035",
+      "industry": "Education",
+      "product": "Product 09",
+      "value": 466665.0,
+      "outcome": "LOST",
+      "summary": "Product 09 evaluation across Europe Mid-Market",
+      "objections": [],
+      "strategyUsed": "Implementation roadmap",
+      "relevantLessons": "Provide evidence before negotiation"
+    },
+    {
+      "id": "D0037",
+      "deal_id": "D0037",
+      "client": "Client Company 051",
+      "industry": "Logistics",
+      "product": "Product 02",
+      "value": 445471.0,
+      "outcome": "LOST",
+      "summary": "Product 02 evaluation across Europe Mid-Market",
+      "objections": [
+        "Contract terms"
+      ],
+      "strategyUsed": "Executive engagement",
+      "relevantLessons": "Validate technical requirements early"
+    },
+    {
+      "id": "D0038",
+      "deal_id": "D0038",
+      "client": "Client Company 080",
+      "industry": "Telecom",
+      "product": "Product 02",
+      "value": 319939.0,
+      "outcome": "WON",
+      "summary": "Product 02 evaluation across APAC SMB",
+      "objections": [
+        "Integration complexity"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0040",
+      "deal_id": "D0040",
+      "client": "Client Company 091",
+      "industry": "Manufacturing",
+      "product": "Product 18",
+      "value": 318929.0,
+      "outcome": "WON",
+      "summary": "Product 18 evaluation across North America SMB",
+      "objections": [],
+      "strategyUsed": "Implementation roadmap",
+      "relevantLessons": "Address implementation risk explicitly"
+    },
+    {
+      "id": "D0041",
+      "deal_id": "D0041",
+      "client": "Client Company 140",
+      "industry": "Manufacturing",
+      "product": "Product 02",
+      "value": 169779.0,
+      "outcome": "WON",
+      "summary": "Product 02 evaluation across APAC Mid-Market",
+      "objections": [
+        "Contract terms"
+      ],
+      "strategyUsed": "Implementation roadmap",
+      "relevantLessons": "Map competitor strengths to customer priorities"
+    },
+    {
+      "id": "D0042",
+      "deal_id": "D0042",
+      "client": "Client Company 131",
+      "industry": "IT Services",
+      "product": "Product 30",
+      "value": 183823.0,
+      "outcome": "WON",
+      "summary": "Product 30 evaluation across India SMB",
+      "objections": [
+        "Support concerns"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0043",
+      "deal_id": "D0043",
+      "client": "Client Company 114",
+      "industry": "Manufacturing",
+      "product": "Product 14",
+      "value": 310239.0,
+      "outcome": "LOST",
+      "summary": "Product 14 evaluation across India Enterprise",
+      "objections": [
+        "Missing feature"
+      ],
+      "strategyUsed": "Technical proof",
+      "relevantLessons": "Map competitor strengths to customer priorities"
+    },
+    {
+      "id": "D0044",
+      "deal_id": "D0044",
+      "client": "Client Company 091",
+      "industry": "Manufacturing",
+      "product": "Product 08",
+      "value": 292128.0,
+      "outcome": "WON",
+      "summary": "Product 08 evaluation across North America SMB",
+      "objections": [
+        "Price too high"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0046",
+      "deal_id": "D0046",
+      "client": "Client Company 062",
+      "industry": "Telecom",
+      "product": "Product 24",
+      "value": 201567.0,
+      "outcome": "LOST",
+      "summary": "Product 24 evaluation across Middle East Enterprise",
+      "objections": [
+        "Compliance requirement",
+        "Integration complexity"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0047",
+      "deal_id": "D0047",
+      "client": "Client Company 018",
+      "industry": "Healthcare",
+      "product": "Product 10",
+      "value": 213432.0,
+      "outcome": "WON",
+      "summary": "Product 10 evaluation across North America SMB",
+      "objections": [
+        "Support concerns",
+        "Contract terms",
+        "Contract terms"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0048",
+      "deal_id": "D0048",
+      "client": "Client Company 057",
+      "industry": "IT Services",
+      "product": "Product 02",
+      "value": 19943.0,
+      "outcome": "WON",
+      "summary": "Product 02 evaluation across India Enterprise",
+      "objections": [
+        "Support concerns",
+        "Compliance requirement"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0049",
+      "deal_id": "D0049",
+      "client": "Client Company 139",
+      "industry": "Retail",
+      "product": "Product 02",
+      "value": 306860.0,
+      "outcome": "WON",
+      "summary": "Product 02 evaluation across India Mid-Market",
+      "objections": [
+        "Competitor pricing"
+      ],
+      "strategyUsed": "Executive engagement",
+      "relevantLessons": "Address implementation risk explicitly"
+    },
+    {
+      "id": "D0050",
+      "deal_id": "D0050",
+      "client": "Client Company 064",
+      "industry": "Education",
+      "product": "Product 26",
+      "value": 294255.0,
+      "outcome": "LOST",
+      "summary": "Product 26 evaluation across Middle East Mid-Market",
+      "objections": [],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0052",
+      "deal_id": "D0052",
+      "client": "Client Company 098",
+      "industry": "Telecom",
+      "product": "Product 20",
+      "value": 259575.0,
+      "outcome": "WON",
+      "summary": "Product 20 evaluation across India Mid-Market",
+      "objections": [
+        "Security concerns",
+        "Data migration risk"
+      ],
+      "strategyUsed": "Security documentation",
+      "relevantLessons": "Validate technical requirements early"
+    },
+    {
+      "id": "D0054",
+      "deal_id": "D0054",
+      "client": "Client Company 131",
+      "industry": "IT Services",
+      "product": "Product 24",
+      "value": 47825.0,
+      "outcome": "WON",
+      "summary": "Product 24 evaluation across India SMB",
+      "objections": [
+        "Compliance requirement"
+      ],
+      "strategyUsed": "Executive engagement",
+      "relevantLessons": "Understand the real pricing concern"
+    },
+    {
+      "id": "D0057",
+      "deal_id": "D0057",
+      "client": "Client Company 080",
+      "industry": "Telecom",
+      "product": "Product 21",
+      "value": 197944.0,
+      "outcome": "LOST",
+      "summary": "Product 21 evaluation across APAC SMB",
+      "objections": [
+        "Support concerns"
+      ],
+      "strategyUsed": "Security documentation",
+      "relevantLessons": "Understand the real pricing concern"
+    },
+    {
+      "id": "D0058",
+      "deal_id": "D0058",
+      "client": "Client Company 038",
+      "industry": "Logistics",
+      "product": "Product 14",
+      "value": 190902.0,
+      "outcome": "LOST",
+      "summary": "Product 14 evaluation across APAC Mid-Market",
+      "objections": [],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0060",
+      "deal_id": "D0060",
+      "client": "Client Company 036",
+      "industry": "Banking",
+      "product": "Product 30",
+      "value": 387925.0,
+      "outcome": "WON",
+      "summary": "Product 30 evaluation across Middle East Mid-Market",
+      "objections": [],
+      "strategyUsed": "Customized package",
+      "relevantLessons": "Provide evidence before negotiation"
+    },
+    {
+      "id": "D0061",
+      "deal_id": "D0061",
+      "client": "Client Company 150",
+      "industry": "Banking",
+      "product": "Product 10",
+      "value": 78587.0,
+      "outcome": "WON",
+      "summary": "Product 10 evaluation across APAC SMB",
+      "objections": [
+        "Missing feature"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0062",
+      "deal_id": "D0062",
+      "client": "Client Company 112",
+      "industry": "Logistics",
+      "product": "Product 15",
+      "value": 176145.0,
+      "outcome": "WON",
+      "summary": "Product 15 evaluation across APAC SMB",
+      "objections": [
+        "Compliance requirement",
+        "Data migration risk"
+      ],
+      "strategyUsed": "Security documentation",
+      "relevantLessons": "Understand the real pricing concern"
+    },
+    {
+      "id": "D0063",
+      "deal_id": "D0063",
+      "client": "Client Company 127",
+      "industry": "Banking",
+      "product": "Product 12",
+      "value": 93992.0,
+      "outcome": "LOST",
+      "summary": "Product 12 evaluation across Middle East Mid-Market",
+      "objections": [],
+      "strategyUsed": "Customized package",
+      "relevantLessons": "Understand the real pricing concern"
+    },
+    {
+      "id": "D0064",
+      "deal_id": "D0064",
+      "client": "Client Company 123",
+      "industry": "Telecom",
+      "product": "Product 07",
+      "value": 164280.0,
+      "outcome": "LOST",
+      "summary": "Product 07 evaluation across North America SMB",
+      "objections": [],
+      "strategyUsed": "Security documentation",
+      "relevantLessons": "Validate technical requirements early"
+    },
+    {
+      "id": "D0065",
+      "deal_id": "D0065",
+      "client": "Client Company 144",
+      "industry": "Manufacturing",
+      "product": "Product 13",
+      "value": 347012.0,
+      "outcome": "LOST",
+      "summary": "Product 13 evaluation across Europe SMB",
+      "objections": [],
+      "strategyUsed": "Customized package",
+      "relevantLessons": "Understand the real pricing concern"
+    },
+    {
+      "id": "D0067",
+      "deal_id": "D0067",
+      "client": "Client Company 133",
+      "industry": "Banking",
+      "product": "Product 01",
+      "value": 179646.0,
+      "outcome": "WON",
+      "summary": "Product 01 evaluation across Middle East Enterprise",
+      "objections": [
+        "Support concerns",
+        "Competitor pricing",
+        "Support concerns"
+      ],
+      "strategyUsed": "Security documentation",
+      "relevantLessons": "Map competitor strengths to customer priorities"
+    },
+    {
+      "id": "D0068",
+      "deal_id": "D0068",
+      "client": "Client Company 010",
+      "industry": "Banking",
+      "product": "Product 09",
+      "value": 26487.0,
+      "outcome": "LOST",
+      "summary": "Product 09 evaluation across India Enterprise",
+      "objections": [],
+      "strategyUsed": "Customized package",
+      "relevantLessons": "Validate technical requirements early"
+    },
+    {
+      "id": "D0069",
+      "deal_id": "D0069",
+      "client": "Client Company 072",
+      "industry": "Healthcare",
+      "product": "Product 04",
+      "value": 478125.0,
+      "outcome": "WON",
+      "summary": "Product 04 evaluation across North America Mid-Market",
+      "objections": [
+        "Integration complexity",
+        "Compliance requirement"
+      ],
+      "strategyUsed": "Customized package",
+      "relevantLessons": "Provide evidence before negotiation"
+    },
+    {
+      "id": "D0070",
+      "deal_id": "D0070",
+      "client": "Client Company 090",
+      "industry": "Logistics",
+      "product": "Product 13",
+      "value": 367720.0,
+      "outcome": "WON",
+      "summary": "Product 13 evaluation across India Mid-Market",
+      "objections": [
+        "Data migration risk"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0071",
+      "deal_id": "D0071",
+      "client": "Client Company 054",
+      "industry": "Manufacturing",
+      "product": "Product 26",
+      "value": 133144.0,
+      "outcome": "LOST",
+      "summary": "Product 26 evaluation across Europe Enterprise",
+      "objections": [
+        "Contract terms",
+        "Contract terms",
+        "Implementation timeline"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0073",
+      "deal_id": "D0073",
+      "client": "Client Company 029",
+      "industry": "IT Services",
+      "product": "Product 01",
+      "value": 62978.0,
+      "outcome": "LOST",
+      "summary": "Product 01 evaluation across India Enterprise",
+      "objections": [
+        "Missing feature",
+        "Security concerns",
+        "Contract terms",
+        "Price too high",
+        "Missing feature"
+      ],
+      "strategyUsed": "Customized package",
+      "relevantLessons": "Understand the real pricing concern"
+    },
+    {
+      "id": "D0074",
+      "deal_id": "D0074",
+      "client": "Client Company 124",
+      "industry": "Manufacturing",
+      "product": "Product 04",
+      "value": 244346.0,
+      "outcome": "WON",
+      "summary": "Product 04 evaluation across Europe Enterprise",
+      "objections": [
+        "Implementation timeline"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0075",
+      "deal_id": "D0075",
+      "client": "Client Company 048",
+      "industry": "Education",
+      "product": "Product 16",
+      "value": 380449.0,
+      "outcome": "LOST",
+      "summary": "Product 16 evaluation across Middle East SMB",
+      "objections": [
+        "Contract terms",
+        "Price too high"
+      ],
+      "strategyUsed": "Customized package",
+      "relevantLessons": "Understand the real pricing concern"
+    },
+    {
+      "id": "D0076",
+      "deal_id": "D0076",
+      "client": "Client Company 047",
+      "industry": "Manufacturing",
+      "product": "Product 09",
+      "value": 298341.0,
+      "outcome": "WON",
+      "summary": "Product 09 evaluation across Middle East Mid-Market",
+      "objections": [
+        "Contract terms",
+        "Compliance requirement"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0078",
+      "deal_id": "D0078",
+      "client": "Client Company 022",
+      "industry": "Retail",
+      "product": "Product 01",
+      "value": 181751.0,
+      "outcome": "LOST",
+      "summary": "Product 01 evaluation across India SMB",
+      "objections": [
+        "Security concerns",
+        "Competitor pricing",
+        "Security concerns"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0079",
+      "deal_id": "D0079",
+      "client": "Client Company 138",
+      "industry": "Banking",
+      "product": "Product 10",
+      "value": 149884.0,
+      "outcome": "WON",
+      "summary": "Product 10 evaluation across Middle East Mid-Market",
+      "objections": [
+        "Integration complexity",
+        "Price too high"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0080",
+      "deal_id": "D0080",
+      "client": "Client Company 139",
+      "industry": "Retail",
+      "product": "Product 13",
+      "value": 246855.0,
+      "outcome": "WON",
+      "summary": "Product 13 evaluation across India Mid-Market",
+      "objections": [
+        "Compliance requirement",
+        "Missing feature"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0081",
+      "deal_id": "D0081",
+      "client": "Client Company 090",
+      "industry": "Logistics",
+      "product": "Product 13",
+      "value": 113012.0,
+      "outcome": "WON",
+      "summary": "Product 13 evaluation across India Mid-Market",
+      "objections": [
+        "Contract terms",
+        "Data migration risk"
+      ],
+      "strategyUsed": "No change",
+      "relevantLessons": "Address implementation risk explicitly"
+    },
+    {
+      "id": "D0083",
+      "deal_id": "D0083",
+      "client": "Client Company 024",
+      "industry": "Education",
+      "product": "Product 24",
+      "value": 105096.0,
+      "outcome": "LOST",
+      "summary": "Product 24 evaluation across Middle East Enterprise",
+      "objections": [
+        "Support concerns",
+        "Contract terms",
+        "Support concerns"
+      ],
+      "strategyUsed": "Technical proof",
+      "relevantLessons": "Map competitor strengths to customer priorities"
+    },
+    {
+      "id": "D0084",
+      "deal_id": "D0084",
+      "client": "Client Company 043",
+      "industry": "Telecom",
+      "product": "Product 15",
+      "value": 247250.0,
+      "outcome": "LOST",
+      "summary": "Product 15 evaluation across North America Mid-Market",
+      "objections": [
+        "Missing feature"
+      ],
+      "strategyUsed": "Security documentation",
+      "relevantLessons": "Validate technical requirements early"
+    },
+    {
+      "id": "D0085",
+      "deal_id": "D0085",
+      "client": "Client Company 087",
+      "industry": "Banking",
+      "product": "Product 26",
+      "value": 268175.0,
+      "outcome": "LOST",
+      "summary": "Product 26 evaluation across India Mid-Market",
+      "objections": [
+        "Implementation timeline"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0086",
+      "deal_id": "D0086",
+      "client": "Client Company 024",
+      "industry": "Education",
+      "product": "Product 16",
+      "value": 42667.0,
+      "outcome": "LOST",
+      "summary": "Product 16 evaluation across Middle East Enterprise",
+      "objections": [],
+      "strategyUsed": "Executive engagement",
+      "relevantLessons": "Map competitor strengths to customer priorities"
+    },
+    {
+      "id": "D0087",
+      "deal_id": "D0087",
+      "client": "Client Company 069",
+      "industry": "Banking",
+      "product": "Product 08",
+      "value": 242182.0,
+      "outcome": "WON",
+      "summary": "Product 08 evaluation across India Mid-Market",
+      "objections": [
+        "Integration complexity",
+        "Support concerns"
+      ],
+      "strategyUsed": "No change",
+      "relevantLessons": "Understand the real pricing concern"
+    },
+    {
+      "id": "D0089",
+      "deal_id": "D0089",
+      "client": "Client Company 082",
+      "industry": "Manufacturing",
+      "product": "Product 10",
+      "value": 140828.0,
+      "outcome": "WON",
+      "summary": "Product 10 evaluation across Middle East Enterprise",
+      "objections": [
+        "Missing feature",
+        "Implementation timeline"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0090",
+      "deal_id": "D0090",
+      "client": "Client Company 004",
+      "industry": "Manufacturing",
+      "product": "Product 18",
+      "value": 77064.0,
+      "outcome": "LOST",
+      "summary": "Product 18 evaluation across Middle East SMB",
+      "objections": [
+        "Security concerns",
+        "Integration complexity"
+      ],
+      "strategyUsed": "Customized package",
+      "relevantLessons": "Understand the real pricing concern"
+    },
+    {
+      "id": "D0091",
+      "deal_id": "D0091",
+      "client": "Client Company 107",
+      "industry": "Logistics",
+      "product": "Product 08",
+      "value": 36908.0,
+      "outcome": "LOST",
+      "summary": "Product 08 evaluation across Europe Enterprise",
+      "objections": [
+        "Compliance requirement"
+      ],
+      "strategyUsed": "Implementation roadmap",
+      "relevantLessons": "Understand the real pricing concern"
+    },
+    {
+      "id": "D0092",
+      "deal_id": "D0092",
+      "client": "Client Company 009",
+      "industry": "Healthcare",
+      "product": "Product 28",
+      "value": 19162.0,
+      "outcome": "LOST",
+      "summary": "Product 28 evaluation across APAC Mid-Market",
+      "objections": [
+        "Competitor pricing",
+        "Integration complexity"
+      ],
+      "strategyUsed": "No change",
+      "relevantLessons": "Validate technical requirements early"
+    },
+    {
+      "id": "D0094",
+      "deal_id": "D0094",
+      "client": "Client Company 027",
+      "industry": "Manufacturing",
+      "product": "Product 26",
+      "value": 58572.0,
+      "outcome": "WON",
+      "summary": "Product 26 evaluation across APAC Enterprise",
+      "objections": [
+        "Contract terms",
+        "Security concerns",
+        "Integration complexity",
+        "Data migration risk",
+        "Price too high",
+        "Support concerns",
+        "Competitor pricing"
+      ],
+      "strategyUsed": "Implementation roadmap",
+      "relevantLessons": "Understand the real pricing concern"
+    },
+    {
+      "id": "D0095",
+      "deal_id": "D0095",
+      "client": "Client Company 125",
+      "industry": "Logistics",
+      "product": "Product 21",
+      "value": 480276.0,
+      "outcome": "LOST",
+      "summary": "Product 21 evaluation across Europe Mid-Market",
+      "objections": [],
+      "strategyUsed": "Technical proof",
+      "relevantLessons": "Understand the real pricing concern"
+    },
+    {
+      "id": "D0096",
+      "deal_id": "D0096",
+      "client": "Client Company 009",
+      "industry": "Healthcare",
+      "product": "Product 11",
+      "value": 133702.0,
+      "outcome": "WON",
+      "summary": "Product 11 evaluation across APAC Mid-Market",
+      "objections": [
+        "Support concerns",
+        "Competitor pricing"
+      ],
+      "strategyUsed": "Customized package",
+      "relevantLessons": "Address implementation risk explicitly"
+    },
+    {
+      "id": "D0097",
+      "deal_id": "D0097",
+      "client": "Client Company 065",
+      "industry": "Manufacturing",
+      "product": "Product 07",
+      "value": 331471.0,
+      "outcome": "LOST",
+      "summary": "Product 07 evaluation across India Enterprise",
+      "objections": [
+        "Contract terms",
+        "Integration complexity"
+      ],
+      "strategyUsed": "No change",
+      "relevantLessons": "Understand the real pricing concern"
+    },
+    {
+      "id": "D0098",
+      "deal_id": "D0098",
+      "client": "Client Company 089",
+      "industry": "Logistics",
+      "product": "Product 23",
+      "value": 341641.0,
+      "outcome": "WON",
+      "summary": "Product 23 evaluation across Middle East SMB",
+      "objections": [],
+      "strategyUsed": "No change",
+      "relevantLessons": "Map competitor strengths to customer priorities"
+    },
+    {
+      "id": "D0099",
+      "deal_id": "D0099",
+      "client": "Client Company 078",
+      "industry": "Healthcare",
+      "product": "Product 10",
+      "value": 255320.0,
+      "outcome": "WON",
+      "summary": "Product 10 evaluation across North America Mid-Market",
+      "objections": [
+        "Support concerns"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0100",
+      "deal_id": "D0100",
+      "client": "Client Company 103",
+      "industry": "Logistics",
+      "product": "Product 08",
+      "value": 443552.0,
+      "outcome": "WON",
+      "summary": "Product 08 evaluation across APAC SMB",
+      "objections": [
+        "Compliance requirement",
+        "Integration complexity",
+        "Contract terms",
+        "Contract terms"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0101",
+      "deal_id": "D0101",
+      "client": "Client Company 121",
+      "industry": "Manufacturing",
+      "product": "Product 28",
+      "value": 68685.0,
+      "outcome": "WON",
+      "summary": "Product 28 evaluation across Middle East SMB",
+      "objections": [],
+      "strategyUsed": "Implementation roadmap",
+      "relevantLessons": "Provide evidence before negotiation"
+    },
+    {
+      "id": "D0102",
+      "deal_id": "D0102",
+      "client": "Client Company 060",
+      "industry": "Telecom",
+      "product": "Product 15",
+      "value": 128505.0,
+      "outcome": "LOST",
+      "summary": "Product 15 evaluation across North America Enterprise",
+      "objections": [
+        "Missing feature",
+        "Contract terms",
+        "Competitor pricing"
+      ],
+      "strategyUsed": "Implementation roadmap",
+      "relevantLessons": "Address implementation risk explicitly"
+    },
+    {
+      "id": "D0103",
+      "deal_id": "D0103",
+      "client": "Client Company 125",
+      "industry": "Logistics",
+      "product": "Product 02",
+      "value": 137431.0,
+      "outcome": "LOST",
+      "summary": "Product 02 evaluation across Europe Mid-Market",
+      "objections": [
+        "Data migration risk"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0104",
+      "deal_id": "D0104",
+      "client": "Client Company 048",
+      "industry": "Education",
+      "product": "Product 15",
+      "value": 80675.0,
+      "outcome": "LOST",
+      "summary": "Product 15 evaluation across Middle East SMB",
+      "objections": [
+        "Missing feature",
+        "Integration complexity"
+      ],
+      "strategyUsed": "Implementation roadmap",
+      "relevantLessons": "Provide evidence before negotiation"
+    },
+    {
+      "id": "D0105",
+      "deal_id": "D0105",
+      "client": "Client Company 148",
+      "industry": "Healthcare",
+      "product": "Product 14",
+      "value": 157965.0,
+      "outcome": "WON",
+      "summary": "Product 14 evaluation across Middle East Mid-Market",
+      "objections": [
+        "Support concerns",
+        "Data migration risk",
+        "Contract terms"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0106",
+      "deal_id": "D0106",
+      "client": "Client Company 076",
+      "industry": "Manufacturing",
+      "product": "Product 26",
+      "value": 166653.0,
+      "outcome": "WON",
+      "summary": "Product 26 evaluation across India SMB",
+      "objections": [
+        "Price too high"
+      ],
+      "strategyUsed": "Security documentation",
+      "relevantLessons": "Map competitor strengths to customer priorities"
+    },
+    {
+      "id": "D0107",
+      "deal_id": "D0107",
+      "client": "Client Company 111",
+      "industry": "Retail",
+      "product": "Product 22",
+      "value": 385929.0,
+      "outcome": "WON",
+      "summary": "Product 22 evaluation across India Enterprise",
+      "objections": [
+        "Data migration risk",
+        "Competitor pricing"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0108",
+      "deal_id": "D0108",
+      "client": "Client Company 132",
+      "industry": "IT Services",
+      "product": "Product 06",
+      "value": 161288.0,
+      "outcome": "LOST",
+      "summary": "Product 06 evaluation across North America Mid-Market",
+      "objections": [],
+      "strategyUsed": "Customized package",
+      "relevantLessons": "Provide evidence before negotiation"
+    },
+    {
+      "id": "D0109",
+      "deal_id": "D0109",
+      "client": "Client Company 119",
+      "industry": "Healthcare",
+      "product": "Product 05",
+      "value": 440204.0,
+      "outcome": "WON",
+      "summary": "Product 05 evaluation across APAC Mid-Market",
+      "objections": [
+        "Integration complexity"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0110",
+      "deal_id": "D0110",
+      "client": "Client Company 128",
+      "industry": "Logistics",
+      "product": "Product 19",
+      "value": 389746.0,
+      "outcome": "WON",
+      "summary": "Product 19 evaluation across Middle East Enterprise",
+      "objections": [
+        "Security concerns",
+        "Integration complexity"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0111",
+      "deal_id": "D0111",
+      "client": "Client Company 081",
+      "industry": "Education",
+      "product": "Product 02",
+      "value": 452296.0,
+      "outcome": "WON",
+      "summary": "Product 02 evaluation across India Mid-Market",
+      "objections": [
+        "Implementation timeline",
+        "Price too high"
+      ],
+      "strategyUsed": "Implementation roadmap",
+      "relevantLessons": "Validate technical requirements early"
+    },
+    {
+      "id": "D0112",
+      "deal_id": "D0112",
+      "client": "Client Company 007",
+      "industry": "Banking",
+      "product": "Product 10",
+      "value": 66033.0,
+      "outcome": "LOST",
+      "summary": "Product 10 evaluation across APAC SMB",
+      "objections": [
+        "Support concerns",
+        "Support concerns"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0113",
+      "deal_id": "D0113",
+      "client": "Client Company 074",
+      "industry": "Healthcare",
+      "product": "Product 05",
+      "value": 492515.0,
+      "outcome": "WON",
+      "summary": "Product 05 evaluation across APAC SMB",
+      "objections": [
+        "Price too high",
+        "Security concerns"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0114",
+      "deal_id": "D0114",
+      "client": "Client Company 028",
+      "industry": "Logistics",
+      "product": "Product 01",
+      "value": 312771.0,
+      "outcome": "LOST",
+      "summary": "Product 01 evaluation across India SMB",
+      "objections": [
+        "Support concerns",
+        "Integration complexity",
+        "Price too high",
+        "Missing feature"
+      ],
+      "strategyUsed": "No change",
+      "relevantLessons": "Map competitor strengths to customer priorities"
+    },
+    {
+      "id": "D0115",
+      "deal_id": "D0115",
+      "client": "Client Company 134",
+      "industry": "IT Services",
+      "product": "Product 28",
+      "value": 491447.0,
+      "outcome": "LOST",
+      "summary": "Product 28 evaluation across India Mid-Market",
+      "objections": [
+        "Contract terms",
+        "Contract terms",
+        "Compliance requirement",
+        "Missing feature"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0116",
+      "deal_id": "D0116",
+      "client": "Client Company 036",
+      "industry": "Banking",
+      "product": "Product 03",
+      "value": 187098.0,
+      "outcome": "LOST",
+      "summary": "Product 03 evaluation across Middle East Mid-Market",
+      "objections": [
+        "Implementation timeline",
+        "Contract terms",
+        "Integration complexity"
+      ],
+      "strategyUsed": "No change",
+      "relevantLessons": "Map competitor strengths to customer priorities"
+    },
+    {
+      "id": "D0117",
+      "deal_id": "D0117",
+      "client": "Client Company 035",
+      "industry": "Education",
+      "product": "Product 01",
+      "value": 477204.0,
+      "outcome": "LOST",
+      "summary": "Product 01 evaluation across Europe Mid-Market",
+      "objections": [],
+      "strategyUsed": "Customized package",
+      "relevantLessons": "Map competitor strengths to customer priorities"
+    },
+    {
+      "id": "D0118",
+      "deal_id": "D0118",
+      "client": "Client Company 038",
+      "industry": "Logistics",
+      "product": "Product 28",
+      "value": 300473.0,
+      "outcome": "LOST",
+      "summary": "Product 28 evaluation across APAC Mid-Market",
+      "objections": [
+        "Implementation timeline",
+        "Support concerns"
+      ],
+      "strategyUsed": "Executive engagement",
+      "relevantLessons": "Address implementation risk explicitly"
+    },
+    {
+      "id": "D0119",
+      "deal_id": "D0119",
+      "client": "Client Company 097",
+      "industry": "Healthcare",
+      "product": "Product 06",
+      "value": 49833.0,
+      "outcome": "WON",
+      "summary": "Product 06 evaluation across India Enterprise",
+      "objections": [
+        "Integration complexity",
+        "Contract terms"
+      ],
+      "strategyUsed": "Technical proof",
+      "relevantLessons": "Map competitor strengths to customer priorities"
+    },
+    {
+      "id": "D0120",
+      "deal_id": "D0120",
+      "client": "Client Company 086",
+      "industry": "Telecom",
+      "product": "Product 25",
+      "value": 213910.0,
+      "outcome": "LOST",
+      "summary": "Product 25 evaluation across India Enterprise",
+      "objections": [
+        "Contract terms"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0121",
+      "deal_id": "D0121",
+      "client": "Client Company 143",
+      "industry": "Retail",
+      "product": "Product 01",
+      "value": 81829.0,
+      "outcome": "LOST",
+      "summary": "Product 01 evaluation across India Enterprise",
+      "objections": [
+        "Support concerns",
+        "Security concerns"
+      ],
+      "strategyUsed": "Customized package",
+      "relevantLessons": "Map competitor strengths to customer priorities"
+    },
+    {
+      "id": "D0122",
+      "deal_id": "D0122",
+      "client": "Client Company 063",
+      "industry": "Retail",
+      "product": "Product 05",
+      "value": 471520.0,
+      "outcome": "LOST",
+      "summary": "Product 05 evaluation across APAC Enterprise",
+      "objections": [
+        "Integration complexity",
+        "Compliance requirement",
+        "Security concerns",
+        "Competitor pricing"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0123",
+      "deal_id": "D0123",
+      "client": "Client Company 043",
+      "industry": "Telecom",
+      "product": "Product 04",
+      "value": 162666.0,
+      "outcome": "LOST",
+      "summary": "Product 04 evaluation across North America Mid-Market",
+      "objections": [
+        "Competitor pricing"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0124",
+      "deal_id": "D0124",
+      "client": "Client Company 008",
+      "industry": "Telecom",
+      "product": "Product 22",
+      "value": 122845.0,
+      "outcome": "WON",
+      "summary": "Product 22 evaluation across Europe Mid-Market",
+      "objections": [],
+      "strategyUsed": "Implementation roadmap",
+      "relevantLessons": "Address implementation risk explicitly"
+    },
+    {
+      "id": "D0125",
+      "deal_id": "D0125",
+      "client": "Client Company 002",
+      "industry": "Logistics",
+      "product": "Product 19",
+      "value": 283155.0,
+      "outcome": "LOST",
+      "summary": "Product 19 evaluation across Middle East SMB",
+      "objections": [
+        "Contract terms",
+        "Contract terms"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0126",
+      "deal_id": "D0126",
+      "client": "Client Company 057",
+      "industry": "IT Services",
+      "product": "Product 15",
+      "value": 221203.0,
+      "outcome": "LOST",
+      "summary": "Product 15 evaluation across India Enterprise",
+      "objections": [],
+      "strategyUsed": "Security documentation",
+      "relevantLessons": "Address implementation risk explicitly"
+    },
+    {
+      "id": "D0129",
+      "deal_id": "D0129",
+      "client": "Client Company 135",
+      "industry": "Logistics",
+      "product": "Product 18",
+      "value": 425211.0,
+      "outcome": "LOST",
+      "summary": "Product 18 evaluation across Europe Mid-Market",
+      "objections": [
+        "Security concerns"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0130",
+      "deal_id": "D0130",
+      "client": "Client Company 016",
+      "industry": "Logistics",
+      "product": "Product 07",
+      "value": 375336.0,
+      "outcome": "LOST",
+      "summary": "Product 07 evaluation across North America Enterprise",
+      "objections": [
+        "Compliance requirement",
+        "Data migration risk"
+      ],
+      "strategyUsed": "No change",
+      "relevantLessons": "Provide evidence before negotiation"
+    },
+    {
+      "id": "D0131",
+      "deal_id": "D0131",
+      "client": "Client Company 014",
+      "industry": "Logistics",
+      "product": "Product 18",
+      "value": 314126.0,
+      "outcome": "LOST",
+      "summary": "Product 18 evaluation across APAC Mid-Market",
+      "objections": [],
+      "strategyUsed": "Technical proof",
+      "relevantLessons": "Map competitor strengths to customer priorities"
+    },
+    {
+      "id": "D0132",
+      "deal_id": "D0132",
+      "client": "Client Company 126",
+      "industry": "IT Services",
+      "product": "Product 21",
+      "value": 210240.0,
+      "outcome": "WON",
+      "summary": "Product 21 evaluation across India Mid-Market",
+      "objections": [
+        "Missing feature",
+        "Compliance requirement",
+        "Missing feature"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0134",
+      "deal_id": "D0134",
+      "client": "Client Company 008",
+      "industry": "Telecom",
+      "product": "Product 15",
+      "value": 267683.0,
+      "outcome": "LOST",
+      "summary": "Product 15 evaluation across Europe Mid-Market",
+      "objections": [
+        "Competitor pricing"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0135",
+      "deal_id": "D0135",
+      "client": "Client Company 061",
+      "industry": "Education",
+      "product": "Product 01",
+      "value": 95175.0,
+      "outcome": "WON",
+      "summary": "Product 01 evaluation across Middle East SMB",
+      "objections": [
+        "Contract terms"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0136",
+      "deal_id": "D0136",
+      "client": "Client Company 139",
+      "industry": "Retail",
+      "product": "Product 09",
+      "value": 54679.0,
+      "outcome": "WON",
+      "summary": "Product 09 evaluation across India Mid-Market",
+      "objections": [
+        "Price too high"
+      ],
+      "strategyUsed": "Security documentation",
+      "relevantLessons": "Address implementation risk explicitly"
+    },
+    {
+      "id": "D0138",
+      "deal_id": "D0138",
+      "client": "Client Company 015",
+      "industry": "Telecom",
+      "product": "Product 16",
+      "value": 235351.0,
+      "outcome": "WON",
+      "summary": "Product 16 evaluation across APAC Mid-Market",
+      "objections": [
+        "Data migration risk",
+        "Implementation timeline",
+        "Contract terms",
+        "Data migration risk"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0139",
+      "deal_id": "D0139",
+      "client": "Client Company 126",
+      "industry": "IT Services",
+      "product": "Product 19",
+      "value": 92751.0,
+      "outcome": "WON",
+      "summary": "Product 19 evaluation across India Mid-Market",
+      "objections": [
+        "Implementation timeline",
+        "Competitor pricing",
+        "Compliance requirement",
+        "Support concerns"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0140",
+      "deal_id": "D0140",
+      "client": "Client Company 127",
+      "industry": "Banking",
+      "product": "Product 14",
+      "value": 66733.0,
+      "outcome": "WON",
+      "summary": "Product 14 evaluation across Middle East Mid-Market",
+      "objections": [
+        "Support concerns"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0141",
+      "deal_id": "D0141",
+      "client": "Client Company 121",
+      "industry": "Manufacturing",
+      "product": "Product 05",
+      "value": 428187.0,
+      "outcome": "WON",
+      "summary": "Product 05 evaluation across Middle East SMB",
+      "objections": [],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0142",
+      "deal_id": "D0142",
+      "client": "Client Company 136",
+      "industry": "Retail",
+      "product": "Product 27",
+      "value": 196873.0,
+      "outcome": "WON",
+      "summary": "Product 27 evaluation across India Enterprise",
+      "objections": [
+        "Integration complexity"
+      ],
+      "strategyUsed": "Customized package",
+      "relevantLessons": "Map competitor strengths to customer priorities"
+    },
+    {
+      "id": "D0143",
+      "deal_id": "D0143",
+      "client": "Client Company 036",
+      "industry": "Banking",
+      "product": "Product 24",
+      "value": 298350.0,
+      "outcome": "LOST",
+      "summary": "Product 24 evaluation across Middle East Mid-Market",
+      "objections": [
+        "Compliance requirement"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0144",
+      "deal_id": "D0144",
+      "client": "Client Company 147",
+      "industry": "Banking",
+      "product": "Product 30",
+      "value": 269153.0,
+      "outcome": "WON",
+      "summary": "Product 30 evaluation across APAC Enterprise",
+      "objections": [
+        "Competitor pricing",
+        "Security concerns",
+        "Price too high"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0147",
+      "deal_id": "D0147",
+      "client": "Client Company 087",
+      "industry": "Banking",
+      "product": "Product 08",
+      "value": 158575.0,
+      "outcome": "WON",
+      "summary": "Product 08 evaluation across India Mid-Market",
+      "objections": [
+        "Integration complexity",
+        "Security concerns"
+      ],
+      "strategyUsed": "Executive engagement",
+      "relevantLessons": "Validate technical requirements early"
+    },
+    {
+      "id": "D0148",
+      "deal_id": "D0148",
+      "client": "Client Company 117",
+      "industry": "Banking",
+      "product": "Product 08",
+      "value": 426235.0,
+      "outcome": "WON",
+      "summary": "Product 08 evaluation across Middle East Mid-Market",
+      "objections": [
+        "Integration complexity"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0149",
+      "deal_id": "D0149",
+      "client": "Client Company 095",
+      "industry": "Education",
+      "product": "Product 28",
+      "value": 195057.0,
+      "outcome": "LOST",
+      "summary": "Product 28 evaluation across North America Mid-Market",
+      "objections": [
+        "Integration complexity",
+        "Support concerns",
+        "Compliance requirement"
+      ],
+      "strategyUsed": "Customized package",
+      "relevantLessons": "Understand the real pricing concern"
+    },
+    {
+      "id": "D0150",
+      "deal_id": "D0150",
+      "client": "Client Company 097",
+      "industry": "Healthcare",
+      "product": "Product 17",
+      "value": 420075.0,
+      "outcome": "WON",
+      "summary": "Product 17 evaluation across India Enterprise",
+      "objections": [
+        "Security concerns",
+        "Compliance requirement",
+        "Price too high"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0151",
+      "deal_id": "D0151",
+      "client": "Client Company 093",
+      "industry": "Logistics",
+      "product": "Product 14",
+      "value": 211354.0,
+      "outcome": "WON",
+      "summary": "Product 14 evaluation across APAC SMB",
+      "objections": [],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0154",
+      "deal_id": "D0154",
+      "client": "Client Company 021",
+      "industry": "IT Services",
+      "product": "Product 28",
+      "value": 29628.0,
+      "outcome": "LOST",
+      "summary": "Product 28 evaluation across APAC SMB",
+      "objections": [
+        "Price too high",
+        "Data migration risk",
+        "Implementation timeline"
+      ],
+      "strategyUsed": "Customized package",
+      "relevantLessons": "Understand the real pricing concern"
+    },
+    {
+      "id": "D0155",
+      "deal_id": "D0155",
+      "client": "Client Company 124",
+      "industry": "Manufacturing",
+      "product": "Product 30",
+      "value": 389591.0,
+      "outcome": "WON",
+      "summary": "Product 30 evaluation across Europe Enterprise",
+      "objections": [
+        "Data migration risk"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0156",
+      "deal_id": "D0156",
+      "client": "Client Company 081",
+      "industry": "Education",
+      "product": "Product 03",
+      "value": 35933.0,
+      "outcome": "LOST",
+      "summary": "Product 03 evaluation across India Mid-Market",
+      "objections": [
+        "Competitor pricing",
+        "Support concerns"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0157",
+      "deal_id": "D0157",
+      "client": "Client Company 049",
+      "industry": "Telecom",
+      "product": "Product 11",
+      "value": 115304.0,
+      "outcome": "LOST",
+      "summary": "Product 11 evaluation across India Mid-Market",
+      "objections": [
+        "Data migration risk"
+      ],
+      "strategyUsed": "Technical proof",
+      "relevantLessons": "Validate technical requirements early"
+    },
+    {
+      "id": "D0158",
+      "deal_id": "D0158",
+      "client": "Client Company 078",
+      "industry": "Healthcare",
+      "product": "Product 23",
+      "value": 307631.0,
+      "outcome": "WON",
+      "summary": "Product 23 evaluation across North America Mid-Market",
+      "objections": [
+        "Price too high"
+      ],
+      "strategyUsed": "Security documentation",
+      "relevantLessons": "Address implementation risk explicitly"
+    },
+    {
+      "id": "D0159",
+      "deal_id": "D0159",
+      "client": "Client Company 146",
+      "industry": "Logistics",
+      "product": "Product 25",
+      "value": 471646.0,
+      "outcome": "LOST",
+      "summary": "Product 25 evaluation across North America Mid-Market",
+      "objections": [
+        "Contract terms",
+        "Price too high"
+      ],
+      "strategyUsed": "Customized package",
+      "relevantLessons": "Provide evidence before negotiation"
+    },
+    {
+      "id": "D0160",
+      "deal_id": "D0160",
+      "client": "Client Company 129",
+      "industry": "IT Services",
+      "product": "Product 05",
+      "value": 213111.0,
+      "outcome": "WON",
+      "summary": "Product 05 evaluation across India SMB",
+      "objections": [
+        "Compliance requirement"
+      ],
+      "strategyUsed": "Customized package",
+      "relevantLessons": "Provide evidence before negotiation"
+    },
+    {
+      "id": "D0161",
+      "deal_id": "D0161",
+      "client": "Client Company 126",
+      "industry": "IT Services",
+      "product": "Product 10",
+      "value": 73517.0,
+      "outcome": "WON",
+      "summary": "Product 10 evaluation across India Mid-Market",
+      "objections": [],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0162",
+      "deal_id": "D0162",
+      "client": "Client Company 070",
+      "industry": "Manufacturing",
+      "product": "Product 17",
+      "value": 127960.0,
+      "outcome": "LOST",
+      "summary": "Product 17 evaluation across North America Enterprise",
+      "objections": [
+        "Security concerns"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0163",
+      "deal_id": "D0163",
+      "client": "Client Company 118",
+      "industry": "Healthcare",
+      "product": "Product 24",
+      "value": 449619.0,
+      "outcome": "WON",
+      "summary": "Product 24 evaluation across India Mid-Market",
+      "objections": [
+        "Security concerns",
+        "Implementation timeline"
+      ],
+      "strategyUsed": "Implementation roadmap",
+      "relevantLessons": "Provide evidence before negotiation"
+    },
+    {
+      "id": "D0164",
+      "deal_id": "D0164",
+      "client": "Client Company 058",
+      "industry": "Healthcare",
+      "product": "Product 04",
+      "value": 367466.0,
+      "outcome": "WON",
+      "summary": "Product 04 evaluation across Middle East Enterprise",
+      "objections": [
+        "Compliance requirement",
+        "Data migration risk",
+        "Data migration risk",
+        "Missing feature"
+      ],
+      "strategyUsed": "No change",
+      "relevantLessons": "Understand the real pricing concern"
+    },
+    {
+      "id": "D0167",
+      "deal_id": "D0167",
+      "client": "Client Company 038",
+      "industry": "Logistics",
+      "product": "Product 07",
+      "value": 143301.0,
+      "outcome": "LOST",
+      "summary": "Product 07 evaluation across APAC Mid-Market",
+      "objections": [
+        "Integration complexity"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0170",
+      "deal_id": "D0170",
+      "client": "Client Company 021",
+      "industry": "IT Services",
+      "product": "Product 20",
+      "value": 314590.0,
+      "outcome": "WON",
+      "summary": "Product 20 evaluation across APAC SMB",
+      "objections": [
+        "Compliance requirement"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0171",
+      "deal_id": "D0171",
+      "client": "Client Company 066",
+      "industry": "Retail",
+      "product": "Product 10",
+      "value": 102053.0,
+      "outcome": "LOST",
+      "summary": "Product 10 evaluation across Europe SMB",
+      "objections": [
+        "Competitor pricing",
+        "Contract terms",
+        "Integration complexity"
+      ],
+      "strategyUsed": "Executive engagement",
+      "relevantLessons": "Understand the real pricing concern"
+    },
+    {
+      "id": "D0172",
+      "deal_id": "D0172",
+      "client": "Client Company 072",
+      "industry": "Healthcare",
+      "product": "Product 25",
+      "value": 330587.0,
+      "outcome": "WON",
+      "summary": "Product 25 evaluation across North America Mid-Market",
+      "objections": [
+        "Compliance requirement",
+        "Contract terms",
+        "Integration complexity",
+        "Competitor pricing"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0173",
+      "deal_id": "D0173",
+      "client": "Client Company 025",
+      "industry": "Logistics",
+      "product": "Product 03",
+      "value": 215580.0,
+      "outcome": "WON",
+      "summary": "Product 03 evaluation across Middle East Enterprise",
+      "objections": [
+        "Compliance requirement"
+      ],
+      "strategyUsed": "Customized package",
+      "relevantLessons": "Understand the real pricing concern"
+    },
+    {
+      "id": "D0174",
+      "deal_id": "D0174",
+      "client": "Client Company 063",
+      "industry": "Retail",
+      "product": "Product 26",
+      "value": 44816.0,
+      "outcome": "LOST",
+      "summary": "Product 26 evaluation across APAC Enterprise",
+      "objections": [
+        "Support concerns",
+        "Integration complexity"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0175",
+      "deal_id": "D0175",
+      "client": "Client Company 091",
+      "industry": "Manufacturing",
+      "product": "Product 01",
+      "value": 233181.0,
+      "outcome": "LOST",
+      "summary": "Product 01 evaluation across North America SMB",
+      "objections": [
+        "Missing feature"
+      ],
+      "strategyUsed": "Technical proof",
+      "relevantLessons": "Map competitor strengths to customer priorities"
+    },
+    {
+      "id": "D0176",
+      "deal_id": "D0176",
+      "client": "Client Company 035",
+      "industry": "Education",
+      "product": "Product 23",
+      "value": 104837.0,
+      "outcome": "LOST",
+      "summary": "Product 23 evaluation across Europe Mid-Market",
+      "objections": [
+        "Price too high"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0177",
+      "deal_id": "D0177",
+      "client": "Client Company 051",
+      "industry": "Logistics",
+      "product": "Product 11",
+      "value": 133950.0,
+      "outcome": "WON",
+      "summary": "Product 11 evaluation across Europe Mid-Market",
+      "objections": [],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0178",
+      "deal_id": "D0178",
+      "client": "Client Company 056",
+      "industry": "Banking",
+      "product": "Product 12",
+      "value": 441314.0,
+      "outcome": "WON",
+      "summary": "Product 12 evaluation across Middle East SMB",
+      "objections": [],
+      "strategyUsed": "Executive engagement",
+      "relevantLessons": "Address implementation risk explicitly"
+    },
+    {
+      "id": "D0180",
+      "deal_id": "D0180",
+      "client": "Client Company 055",
+      "industry": "Manufacturing",
+      "product": "Product 22",
+      "value": 80034.0,
+      "outcome": "WON",
+      "summary": "Product 22 evaluation across Middle East Mid-Market",
+      "objections": [
+        "Implementation timeline",
+        "Contract terms",
+        "Support concerns",
+        "Support concerns"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0181",
+      "deal_id": "D0181",
+      "client": "Client Company 111",
+      "industry": "Retail",
+      "product": "Product 05",
+      "value": 427897.0,
+      "outcome": "WON",
+      "summary": "Product 05 evaluation across India Enterprise",
+      "objections": [
+        "Contract terms"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0182",
+      "deal_id": "D0182",
+      "client": "Client Company 050",
+      "industry": "Logistics",
+      "product": "Product 20",
+      "value": 293539.0,
+      "outcome": "WON",
+      "summary": "Product 20 evaluation across India Enterprise",
+      "objections": [],
+      "strategyUsed": "Technical proof",
+      "relevantLessons": "Map competitor strengths to customer priorities"
+    },
+    {
+      "id": "D0183",
+      "deal_id": "D0183",
+      "client": "Client Company 066",
+      "industry": "Retail",
+      "product": "Product 22",
+      "value": 439168.0,
+      "outcome": "LOST",
+      "summary": "Product 22 evaluation across Europe SMB",
+      "objections": [
+        "Contract terms"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0184",
+      "deal_id": "D0184",
+      "client": "Client Company 057",
+      "industry": "IT Services",
+      "product": "Product 26",
+      "value": 377331.0,
+      "outcome": "LOST",
+      "summary": "Product 26 evaluation across India Enterprise",
+      "objections": [
+        "Security concerns"
+      ],
+      "strategyUsed": "Technical proof",
+      "relevantLessons": "Map competitor strengths to customer priorities"
+    },
+    {
+      "id": "D0185",
+      "deal_id": "D0185",
+      "client": "Client Company 028",
+      "industry": "Logistics",
+      "product": "Product 22",
+      "value": 179571.0,
+      "outcome": "LOST",
+      "summary": "Product 22 evaluation across India SMB",
+      "objections": [
+        "Compliance requirement"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0186",
+      "deal_id": "D0186",
+      "client": "Client Company 103",
+      "industry": "Logistics",
+      "product": "Product 10",
+      "value": 274411.0,
+      "outcome": "WON",
+      "summary": "Product 10 evaluation across APAC SMB",
+      "objections": [
+        "Implementation timeline"
+      ],
+      "strategyUsed": "Implementation roadmap",
+      "relevantLessons": "Understand the real pricing concern"
+    },
+    {
+      "id": "D0187",
+      "deal_id": "D0187",
+      "client": "Client Company 036",
+      "industry": "Banking",
+      "product": "Product 23",
+      "value": 272462.0,
+      "outcome": "WON",
+      "summary": "Product 23 evaluation across Middle East Mid-Market",
+      "objections": [
+        "Contract terms",
+        "Compliance requirement"
+      ],
+      "strategyUsed": "No change",
+      "relevantLessons": "Validate technical requirements early"
+    },
+    {
+      "id": "D0189",
+      "deal_id": "D0189",
+      "client": "Client Company 119",
+      "industry": "Healthcare",
+      "product": "Product 10",
+      "value": 135477.0,
+      "outcome": "LOST",
+      "summary": "Product 10 evaluation across APAC Mid-Market",
+      "objections": [],
+      "strategyUsed": "Technical proof",
+      "relevantLessons": "Validate technical requirements early"
+    },
+    {
+      "id": "D0190",
+      "deal_id": "D0190",
+      "client": "Client Company 143",
+      "industry": "Retail",
+      "product": "Product 04",
+      "value": 176547.0,
+      "outcome": "LOST",
+      "summary": "Product 04 evaluation across India Enterprise",
+      "objections": [],
+      "strategyUsed": "No change",
+      "relevantLessons": "Provide evidence before negotiation"
+    },
+    {
+      "id": "D0191",
+      "deal_id": "D0191",
+      "client": "Client Company 101",
+      "industry": "Logistics",
+      "product": "Product 27",
+      "value": 133726.0,
+      "outcome": "LOST",
+      "summary": "Product 27 evaluation across Middle East SMB",
+      "objections": [
+        "Implementation timeline"
+      ],
+      "strategyUsed": "Executive engagement",
+      "relevantLessons": "Address implementation risk explicitly"
+    },
+    {
+      "id": "D0192",
+      "deal_id": "D0192",
+      "client": "Client Company 138",
+      "industry": "Banking",
+      "product": "Product 05",
+      "value": 158629.0,
+      "outcome": "LOST",
+      "summary": "Product 05 evaluation across Middle East Mid-Market",
+      "objections": [],
+      "strategyUsed": "Executive engagement",
+      "relevantLessons": "Map competitor strengths to customer priorities"
+    },
+    {
+      "id": "D0193",
+      "deal_id": "D0193",
+      "client": "Client Company 129",
+      "industry": "IT Services",
+      "product": "Product 18",
+      "value": 93208.0,
+      "outcome": "WON",
+      "summary": "Product 18 evaluation across India SMB",
+      "objections": [
+        "Data migration risk",
+        "Implementation timeline"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0194",
+      "deal_id": "D0194",
+      "client": "Client Company 073",
+      "industry": "Manufacturing",
+      "product": "Product 08",
+      "value": 32725.0,
+      "outcome": "WON",
+      "summary": "Product 08 evaluation across Europe Enterprise",
+      "objections": [
+        "Compliance requirement",
+        "Price too high",
+        "Support concerns"
+      ],
+      "strategyUsed": "Customized package",
+      "relevantLessons": "Address implementation risk explicitly"
+    },
+    {
+      "id": "D0195",
+      "deal_id": "D0195",
+      "client": "Client Company 116",
+      "industry": "IT Services",
+      "product": "Product 04",
+      "value": 470909.0,
+      "outcome": "LOST",
+      "summary": "Product 04 evaluation across North America Mid-Market",
+      "objections": [
+        "Data migration risk",
+        "Missing feature",
+        "Contract terms"
+      ],
+      "strategyUsed": "Technical proof",
+      "relevantLessons": "Address implementation risk explicitly"
+    },
+    {
+      "id": "D0196",
+      "deal_id": "D0196",
+      "client": "Client Company 050",
+      "industry": "Logistics",
+      "product": "Product 24",
+      "value": 51042.0,
+      "outcome": "WON",
+      "summary": "Product 24 evaluation across India Enterprise",
+      "objections": [
+        "Integration complexity"
+      ],
+      "strategyUsed": "Technical proof",
+      "relevantLessons": "Provide evidence before negotiation"
+    },
+    {
+      "id": "D0198",
+      "deal_id": "D0198",
+      "client": "Client Company 081",
+      "industry": "Education",
+      "product": "Product 21",
+      "value": 16492.0,
+      "outcome": "LOST",
+      "summary": "Product 21 evaluation across India Mid-Market",
+      "objections": [],
+      "strategyUsed": "Security documentation",
+      "relevantLessons": "Provide evidence before negotiation"
+    },
+    {
+      "id": "D0199",
+      "deal_id": "D0199",
+      "client": "Client Company 145",
+      "industry": "Education",
+      "product": "Product 21",
+      "value": 392018.0,
+      "outcome": "LOST",
+      "summary": "Product 21 evaluation across Europe Mid-Market",
+      "objections": [],
+      "strategyUsed": "Customized package",
+      "relevantLessons": "Map competitor strengths to customer priorities"
+    },
+    {
+      "id": "D0201",
+      "deal_id": "D0201",
+      "client": "Client Company 074",
+      "industry": "Healthcare",
+      "product": "Product 06",
+      "value": 266065.0,
+      "outcome": "LOST",
+      "summary": "Product 06 evaluation across APAC SMB",
+      "objections": [
+        "Data migration risk"
+      ],
+      "strategyUsed": "Executive engagement",
+      "relevantLessons": "Address implementation risk explicitly"
+    },
+    {
+      "id": "D0203",
+      "deal_id": "D0203",
+      "client": "Client Company 031",
+      "industry": "Manufacturing",
+      "product": "Product 16",
+      "value": 252944.0,
+      "outcome": "LOST",
+      "summary": "Product 16 evaluation across Europe Enterprise",
+      "objections": [],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0205",
+      "deal_id": "D0205",
+      "client": "Client Company 083",
+      "industry": "Healthcare",
+      "product": "Product 30",
+      "value": 271926.0,
+      "outcome": "WON",
+      "summary": "Product 30 evaluation across Middle East SMB",
+      "objections": [
+        "Security concerns"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0206",
+      "deal_id": "D0206",
+      "client": "Client Company 080",
+      "industry": "Telecom",
+      "product": "Product 08",
+      "value": 205742.0,
+      "outcome": "LOST",
+      "summary": "Product 08 evaluation across APAC SMB",
+      "objections": [
+        "Contract terms",
+        "Security concerns"
+      ],
+      "strategyUsed": "No change",
+      "relevantLessons": "Provide evidence before negotiation"
+    },
+    {
+      "id": "D0207",
+      "deal_id": "D0207",
+      "client": "Client Company 115",
+      "industry": "IT Services",
+      "product": "Product 01",
+      "value": 275235.0,
+      "outcome": "LOST",
+      "summary": "Product 01 evaluation across India Enterprise",
+      "objections": [],
+      "strategyUsed": "Technical proof",
+      "relevantLessons": "Map competitor strengths to customer priorities"
+    },
+    {
+      "id": "D0208",
+      "deal_id": "D0208",
+      "client": "Client Company 095",
+      "industry": "Education",
+      "product": "Product 28",
+      "value": 415347.0,
+      "outcome": "WON",
+      "summary": "Product 28 evaluation across North America Mid-Market",
+      "objections": [
+        "Contract terms",
+        "Implementation timeline",
+        "Support concerns"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0209",
+      "deal_id": "D0209",
+      "client": "Client Company 011",
+      "industry": "IT Services",
+      "product": "Product 01",
+      "value": 225763.0,
+      "outcome": "WON",
+      "summary": "Product 01 evaluation across North America Enterprise",
+      "objections": [],
+      "strategyUsed": "Implementation roadmap",
+      "relevantLessons": "Validate technical requirements early"
+    },
+    {
+      "id": "D0211",
+      "deal_id": "D0211",
+      "client": "Client Company 027",
+      "industry": "Manufacturing",
+      "product": "Product 30",
+      "value": 78901.0,
+      "outcome": "LOST",
+      "summary": "Product 30 evaluation across APAC Enterprise",
+      "objections": [
+        "Competitor pricing",
+        "Implementation timeline",
+        "Security concerns"
+      ],
+      "strategyUsed": "Customized package",
+      "relevantLessons": "Map competitor strengths to customer priorities"
+    },
+    {
+      "id": "D0212",
+      "deal_id": "D0212",
+      "client": "Client Company 111",
+      "industry": "Retail",
+      "product": "Product 18",
+      "value": 189463.0,
+      "outcome": "WON",
+      "summary": "Product 18 evaluation across India Enterprise",
+      "objections": [],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0213",
+      "deal_id": "D0213",
+      "client": "Client Company 006",
+      "industry": "Logistics",
+      "product": "Product 18",
+      "value": 75946.0,
+      "outcome": "WON",
+      "summary": "Product 18 evaluation across India Mid-Market",
+      "objections": [
+        "Compliance requirement"
+      ],
+      "strategyUsed": "Executive engagement",
+      "relevantLessons": "Address implementation risk explicitly"
+    },
+    {
+      "id": "D0214",
+      "deal_id": "D0214",
+      "client": "Client Company 031",
+      "industry": "Manufacturing",
+      "product": "Product 12",
+      "value": 103513.0,
+      "outcome": "WON",
+      "summary": "Product 12 evaluation across Europe Enterprise",
+      "objections": [
+        "Compliance requirement",
+        "Price too high",
+        "Integration complexity",
+        "Security concerns"
+      ],
+      "strategyUsed": "Security documentation",
+      "relevantLessons": "Address implementation risk explicitly"
+    },
+    {
+      "id": "D0215",
+      "deal_id": "D0215",
+      "client": "Client Company 090",
+      "industry": "Logistics",
+      "product": "Product 04",
+      "value": 476841.0,
+      "outcome": "WON",
+      "summary": "Product 04 evaluation across India Mid-Market",
+      "objections": [],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0217",
+      "deal_id": "D0217",
+      "client": "Client Company 076",
+      "industry": "Manufacturing",
+      "product": "Product 27",
+      "value": 248784.0,
+      "outcome": "LOST",
+      "summary": "Product 27 evaluation across India SMB",
+      "objections": [
+        "Competitor pricing",
+        "Support concerns",
+        "Contract terms"
+      ],
+      "strategyUsed": "Technical proof",
+      "relevantLessons": "Understand the real pricing concern"
+    },
+    {
+      "id": "D0218",
+      "deal_id": "D0218",
+      "client": "Client Company 130",
+      "industry": "Telecom",
+      "product": "Product 03",
+      "value": 419635.0,
+      "outcome": "WON",
+      "summary": "Product 03 evaluation across North America SMB",
+      "objections": [
+        "Security concerns",
+        "Competitor pricing"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0219",
+      "deal_id": "D0219",
+      "client": "Client Company 138",
+      "industry": "Banking",
+      "product": "Product 27",
+      "value": 477304.0,
+      "outcome": "LOST",
+      "summary": "Product 27 evaluation across Middle East Mid-Market",
+      "objections": [
+        "Competitor pricing"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0220",
+      "deal_id": "D0220",
+      "client": "Client Company 020",
+      "industry": "Manufacturing",
+      "product": "Product 13",
+      "value": 86156.0,
+      "outcome": "WON",
+      "summary": "Product 13 evaluation across North America SMB",
+      "objections": [
+        "Competitor pricing",
+        "Data migration risk",
+        "Price too high",
+        "Integration complexity"
+      ],
+      "strategyUsed": "Security documentation",
+      "relevantLessons": "Map competitor strengths to customer priorities"
+    },
+    {
+      "id": "D0221",
+      "deal_id": "D0221",
+      "client": "Client Company 143",
+      "industry": "Retail",
+      "product": "Product 17",
+      "value": 94334.0,
+      "outcome": "WON",
+      "summary": "Product 17 evaluation across India Enterprise",
+      "objections": [],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0222",
+      "deal_id": "D0222",
+      "client": "Client Company 093",
+      "industry": "Logistics",
+      "product": "Product 05",
+      "value": 195709.0,
+      "outcome": "LOST",
+      "summary": "Product 05 evaluation across APAC SMB",
+      "objections": [
+        "Support concerns",
+        "Implementation timeline"
+      ],
+      "strategyUsed": "No change",
+      "relevantLessons": "Map competitor strengths to customer priorities"
+    },
+    {
+      "id": "D0223",
+      "deal_id": "D0223",
+      "client": "Client Company 096",
+      "industry": "Retail",
+      "product": "Product 19",
+      "value": 283892.0,
+      "outcome": "LOST",
+      "summary": "Product 19 evaluation across Middle East SMB",
+      "objections": [
+        "Security concerns"
+      ],
+      "strategyUsed": "No change",
+      "relevantLessons": "Understand the real pricing concern"
+    },
+    {
+      "id": "D0225",
+      "deal_id": "D0225",
+      "client": "Client Company 094",
+      "industry": "Manufacturing",
+      "product": "Product 09",
+      "value": 115742.0,
+      "outcome": "LOST",
+      "summary": "Product 09 evaluation across Europe Mid-Market",
+      "objections": [
+        "Data migration risk",
+        "Implementation timeline",
+        "Competitor pricing"
+      ],
+      "strategyUsed": "Implementation roadmap",
+      "relevantLessons": "Address implementation risk explicitly"
+    },
+    {
+      "id": "D0226",
+      "deal_id": "D0226",
+      "client": "Client Company 109",
+      "industry": "Manufacturing",
+      "product": "Product 22",
+      "value": 94731.0,
+      "outcome": "LOST",
+      "summary": "Product 22 evaluation across Middle East SMB",
+      "objections": [
+        "Data migration risk"
+      ],
+      "strategyUsed": "Implementation roadmap",
+      "relevantLessons": "Validate technical requirements early"
+    },
+    {
+      "id": "D0227",
+      "deal_id": "D0227",
+      "client": "Client Company 088",
+      "industry": "Retail",
+      "product": "Product 02",
+      "value": 137794.0,
+      "outcome": "LOST",
+      "summary": "Product 02 evaluation across Middle East Mid-Market",
+      "objections": [
+        "Contract terms",
+        "Price too high",
+        "Missing feature",
+        "Support concerns"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0229",
+      "deal_id": "D0229",
+      "client": "Client Company 079",
+      "industry": "IT Services",
+      "product": "Product 18",
+      "value": 29576.0,
+      "outcome": "LOST",
+      "summary": "Product 18 evaluation across APAC Mid-Market",
+      "objections": [],
+      "strategyUsed": "Security documentation",
+      "relevantLessons": "Provide evidence before negotiation"
+    },
+    {
+      "id": "D0231",
+      "deal_id": "D0231",
+      "client": "Client Company 109",
+      "industry": "Manufacturing",
+      "product": "Product 09",
+      "value": 72692.0,
+      "outcome": "LOST",
+      "summary": "Product 09 evaluation across Middle East SMB",
+      "objections": [
+        "Security concerns",
+        "Price too high"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0233",
+      "deal_id": "D0233",
+      "client": "Client Company 144",
+      "industry": "Manufacturing",
+      "product": "Product 20",
+      "value": 459671.0,
+      "outcome": "WON",
+      "summary": "Product 20 evaluation across Europe SMB",
+      "objections": [
+        "Compliance requirement",
+        "Security concerns"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0234",
+      "deal_id": "D0234",
+      "client": "Client Company 144",
+      "industry": "Manufacturing",
+      "product": "Product 30",
+      "value": 15805.0,
+      "outcome": "LOST",
+      "summary": "Product 30 evaluation across Europe SMB",
+      "objections": [
+        "Contract terms",
+        "Integration complexity"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0235",
+      "deal_id": "D0235",
+      "client": "Client Company 026",
+      "industry": "Telecom",
+      "product": "Product 26",
+      "value": 170943.0,
+      "outcome": "LOST",
+      "summary": "Product 26 evaluation across APAC Mid-Market",
+      "objections": [
+        "Price too high",
+        "Contract terms",
+        "Competitor pricing"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0236",
+      "deal_id": "D0236",
+      "client": "Client Company 121",
+      "industry": "Manufacturing",
+      "product": "Product 06",
+      "value": 458980.0,
+      "outcome": "LOST",
+      "summary": "Product 06 evaluation across Middle East SMB",
+      "objections": [
+        "Competitor pricing",
+        "Implementation timeline"
+      ],
+      "strategyUsed": "Implementation roadmap",
+      "relevantLessons": "Address implementation risk explicitly"
+    },
+    {
+      "id": "D0237",
+      "deal_id": "D0237",
+      "client": "Client Company 062",
+      "industry": "Telecom",
+      "product": "Product 01",
+      "value": 309942.0,
+      "outcome": "LOST",
+      "summary": "Product 01 evaluation across Middle East Enterprise",
+      "objections": [
+        "Contract terms",
+        "Missing feature"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0240",
+      "deal_id": "D0240",
+      "client": "Client Company 118",
+      "industry": "Healthcare",
+      "product": "Product 05",
+      "value": 485908.0,
+      "outcome": "WON",
+      "summary": "Product 05 evaluation across India Mid-Market",
+      "objections": [
+        "Support concerns"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0241",
+      "deal_id": "D0241",
+      "client": "Client Company 150",
+      "industry": "Banking",
+      "product": "Product 07",
+      "value": 209218.0,
+      "outcome": "LOST",
+      "summary": "Product 07 evaluation across APAC SMB",
+      "objections": [
+        "Security concerns",
+        "Support concerns"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0242",
+      "deal_id": "D0242",
+      "client": "Client Company 120",
+      "industry": "Banking",
+      "product": "Product 26",
+      "value": 271386.0,
+      "outcome": "LOST",
+      "summary": "Product 26 evaluation across Europe Mid-Market",
+      "objections": [],
+      "strategyUsed": "Executive engagement",
+      "relevantLessons": "Provide evidence before negotiation"
+    },
+    {
+      "id": "D0243",
+      "deal_id": "D0243",
+      "client": "Client Company 140",
+      "industry": "Manufacturing",
+      "product": "Product 27",
+      "value": 272964.0,
+      "outcome": "WON",
+      "summary": "Product 27 evaluation across APAC Mid-Market",
+      "objections": [
+        "Competitor pricing"
+      ],
+      "strategyUsed": "Executive engagement",
+      "relevantLessons": "Provide evidence before negotiation"
+    },
+    {
+      "id": "D0244",
+      "deal_id": "D0244",
+      "client": "Client Company 142",
+      "industry": "Healthcare",
+      "product": "Product 26",
+      "value": 335316.0,
+      "outcome": "WON",
+      "summary": "Product 26 evaluation across APAC SMB",
+      "objections": [
+        "Contract terms",
+        "Integration complexity"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0245",
+      "deal_id": "D0245",
+      "client": "Client Company 014",
+      "industry": "Logistics",
+      "product": "Product 08",
+      "value": 105810.0,
+      "outcome": "WON",
+      "summary": "Product 08 evaluation across APAC Mid-Market",
+      "objections": [
+        "Compliance requirement",
+        "Security concerns"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0246",
+      "deal_id": "D0246",
+      "client": "Client Company 039",
+      "industry": "Retail",
+      "product": "Product 19",
+      "value": 422246.0,
+      "outcome": "LOST",
+      "summary": "Product 19 evaluation across APAC SMB",
+      "objections": [
+        "Compliance requirement",
+        "Data migration risk",
+        "Missing feature"
+      ],
+      "strategyUsed": "Executive engagement",
+      "relevantLessons": "Provide evidence before negotiation"
+    },
+    {
+      "id": "D0247",
+      "deal_id": "D0247",
+      "client": "Client Company 109",
+      "industry": "Manufacturing",
+      "product": "Product 19",
+      "value": 494472.0,
+      "outcome": "LOST",
+      "summary": "Product 19 evaluation across Middle East SMB",
+      "objections": [
+        "Integration complexity",
+        "Compliance requirement"
+      ],
+      "strategyUsed": "No change",
+      "relevantLessons": "Validate technical requirements early"
+    },
+    {
+      "id": "D0249",
+      "deal_id": "D0249",
+      "client": "Client Company 008",
+      "industry": "Telecom",
+      "product": "Product 17",
+      "value": 411879.0,
+      "outcome": "LOST",
+      "summary": "Product 17 evaluation across Europe Mid-Market",
+      "objections": [
+        "Support concerns",
+        "Implementation timeline"
+      ],
+      "strategyUsed": "Executive engagement",
+      "relevantLessons": "Validate technical requirements early"
+    },
+    {
+      "id": "D0251",
+      "deal_id": "D0251",
+      "client": "Client Company 079",
+      "industry": "IT Services",
+      "product": "Product 12",
+      "value": 374683.0,
+      "outcome": "WON",
+      "summary": "Product 12 evaluation across APAC Mid-Market",
+      "objections": [
+        "Compliance requirement",
+        "Competitor pricing"
+      ],
+      "strategyUsed": "Technical proof",
+      "relevantLessons": "Address implementation risk explicitly"
+    },
+    {
+      "id": "D0252",
+      "deal_id": "D0252",
+      "client": "Client Company 093",
+      "industry": "Logistics",
+      "product": "Product 23",
+      "value": 194875.0,
+      "outcome": "LOST",
+      "summary": "Product 23 evaluation across APAC SMB",
+      "objections": [
+        "Implementation timeline",
+        "Contract terms",
+        "Contract terms",
+        "Price too high"
+      ],
+      "strategyUsed": "Implementation roadmap",
+      "relevantLessons": "Map competitor strengths to customer priorities"
+    },
+    {
+      "id": "D0253",
+      "deal_id": "D0253",
+      "client": "Client Company 026",
+      "industry": "Telecom",
+      "product": "Product 21",
+      "value": 242348.0,
+      "outcome": "WON",
+      "summary": "Product 21 evaluation across APAC Mid-Market",
+      "objections": [
+        "Competitor pricing",
+        "Missing feature",
+        "Price too high"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0254",
+      "deal_id": "D0254",
+      "client": "Client Company 026",
+      "industry": "Telecom",
+      "product": "Product 16",
+      "value": 422017.0,
+      "outcome": "LOST",
+      "summary": "Product 16 evaluation across APAC Mid-Market",
+      "objections": [
+        "Implementation timeline",
+        "Contract terms"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0258",
+      "deal_id": "D0258",
+      "client": "Client Company 086",
+      "industry": "Telecom",
+      "product": "Product 09",
+      "value": 345706.0,
+      "outcome": "WON",
+      "summary": "Product 09 evaluation across India Enterprise",
+      "objections": [
+        "Contract terms",
+        "Price too high"
+      ],
+      "strategyUsed": "Implementation roadmap",
+      "relevantLessons": "Provide evidence before negotiation"
+    },
+    {
+      "id": "D0259",
+      "deal_id": "D0259",
+      "client": "Client Company 072",
+      "industry": "Healthcare",
+      "product": "Product 23",
+      "value": 180572.0,
+      "outcome": "WON",
+      "summary": "Product 23 evaluation across North America Mid-Market",
+      "objections": [
+        "Competitor pricing",
+        "Competitor pricing",
+        "Contract terms"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0260",
+      "deal_id": "D0260",
+      "client": "Client Company 070",
+      "industry": "Manufacturing",
+      "product": "Product 22",
+      "value": 286188.0,
+      "outcome": "WON",
+      "summary": "Product 22 evaluation across North America Enterprise",
+      "objections": [
+        "Support concerns"
+      ],
+      "strategyUsed": "Customized package",
+      "relevantLessons": "Provide evidence before negotiation"
+    },
+    {
+      "id": "D0261",
+      "deal_id": "D0261",
+      "client": "Client Company 102",
+      "industry": "Healthcare",
+      "product": "Product 30",
+      "value": 39301.0,
+      "outcome": "WON",
+      "summary": "Product 30 evaluation across North America Mid-Market",
+      "objections": [],
+      "strategyUsed": "Customized package",
+      "relevantLessons": "Address implementation risk explicitly"
+    },
+    {
+      "id": "D0262",
+      "deal_id": "D0262",
+      "client": "Client Company 079",
+      "industry": "IT Services",
+      "product": "Product 05",
+      "value": 466924.0,
+      "outcome": "LOST",
+      "summary": "Product 05 evaluation across APAC Mid-Market",
+      "objections": [
+        "Security concerns"
+      ],
+      "strategyUsed": "Executive engagement",
+      "relevantLessons": "Understand the real pricing concern"
+    },
+    {
+      "id": "D0263",
+      "deal_id": "D0263",
+      "client": "Client Company 110",
+      "industry": "Telecom",
+      "product": "Product 13",
+      "value": 181065.0,
+      "outcome": "LOST",
+      "summary": "Product 13 evaluation across India Mid-Market",
+      "objections": [],
+      "strategyUsed": "No change",
+      "relevantLessons": "Understand the real pricing concern"
+    },
+    {
+      "id": "D0264",
+      "deal_id": "D0264",
+      "client": "Client Company 115",
+      "industry": "IT Services",
+      "product": "Product 28",
+      "value": 42692.0,
+      "outcome": "LOST",
+      "summary": "Product 28 evaluation across India Enterprise",
+      "objections": [],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0266",
+      "deal_id": "D0266",
+      "client": "Client Company 120",
+      "industry": "Banking",
+      "product": "Product 29",
+      "value": 333915.0,
+      "outcome": "LOST",
+      "summary": "Product 29 evaluation across Europe Mid-Market",
+      "objections": [
+        "Compliance requirement",
+        "Support concerns"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0268",
+      "deal_id": "D0268",
+      "client": "Client Company 074",
+      "industry": "Healthcare",
+      "product": "Product 02",
+      "value": 41236.0,
+      "outcome": "WON",
+      "summary": "Product 02 evaluation across APAC SMB",
+      "objections": [
+        "Data migration risk",
+        "Integration complexity"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0269",
+      "deal_id": "D0269",
+      "client": "Client Company 036",
+      "industry": "Banking",
+      "product": "Product 24",
+      "value": 379156.0,
+      "outcome": "WON",
+      "summary": "Product 24 evaluation across Middle East Mid-Market",
+      "objections": [
+        "Contract terms",
+        "Support concerns"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0270",
+      "deal_id": "D0270",
+      "client": "Client Company 090",
+      "industry": "Logistics",
+      "product": "Product 11",
+      "value": 324098.0,
+      "outcome": "LOST",
+      "summary": "Product 11 evaluation across India Mid-Market",
+      "objections": [
+        "Price too high",
+        "Data migration risk"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0272",
+      "deal_id": "D0272",
+      "client": "Client Company 140",
+      "industry": "Manufacturing",
+      "product": "Product 13",
+      "value": 416255.0,
+      "outcome": "WON",
+      "summary": "Product 13 evaluation across APAC Mid-Market",
+      "objections": [
+        "Data migration risk",
+        "Implementation timeline"
+      ],
+      "strategyUsed": "Technical proof",
+      "relevantLessons": "Provide evidence before negotiation"
+    },
+    {
+      "id": "D0273",
+      "deal_id": "D0273",
+      "client": "Client Company 127",
+      "industry": "Banking",
+      "product": "Product 13",
+      "value": 117797.0,
+      "outcome": "LOST",
+      "summary": "Product 13 evaluation across Middle East Mid-Market",
+      "objections": [
+        "Contract terms",
+        "Missing feature"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0274",
+      "deal_id": "D0274",
+      "client": "Client Company 018",
+      "industry": "Healthcare",
+      "product": "Product 29",
+      "value": 117160.0,
+      "outcome": "LOST",
+      "summary": "Product 29 evaluation across North America SMB",
+      "objections": [
+        "Integration complexity"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0275",
+      "deal_id": "D0275",
+      "client": "Client Company 118",
+      "industry": "Healthcare",
+      "product": "Product 03",
+      "value": 463034.0,
+      "outcome": "WON",
+      "summary": "Product 03 evaluation across India Mid-Market",
+      "objections": [
+        "Data migration risk",
+        "Data migration risk",
+        "Competitor pricing",
+        "Security concerns"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0276",
+      "deal_id": "D0276",
+      "client": "Client Company 018",
+      "industry": "Healthcare",
+      "product": "Product 24",
+      "value": 272547.0,
+      "outcome": "WON",
+      "summary": "Product 24 evaluation across North America SMB",
+      "objections": [
+        "Integration complexity",
+        "Data migration risk"
+      ],
+      "strategyUsed": "Executive engagement",
+      "relevantLessons": "Provide evidence before negotiation"
+    },
+    {
+      "id": "D0278",
+      "deal_id": "D0278",
+      "client": "Client Company 014",
+      "industry": "Logistics",
+      "product": "Product 20",
+      "value": 154292.0,
+      "outcome": "LOST",
+      "summary": "Product 20 evaluation across APAC Mid-Market",
+      "objections": [
+        "Price too high"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0279",
+      "deal_id": "D0279",
+      "client": "Client Company 074",
+      "industry": "Healthcare",
+      "product": "Product 12",
+      "value": 324921.0,
+      "outcome": "WON",
+      "summary": "Product 12 evaluation across APAC SMB",
+      "objections": [
+        "Price too high"
+      ],
+      "strategyUsed": "Security documentation",
+      "relevantLessons": "Map competitor strengths to customer priorities"
+    },
+    {
+      "id": "D0281",
+      "deal_id": "D0281",
+      "client": "Client Company 110",
+      "industry": "Telecom",
+      "product": "Product 21",
+      "value": 16119.0,
+      "outcome": "WON",
+      "summary": "Product 21 evaluation across India Mid-Market",
+      "objections": [
+        "Contract terms",
+        "Compliance requirement"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0283",
+      "deal_id": "D0283",
+      "client": "Client Company 139",
+      "industry": "Retail",
+      "product": "Product 05",
+      "value": 496783.0,
+      "outcome": "WON",
+      "summary": "Product 05 evaluation across India Mid-Market",
+      "objections": [
+        "Security concerns"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0284",
+      "deal_id": "D0284",
+      "client": "Client Company 117",
+      "industry": "Banking",
+      "product": "Product 11",
+      "value": 151110.0,
+      "outcome": "LOST",
+      "summary": "Product 11 evaluation across Middle East Mid-Market",
+      "objections": [
+        "Integration complexity",
+        "Contract terms"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0285",
+      "deal_id": "D0285",
+      "client": "Client Company 032",
+      "industry": "Healthcare",
+      "product": "Product 29",
+      "value": 151234.0,
+      "outcome": "WON",
+      "summary": "Product 29 evaluation across APAC SMB",
+      "objections": [
+        "Compliance requirement"
+      ],
+      "strategyUsed": "Customized package",
+      "relevantLessons": "Provide evidence before negotiation"
+    },
+    {
+      "id": "D0286",
+      "deal_id": "D0286",
+      "client": "Client Company 101",
+      "industry": "Logistics",
+      "product": "Product 08",
+      "value": 440893.0,
+      "outcome": "WON",
+      "summary": "Product 08 evaluation across Middle East SMB",
+      "objections": [
+        "Data migration risk"
+      ],
+      "strategyUsed": "No change",
+      "relevantLessons": "Validate technical requirements early"
+    },
+    {
+      "id": "D0288",
+      "deal_id": "D0288",
+      "client": "Client Company 051",
+      "industry": "Logistics",
+      "product": "Product 21",
+      "value": 207797.0,
+      "outcome": "WON",
+      "summary": "Product 21 evaluation across Europe Mid-Market",
+      "objections": [
+        "Missing feature",
+        "Implementation timeline"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0289",
+      "deal_id": "D0289",
+      "client": "Client Company 111",
+      "industry": "Retail",
+      "product": "Product 06",
+      "value": 237257.0,
+      "outcome": "WON",
+      "summary": "Product 06 evaluation across India Enterprise",
+      "objections": [
+        "Contract terms"
+      ],
+      "strategyUsed": "Customized package",
+      "relevantLessons": "Understand the real pricing concern"
+    },
+    {
+      "id": "D0290",
+      "deal_id": "D0290",
+      "client": "Client Company 135",
+      "industry": "Logistics",
+      "product": "Product 28",
+      "value": 401971.0,
+      "outcome": "WON",
+      "summary": "Product 28 evaluation across Europe Mid-Market",
+      "objections": [
+        "Price too high"
+      ],
+      "strategyUsed": "Security documentation",
+      "relevantLessons": "Provide evidence before negotiation"
+    },
+    {
+      "id": "D0291",
+      "deal_id": "D0291",
+      "client": "Client Company 123",
+      "industry": "Telecom",
+      "product": "Product 26",
+      "value": 77579.0,
+      "outcome": "LOST",
+      "summary": "Product 26 evaluation across North America SMB",
+      "objections": [
+        "Missing feature",
+        "Competitor pricing",
+        "Missing feature",
+        "Competitor pricing"
+      ],
+      "strategyUsed": "Executive engagement",
+      "relevantLessons": "Validate technical requirements early"
+    },
+    {
+      "id": "D0294",
+      "deal_id": "D0294",
+      "client": "Client Company 041",
+      "industry": "Healthcare",
+      "product": "Product 08",
+      "value": 397003.0,
+      "outcome": "WON",
+      "summary": "Product 08 evaluation across North America Enterprise",
+      "objections": [
+        "Price too high",
+        "Security concerns",
+        "Support concerns"
+      ],
+      "strategyUsed": "Security documentation",
+      "relevantLessons": "Provide evidence before negotiation"
+    },
+    {
+      "id": "D0295",
+      "deal_id": "D0295",
+      "client": "Client Company 120",
+      "industry": "Banking",
+      "product": "Product 07",
+      "value": 321657.0,
+      "outcome": "WON",
+      "summary": "Product 07 evaluation across Europe Mid-Market",
+      "objections": [
+        "Competitor pricing"
+      ],
+      "strategyUsed": "Executive engagement",
+      "relevantLessons": "Understand the real pricing concern"
+    },
+    {
+      "id": "D0296",
+      "deal_id": "D0296",
+      "client": "Client Company 055",
+      "industry": "Manufacturing",
+      "product": "Product 11",
+      "value": 255917.0,
+      "outcome": "WON",
+      "summary": "Product 11 evaluation across Middle East Mid-Market",
+      "objections": [],
+      "strategyUsed": "No change",
+      "relevantLessons": "Understand the real pricing concern"
+    },
+    {
+      "id": "D0297",
+      "deal_id": "D0297",
+      "client": "Client Company 080",
+      "industry": "Telecom",
+      "product": "Product 15",
+      "value": 205569.0,
+      "outcome": "LOST",
+      "summary": "Product 15 evaluation across APAC SMB",
+      "objections": [
+        "Price too high"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    },
+    {
+      "id": "D0299",
+      "deal_id": "D0299",
+      "client": "Client Company 047",
+      "industry": "Manufacturing",
+      "product": "Product 23",
+      "value": 462098.0,
+      "outcome": "LOST",
+      "summary": "Product 23 evaluation across Middle East Mid-Market",
+      "objections": [
+        "Contract terms"
+      ],
+      "strategyUsed": "Customized package",
+      "relevantLessons": "Map competitor strengths to customer priorities"
+    },
+    {
+      "id": "D0300",
+      "deal_id": "D0300",
+      "client": "Client Company 024",
+      "industry": "Education",
+      "product": "Product 20",
+      "value": 329115.0,
+      "outcome": "LOST",
+      "summary": "Product 20 evaluation across Middle East Enterprise",
+      "objections": [
+        "Contract terms",
+        "Security concerns"
+      ],
+      "strategyUsed": "Technical POC and SLA addendum",
+      "relevantLessons": "Validate client integration hurdles early"
+    }
+  ],
+  "vocabulary": {
+    "across": 0,
+    "america": 1,
+    "apac": 2,
+    "banking": 3,
+    "client": 4,
+    "company": 5,
+    "competitor": 6,
+    "complexity": 7,
+    "compliance": 8,
+    "concerns": 9,
+    "contract": 10,
+    "data": 11,
+    "east": 12,
+    "education": 13,
+    "enterprise": 14,
+    "europe": 15,
+    "evaluation": 16,
+    "feature": 17,
+    "healthcare": 18,
+    "high": 19,
+    "implementation": 20,
+    "india": 21,
+    "integration": 22,
+    "logistics": 23,
+    "manufacturing": 24,
+    "market": 25,
+    "mid": 26,
+    "middle": 27,
+    "migration": 28,
+    "missing": 29,
+    "north": 30,
+    "price": 31,
+    "pricing": 32,
+    "product": 33,
+    "requirement": 34,
+    "retail": 35,
+    "risk": 36,
+    "security": 37,
+    "services": 38,
+    "smb": 39,
+    "support": 40,
+    "telecom": 41,
+    "terms": 42,
+    "timeline": 43,
+    "too": 44
+  },
+  "idf": {
+    "across": 1.0,
+    "america": 3.029844600540464,
+    "apac": 2.493539891473488,
+    "banking": 3.096535975039136,
+    "client": 1.0,
+    "company": 1.0,
+    "competitor": 2.9980959022258835,
+    "complexity": 2.826245645299224,
+    "compliance": 2.7502597383213025,
+    "concerns": 2.2741770629991844,
+    "contract": 2.474847758461336,
+    "data": 2.9980959022258835,
+    "east": 2.474847758461336,
+    "education": 3.51939282585917,
+    "enterprise": 2.369487242803509,
+    "europe": 2.9084837435361965,
+    "evaluation": 1.0,
+    "feature": 3.244955980157409,
+    "healthcare": 3.029844600540464,
+    "high": 2.937471280409449,
+    "implementation": 3.1316272948504063,
+    "india": 2.259139185634644,
+    "integration": 2.826245645299224,
+    "logistics": 2.635190408536515,
+    "manufacturing": 2.7502597383213025,
+    "market": 1.7910029705637038,
+    "mid": 1.7910029705637038,
+    "middle": 2.474847758461336,
+    "migration": 2.9980959022258835,
+    "missing": 3.244955980157409,
+    "north": 3.029844600540464,
+    "price": 2.937471280409449,
+    "pricing": 2.9980959022258835,
+    "product": 1.0,
+    "requirement": 2.7502597383213025,
+    "retail": 3.205735267004128,
+    "risk": 2.9980959022258835,
+    "security": 2.8529138923813857,
+    "services": 3.3283375890964604,
+    "smb": 2.2011519279842946,
+    "support": 2.8803128665695,
+    "telecom": 3.1316272948504063,
+    "terms": 2.474847758461336,
+    "timeline": 3.1316272948504063,
+    "too": 2.937471280409449
+  }
+}

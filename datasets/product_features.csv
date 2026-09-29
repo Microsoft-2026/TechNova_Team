@@ -1,0 +1,301 @@
+feature_id,product_id,feature,category,availability,description
+PF0001,P001,Data migration,Analytics,Supported,Capability description for enterprise evaluation
+PF0002,P004,Data residency,Operations,Supported,Capability description for enterprise evaluation
+PF0003,P008,Data migration,Analytics,Not Supported,Capability description for enterprise evaluation
+PF0004,P025,ERP integration,Compliance,Supported,Capability description for enterprise evaluation
+PF0005,P012,SSO integration,Integration,Supported,Capability description for enterprise evaluation
+PF0006,P002,Data residency,Integration,Partial,Capability description for enterprise evaluation
+PF0007,P016,Mobile access,Security,Supported,Capability description for enterprise evaluation
+PF0008,P019,Role-based access,Security,Not Supported,Capability description for enterprise evaluation
+PF0009,P014,SSO integration,Security,Supported,Capability description for enterprise evaluation
+PF0010,P003,API integration,Operations,Supported,Capability description for enterprise evaluation
+PF0011,P027,Advanced analytics,Security,Partial,Capability description for enterprise evaluation
+PF0012,P026,Data migration,Analytics,Supported,Capability description for enterprise evaluation
+PF0013,P028,Mobile access,Analytics,Not Supported,Capability description for enterprise evaluation
+PF0014,P029,Workflow automation,Security,Supported,Capability description for enterprise evaluation
+PF0015,P010,Data residency,Operations,Supported,Capability description for enterprise evaluation
+PF0016,P013,API integration,Analytics,Supported,Capability description for enterprise evaluation
+PF0017,P029,API integration,Security,Supported,Capability description for enterprise evaluation
+PF0018,P014,Mobile access,Security,Partial,Capability description for enterprise evaluation
+PF0019,P026,Role-based access,Compliance,Supported,Capability description for enterprise evaluation
+PF0020,P020,API integration,Compliance,Partial,Capability description for enterprise evaluation
+PF0021,P028,SSO integration,Analytics,Not Supported,Capability description for enterprise evaluation
+PF0022,P001,Mobile access,Analytics,Supported,Capability description for enterprise evaluation
+PF0023,P022,Workflow automation,Security,Partial,Capability description for enterprise evaluation
+PF0024,P025,Data migration,Security,Supported,Capability description for enterprise evaluation
+PF0025,P006,Advanced analytics,Analytics,Partial,Capability description for enterprise evaluation
+PF0026,P023,Mobile access,Integration,Supported,Capability description for enterprise evaluation
+PF0027,P006,Mobile access,Integration,Partial,Capability description for enterprise evaluation
+PF0028,P028,Custom reporting,Integration,Supported,Capability description for enterprise evaluation
+PF0029,P028,Advanced analytics,Compliance,Supported,Capability description for enterprise evaluation
+PF0030,P001,Data residency,Integration,Supported,Capability description for enterprise evaluation
+PF0031,P016,Role-based access,Integration,Supported,Capability description for enterprise evaluation
+PF0032,P012,Mobile access,Integration,Not Supported,Capability description for enterprise evaluation
+PF0033,P027,API integration,Compliance,Supported,Capability description for enterprise evaluation
+PF0034,P010,API integration,Security,Not Supported,Capability description for enterprise evaluation
+PF0035,P022,ERP integration,Operations,Supported,Capability description for enterprise evaluation
+PF0036,P004,Role-based access,Analytics,Supported,Capability description for enterprise evaluation
+PF0037,P007,Data migration,Integration,Supported,Capability description for enterprise evaluation
+PF0038,P030,Advanced analytics,Compliance,Supported,Capability description for enterprise evaluation
+PF0039,P012,Data residency,Operations,Partial,Capability description for enterprise evaluation
+PF0040,P023,Data migration,Security,Supported,Capability description for enterprise evaluation
+PF0041,P030,Advanced analytics,Integration,Not Supported,Capability description for enterprise evaluation
+PF0042,P029,Mobile access,Security,Supported,Capability description for enterprise evaluation
+PF0043,P001,Mobile access,Security,Supported,Capability description for enterprise evaluation
+PF0044,P007,Custom reporting,Compliance,Supported,Capability description for enterprise evaluation
+PF0045,P022,Advanced analytics,Security,Partial,Capability description for enterprise evaluation
+PF0046,P028,ERP integration,Integration,Supported,Capability description for enterprise evaluation
+PF0047,P030,Role-based access,Operations,Not Supported,Capability description for enterprise evaluation
+PF0048,P022,Role-based access,Compliance,Supported,Capability description for enterprise evaluation
+PF0049,P004,Role-based access,Compliance,Supported,Capability description for enterprise evaluation
+PF0050,P023,Data residency,Security,Partial,Capability description for enterprise evaluation
+PF0051,P009,Custom reporting,Operations,Partial,Capability description for enterprise evaluation
+PF0052,P025,Role-based access,Security,Partial,Capability description for enterprise evaluation
+PF0053,P017,Role-based access,Compliance,Supported,Capability description for enterprise evaluation
+PF0054,P006,Data residency,Compliance,Partial,Capability description for enterprise evaluation
+PF0055,P026,Data residency,Analytics,Supported,Capability description for enterprise evaluation
+PF0056,P030,SSO integration,Operations,Not Supported,Capability description for enterprise evaluation
+PF0057,P016,Role-based access,Operations,Supported,Capability description for enterprise evaluation
+PF0058,P025,Mobile access,Security,Partial,Capability description for enterprise evaluation
+PF0059,P002,API integration,Operations,Supported,Capability description for enterprise evaluation
+PF0060,P009,API integration,Integration,Partial,Capability description for enterprise evaluation
+PF0061,P004,Role-based access,Compliance,Not Supported,Capability description for enterprise evaluation
+PF0062,P009,API integration,Operations,Not Supported,Capability description for enterprise evaluation
+PF0063,P012,Custom reporting,Analytics,Supported,Capability description for enterprise evaluation
+PF0064,P013,Mobile access,Operations,Supported,Capability description for enterprise evaluation
+PF0065,P010,SSO integration,Operations,Partial,Capability description for enterprise evaluation
+PF0066,P017,Workflow automation,Analytics,Partial,Capability description for enterprise evaluation
+PF0067,P007,ERP integration,Security,Partial,Capability description for enterprise evaluation
+PF0068,P011,Advanced analytics,Analytics,Supported,Capability description for enterprise evaluation
+PF0069,P026,Role-based access,Operations,Supported,Capability description for enterprise evaluation
+PF0070,P017,Role-based access,Integration,Supported,Capability description for enterprise evaluation
+PF0071,P001,Mobile access,Operations,Partial,Capability description for enterprise evaluation
+PF0072,P010,Advanced analytics,Security,Supported,Capability description for enterprise evaluation
+PF0073,P025,SSO integration,Compliance,Supported,Capability description for enterprise evaluation
+PF0074,P006,Advanced analytics,Compliance,Partial,Capability description for enterprise evaluation
+PF0075,P028,API integration,Security,Supported,Capability description for enterprise evaluation
+PF0076,P009,Data migration,Analytics,Not Supported,Capability description for enterprise evaluation
+PF0077,P019,Advanced analytics,Security,Supported,Capability description for enterprise evaluation
+PF0078,P015,Mobile access,Integration,Supported,Capability description for enterprise evaluation
+PF0079,P019,API integration,Operations,Supported,Capability description for enterprise evaluation
+PF0080,P024,Role-based access,Security,Supported,Capability description for enterprise evaluation
+PF0081,P005,Data residency,Operations,Partial,Capability description for enterprise evaluation
+PF0082,P011,Custom reporting,Compliance,Supported,Capability description for enterprise evaluation
+PF0083,P018,Data residency,Compliance,Supported,Capability description for enterprise evaluation
+PF0084,P008,Mobile access,Integration,Supported,Capability description for enterprise evaluation
+PF0085,P012,Data residency,Operations,Partial,Capability description for enterprise evaluation
+PF0086,P027,Advanced analytics,Integration,Partial,Capability description for enterprise evaluation
+PF0087,P007,Data residency,Analytics,Supported,Capability description for enterprise evaluation
+PF0088,P006,Advanced analytics,Security,Supported,Capability description for enterprise evaluation
+PF0089,P018,SSO integration,Operations,Supported,Capability description for enterprise evaluation
+PF0090,P003,Custom reporting,Compliance,Partial,Capability description for enterprise evaluation
+PF0091,P001,API integration,Security,Supported,Capability description for enterprise evaluation
+PF0092,P027,Custom reporting,Compliance,Supported,Capability description for enterprise evaluation
+PF0093,P009,Advanced analytics,Security,Partial,Capability description for enterprise evaluation
+PF0094,P004,Advanced analytics,Analytics,Supported,Capability description for enterprise evaluation
+PF0095,P020,Mobile access,Analytics,Partial,Capability description for enterprise evaluation
+PF0096,P015,Advanced analytics,Operations,Supported,Capability description for enterprise evaluation
+PF0097,P014,Data residency,Integration,Not Supported,Capability description for enterprise evaluation
+PF0098,P014,Advanced analytics,Security,Supported,Capability description for enterprise evaluation
+PF0099,P005,ERP integration,Analytics,Supported,Capability description for enterprise evaluation
+PF0100,P026,SSO integration,Operations,Supported,Capability description for enterprise evaluation
+PF0101,P001,Advanced analytics,Compliance,Supported,Capability description for enterprise evaluation
+PF0102,P015,Workflow automation,Security,Partial,Capability description for enterprise evaluation
+PF0103,P009,Custom reporting,Security,Supported,Capability description for enterprise evaluation
+PF0104,P020,Role-based access,Compliance,Supported,Capability description for enterprise evaluation
+PF0105,P017,Mobile access,Compliance,Partial,Capability description for enterprise evaluation
+PF0106,P012,SSO integration,Analytics,Supported,Capability description for enterprise evaluation
+PF0107,P017,ERP integration,Security,Partial,Capability description for enterprise evaluation
+PF0108,P007,Mobile access,Integration,Partial,Capability description for enterprise evaluation
+PF0109,P004,API integration,Operations,Supported,Capability description for enterprise evaluation
+PF0110,P028,Role-based access,Security,Partial,Capability description for enterprise evaluation
+PF0111,P019,Data migration,Integration,Not Supported,Capability description for enterprise evaluation
+PF0112,P020,Workflow automation,Analytics,Partial,Capability description for enterprise evaluation
+PF0113,P030,Role-based access,Compliance,Supported,Capability description for enterprise evaluation
+PF0114,P028,Advanced analytics,Operations,Supported,Capability description for enterprise evaluation
+PF0115,P018,Role-based access,Analytics,Not Supported,Capability description for enterprise evaluation
+PF0116,P024,SSO integration,Analytics,Partial,Capability description for enterprise evaluation
+PF0117,P016,Advanced analytics,Integration,Supported,Capability description for enterprise evaluation
+PF0118,P008,Advanced analytics,Security,Supported,Capability description for enterprise evaluation
+PF0119,P019,Data residency,Integration,Partial,Capability description for enterprise evaluation
+PF0120,P028,Data residency,Integration,Partial,Capability description for enterprise evaluation
+PF0121,P027,SSO integration,Security,Not Supported,Capability description for enterprise evaluation
+PF0122,P016,Mobile access,Compliance,Not Supported,Capability description for enterprise evaluation
+PF0123,P029,Workflow automation,Integration,Supported,Capability description for enterprise evaluation
+PF0124,P006,Custom reporting,Analytics,Partial,Capability description for enterprise evaluation
+PF0125,P002,Advanced analytics,Integration,Supported,Capability description for enterprise evaluation
+PF0126,P013,Custom reporting,Analytics,Supported,Capability description for enterprise evaluation
+PF0127,P007,API integration,Security,Supported,Capability description for enterprise evaluation
+PF0128,P029,Role-based access,Compliance,Not Supported,Capability description for enterprise evaluation
+PF0129,P004,Data migration,Compliance,Supported,Capability description for enterprise evaluation
+PF0130,P017,ERP integration,Integration,Supported,Capability description for enterprise evaluation
+PF0131,P024,Role-based access,Integration,Supported,Capability description for enterprise evaluation
+PF0132,P004,Data residency,Compliance,Supported,Capability description for enterprise evaluation
+PF0133,P002,Advanced analytics,Integration,Supported,Capability description for enterprise evaluation
+PF0134,P017,Role-based access,Security,Supported,Capability description for enterprise evaluation
+PF0135,P028,API integration,Integration,Supported,Capability description for enterprise evaluation
+PF0136,P001,API integration,Operations,Supported,Capability description for enterprise evaluation
+PF0137,P001,SSO integration,Analytics,Partial,Capability description for enterprise evaluation
+PF0138,P028,Data migration,Integration,Partial,Capability description for enterprise evaluation
+PF0139,P019,Data migration,Analytics,Partial,Capability description for enterprise evaluation
+PF0140,P022,Workflow automation,Integration,Supported,Capability description for enterprise evaluation
+PF0141,P009,Workflow automation,Compliance,Supported,Capability description for enterprise evaluation
+PF0142,P010,Workflow automation,Analytics,Supported,Capability description for enterprise evaluation
+PF0143,P015,Custom reporting,Analytics,Not Supported,Capability description for enterprise evaluation
+PF0144,P007,Data migration,Analytics,Supported,Capability description for enterprise evaluation
+PF0145,P014,Custom reporting,Analytics,Supported,Capability description for enterprise evaluation
+PF0146,P029,Data residency,Analytics,Not Supported,Capability description for enterprise evaluation
+PF0147,P023,Role-based access,Integration,Not Supported,Capability description for enterprise evaluation
+PF0148,P027,Role-based access,Operations,Supported,Capability description for enterprise evaluation
+PF0149,P015,Custom reporting,Integration,Partial,Capability description for enterprise evaluation
+PF0150,P024,Role-based access,Operations,Supported,Capability description for enterprise evaluation
+PF0151,P013,Workflow automation,Compliance,Supported,Capability description for enterprise evaluation
+PF0152,P019,Role-based access,Analytics,Supported,Capability description for enterprise evaluation
+PF0153,P022,Custom reporting,Integration,Not Supported,Capability description for enterprise evaluation
+PF0154,P025,Workflow automation,Analytics,Supported,Capability description for enterprise evaluation
+PF0155,P028,Mobile access,Operations,Partial,Capability description for enterprise evaluation
+PF0156,P004,Data residency,Security,Supported,Capability description for enterprise evaluation
+PF0157,P024,Workflow automation,Analytics,Partial,Capability description for enterprise evaluation
+PF0158,P022,Advanced analytics,Compliance,Partial,Capability description for enterprise evaluation
+PF0159,P023,Custom reporting,Compliance,Partial,Capability description for enterprise evaluation
+PF0160,P001,Advanced analytics,Security,Not Supported,Capability description for enterprise evaluation
+PF0161,P015,Data migration,Analytics,Partial,Capability description for enterprise evaluation
+PF0162,P029,Data residency,Security,Partial,Capability description for enterprise evaluation
+PF0163,P028,Role-based access,Operations,Supported,Capability description for enterprise evaluation
+PF0164,P007,SSO integration,Integration,Not Supported,Capability description for enterprise evaluation
+PF0165,P015,Data residency,Analytics,Supported,Capability description for enterprise evaluation
+PF0166,P026,ERP integration,Operations,Supported,Capability description for enterprise evaluation
+PF0167,P028,ERP integration,Analytics,Supported,Capability description for enterprise evaluation
+PF0168,P010,API integration,Security,Supported,Capability description for enterprise evaluation
+PF0169,P025,Advanced analytics,Operations,Partial,Capability description for enterprise evaluation
+PF0170,P026,Mobile access,Compliance,Supported,Capability description for enterprise evaluation
+PF0171,P005,ERP integration,Compliance,Supported,Capability description for enterprise evaluation
+PF0172,P001,ERP integration,Security,Not Supported,Capability description for enterprise evaluation
+PF0173,P002,Data residency,Analytics,Not Supported,Capability description for enterprise evaluation
+PF0174,P005,Advanced analytics,Analytics,Supported,Capability description for enterprise evaluation
+PF0175,P023,Data residency,Integration,Not Supported,Capability description for enterprise evaluation
+PF0176,P012,Role-based access,Analytics,Supported,Capability description for enterprise evaluation
+PF0177,P021,ERP integration,Integration,Supported,Capability description for enterprise evaluation
+PF0178,P003,API integration,Analytics,Not Supported,Capability description for enterprise evaluation
+PF0179,P019,API integration,Operations,Partial,Capability description for enterprise evaluation
+PF0180,P023,SSO integration,Compliance,Partial,Capability description for enterprise evaluation
+PF0181,P030,Data residency,Integration,Supported,Capability description for enterprise evaluation
+PF0182,P010,Workflow automation,Integration,Supported,Capability description for enterprise evaluation
+PF0183,P017,Mobile access,Security,Supported,Capability description for enterprise evaluation
+PF0184,P015,SSO integration,Integration,Not Supported,Capability description for enterprise evaluation
+PF0185,P011,ERP integration,Security,Supported,Capability description for enterprise evaluation
+PF0186,P020,Workflow automation,Security,Supported,Capability description for enterprise evaluation
+PF0187,P017,Data migration,Operations,Supported,Capability description for enterprise evaluation
+PF0188,P025,Role-based access,Operations,Partial,Capability description for enterprise evaluation
+PF0189,P001,Data migration,Analytics,Supported,Capability description for enterprise evaluation
+PF0190,P007,Advanced analytics,Compliance,Partial,Capability description for enterprise evaluation
+PF0191,P018,Role-based access,Analytics,Supported,Capability description for enterprise evaluation
+PF0192,P018,Advanced analytics,Compliance,Supported,Capability description for enterprise evaluation
+PF0193,P028,ERP integration,Operations,Supported,Capability description for enterprise evaluation
+PF0194,P021,API integration,Security,Supported,Capability description for enterprise evaluation
+PF0195,P001,ERP integration,Integration,Partial,Capability description for enterprise evaluation
+PF0196,P015,ERP integration,Security,Partial,Capability description for enterprise evaluation
+PF0197,P026,Data residency,Compliance,Supported,Capability description for enterprise evaluation
+PF0198,P027,API integration,Operations,Supported,Capability description for enterprise evaluation
+PF0199,P025,API integration,Compliance,Supported,Capability description for enterprise evaluation
+PF0200,P015,ERP integration,Compliance,Not Supported,Capability description for enterprise evaluation
+PF0201,P004,ERP integration,Analytics,Not Supported,Capability description for enterprise evaluation
+PF0202,P007,Data migration,Security,Partial,Capability description for enterprise evaluation
+PF0203,P026,Data migration,Compliance,Supported,Capability description for enterprise evaluation
+PF0204,P011,Custom reporting,Operations,Supported,Capability description for enterprise evaluation
+PF0205,P023,ERP integration,Operations,Not Supported,Capability description for enterprise evaluation
+PF0206,P002,Workflow automation,Integration,Supported,Capability description for enterprise evaluation
+PF0207,P015,Data migration,Integration,Partial,Capability description for enterprise evaluation
+PF0208,P029,Workflow automation,Compliance,Not Supported,Capability description for enterprise evaluation
+PF0209,P008,Custom reporting,Security,Partial,Capability description for enterprise evaluation
+PF0210,P001,Custom reporting,Security,Partial,Capability description for enterprise evaluation
+PF0211,P009,ERP integration,Operations,Supported,Capability description for enterprise evaluation
+PF0212,P002,Role-based access,Operations,Not Supported,Capability description for enterprise evaluation
+PF0213,P019,SSO integration,Analytics,Supported,Capability description for enterprise evaluation
+PF0214,P006,Data residency,Analytics,Not Supported,Capability description for enterprise evaluation
+PF0215,P008,Workflow automation,Analytics,Supported,Capability description for enterprise evaluation
+PF0216,P018,Data migration,Security,Partial,Capability description for enterprise evaluation
+PF0217,P010,Workflow automation,Integration,Not Supported,Capability description for enterprise evaluation
+PF0218,P020,Role-based access,Integration,Partial,Capability description for enterprise evaluation
+PF0219,P028,SSO integration,Operations,Supported,Capability description for enterprise evaluation
+PF0220,P028,Advanced analytics,Analytics,Supported,Capability description for enterprise evaluation
+PF0221,P022,Role-based access,Compliance,Partial,Capability description for enterprise evaluation
+PF0222,P030,Data residency,Security,Partial,Capability description for enterprise evaluation
+PF0223,P023,SSO integration,Operations,Supported,Capability description for enterprise evaluation
+PF0224,P003,Role-based access,Operations,Not Supported,Capability description for enterprise evaluation
+PF0225,P029,Workflow automation,Analytics,Not Supported,Capability description for enterprise evaluation
+PF0226,P018,SSO integration,Integration,Not Supported,Capability description for enterprise evaluation
+PF0227,P001,Workflow automation,Operations,Partial,Capability description for enterprise evaluation
+PF0228,P019,API integration,Operations,Not Supported,Capability description for enterprise evaluation
+PF0229,P008,Role-based access,Analytics,Not Supported,Capability description for enterprise evaluation
+PF0230,P017,SSO integration,Integration,Supported,Capability description for enterprise evaluation
+PF0231,P020,Role-based access,Compliance,Not Supported,Capability description for enterprise evaluation
+PF0232,P001,Custom reporting,Integration,Supported,Capability description for enterprise evaluation
+PF0233,P014,Data migration,Compliance,Not Supported,Capability description for enterprise evaluation
+PF0234,P002,Data residency,Operations,Partial,Capability description for enterprise evaluation
+PF0235,P004,Advanced analytics,Analytics,Partial,Capability description for enterprise evaluation
+PF0236,P007,SSO integration,Security,Supported,Capability description for enterprise evaluation
+PF0237,P024,Custom reporting,Analytics,Supported,Capability description for enterprise evaluation
+PF0238,P013,Data residency,Operations,Supported,Capability description for enterprise evaluation
+PF0239,P002,ERP integration,Integration,Partial,Capability description for enterprise evaluation
+PF0240,P023,Mobile access,Operations,Not Supported,Capability description for enterprise evaluation
+PF0241,P017,Role-based access,Integration,Supported,Capability description for enterprise evaluation
+PF0242,P005,Mobile access,Compliance,Supported,Capability description for enterprise evaluation
+PF0243,P017,Custom reporting,Compliance,Partial,Capability description for enterprise evaluation
+PF0244,P008,ERP integration,Security,Supported,Capability description for enterprise evaluation
+PF0245,P020,ERP integration,Security,Supported,Capability description for enterprise evaluation
+PF0246,P029,API integration,Operations,Supported,Capability description for enterprise evaluation
+PF0247,P010,API integration,Compliance,Partial,Capability description for enterprise evaluation
+PF0248,P023,Data residency,Compliance,Partial,Capability description for enterprise evaluation
+PF0249,P001,Data residency,Integration,Not Supported,Capability description for enterprise evaluation
+PF0250,P013,Data residency,Security,Supported,Capability description for enterprise evaluation
+PF0251,P027,API integration,Integration,Supported,Capability description for enterprise evaluation
+PF0252,P003,SSO integration,Analytics,Partial,Capability description for enterprise evaluation
+PF0253,P028,API integration,Compliance,Not Supported,Capability description for enterprise evaluation
+PF0254,P003,Workflow automation,Integration,Supported,Capability description for enterprise evaluation
+PF0255,P015,Workflow automation,Integration,Not Supported,Capability description for enterprise evaluation
+PF0256,P006,Workflow automation,Integration,Partial,Capability description for enterprise evaluation
+PF0257,P001,SSO integration,Operations,Not Supported,Capability description for enterprise evaluation
+PF0258,P011,Custom reporting,Compliance,Supported,Capability description for enterprise evaluation
+PF0259,P018,Role-based access,Operations,Supported,Capability description for enterprise evaluation
+PF0260,P022,Advanced analytics,Security,Supported,Capability description for enterprise evaluation
+PF0261,P010,Custom reporting,Analytics,Partial,Capability description for enterprise evaluation
+PF0262,P015,SSO integration,Analytics,Not Supported,Capability description for enterprise evaluation
+PF0263,P006,ERP integration,Analytics,Supported,Capability description for enterprise evaluation
+PF0264,P022,SSO integration,Integration,Supported,Capability description for enterprise evaluation
+PF0265,P006,Mobile access,Security,Supported,Capability description for enterprise evaluation
+PF0266,P026,Workflow automation,Security,Partial,Capability description for enterprise evaluation
+PF0267,P006,Custom reporting,Compliance,Not Supported,Capability description for enterprise evaluation
+PF0268,P020,SSO integration,Analytics,Supported,Capability description for enterprise evaluation
+PF0269,P010,Data migration,Security,Partial,Capability description for enterprise evaluation
+PF0270,P030,Custom reporting,Integration,Supported,Capability description for enterprise evaluation
+PF0271,P009,ERP integration,Operations,Not Supported,Capability description for enterprise evaluation
+PF0272,P029,Role-based access,Analytics,Partial,Capability description for enterprise evaluation
+PF0273,P026,Mobile access,Operations,Supported,Capability description for enterprise evaluation
+PF0274,P015,Workflow automation,Security,Partial,Capability description for enterprise evaluation
+PF0275,P015,Workflow automation,Security,Partial,Capability description for enterprise evaluation
+PF0276,P011,Workflow automation,Analytics,Not Supported,Capability description for enterprise evaluation
+PF0277,P013,SSO integration,Compliance,Partial,Capability description for enterprise evaluation
+PF0278,P014,API integration,Operations,Supported,Capability description for enterprise evaluation
+PF0279,P005,API integration,Analytics,Partial,Capability description for enterprise evaluation
+PF0280,P010,ERP integration,Integration,Partial,Capability description for enterprise evaluation
+PF0281,P027,ERP integration,Analytics,Supported,Capability description for enterprise evaluation
+PF0282,P030,API integration,Integration,Not Supported,Capability description for enterprise evaluation
+PF0283,P002,Data residency,Security,Supported,Capability description for enterprise evaluation
+PF0284,P022,Advanced analytics,Security,Not Supported,Capability description for enterprise evaluation
+PF0285,P008,Custom reporting,Compliance,Supported,Capability description for enterprise evaluation
+PF0286,P020,SSO integration,Compliance,Supported,Capability description for enterprise evaluation
+PF0287,P019,ERP integration,Security,Supported,Capability description for enterprise evaluation
+PF0288,P027,API integration,Analytics,Partial,Capability description for enterprise evaluation
+PF0289,P022,API integration,Operations,Not Supported,Capability description for enterprise evaluation
+PF0290,P025,Data residency,Operations,Supported,Capability description for enterprise evaluation
+PF0291,P025,Mobile access,Analytics,Supported,Capability description for enterprise evaluation
+PF0292,P020,ERP integration,Security,Not Supported,Capability description for enterprise evaluation
+PF0293,P013,Data migration,Compliance,Partial,Capability description for enterprise evaluation
+PF0294,P011,Workflow automation,Analytics,Supported,Capability description for enterprise evaluation
+PF0295,P011,SSO integration,Operations,Not Supported,Capability description for enterprise evaluation
+PF0296,P011,Workflow automation,Analytics,Supported,Capability description for enterprise evaluation
+PF0297,P009,Mobile access,Compliance,Supported,Capability description for enterprise evaluation
+PF0298,P010,SSO integration,Analytics,Supported,Capability description for enterprise evaluation
+PF0299,P018,ERP integration,Analytics,Partial,Capability description for enterprise evaluation
+PF0300,P009,Role-based access,Integration,Supported,Capability description for enterprise evaluation

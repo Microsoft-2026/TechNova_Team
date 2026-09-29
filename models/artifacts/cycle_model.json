@@ -1,0 +1,44 @@
+{
+  "version": "1.0.0",
+  "model_name": "sales-cycle",
+  "weights": [
+    9.617673643656028,
+    0.05519205112609849,
+    0.6815430182678257,
+    0.3150607625109915,
+    0.06347404939037038,
+    10.27458379877529,
+    1.019502502902253,
+    5.778843742247232,
+    0.2123428687789244,
+    0.39091446562639226,
+    3.5603584586925257,
+    0.0,
+    -0.20874895200576188
+  ],
+  "bias": 77.95970376866067,
+  "feature_names": [
+    "log_deal_value",
+    "discount_ratio",
+    "industry_win_rate",
+    "product_win_rate",
+    "company_size_tier",
+    "total_objections",
+    "high_severity_objections",
+    "unresolved_objections",
+    "has_competitor",
+    "competitor_preferred",
+    "interaction_count",
+    "inactivity_days",
+    "rep_win_rate"
+  ],
+  "baseline_median_days": 73.5,
+  "std_error": 4.85,
+  "metrics": {
+    "mae": 3.77,
+    "rmse": 4.87,
+    "r2": 0.9417,
+    "sampleCount": 45,
+    "baselineMedianDays": 73.5
+  }
+}

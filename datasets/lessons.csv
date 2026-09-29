@@ -1,0 +1,251 @@
+lesson_id,deal_id,situation,objection,strategy_used,result,lesson,confidence,source_interaction_id
+L00001,D0216,Pricing concern,Implementation timeline,No change,Won,Map competitor strengths to customer priorities,Medium,I00823
+L00002,D0192,Competitive evaluation,Security concerns,Executive engagement,Lost,Map competitor strengths to customer priorities,Low,I00642
+L00003,D0191,Security review,Price too high,Executive engagement,Partially Successful,Address implementation risk explicitly,High,I00567
+L00004,D0026,Pricing concern,Competitor pricing,Security documentation,Partially Successful,Map competitor strengths to customer priorities,Low,I01486
+L00005,D0256,Competitive evaluation,Compliance requirement,Executive engagement,Lost,Map competitor strengths to customer priorities,High,I01237
+L00006,D0052,Competitive evaluation,Security concerns,Security documentation,Won,Validate technical requirements early,Medium,I00726
+L00007,D0118,Integration concern,Implementation timeline,Executive engagement,Lost,Address implementation risk explicitly,High,I01024
+L00008,D0154,Feature gap,Support concerns,Customized package,Partially Successful,Understand the real pricing concern,High,I00828
+L00009,D0255,Competitive evaluation,Compliance requirement,Technical proof,Won,Provide evidence before negotiation,High,I00968
+L00010,D0189,Pricing concern,Security concerns,Technical proof,Won,Validate technical requirements early,Low,I01431
+L00011,D0056,Security review,Contract terms,Security documentation,Won,Address implementation risk explicitly,Medium,I01009
+L00012,D0086,Feature gap,Price too high,Executive engagement,Partially Successful,Map competitor strengths to customer priorities,Medium,I00170
+L00013,D0060,Integration concern,Missing feature,Customized package,Won,Provide evidence before negotiation,High,I00755
+L00014,D0178,Feature gap,Compliance requirement,Executive engagement,Partially Successful,Address implementation risk explicitly,High,I01230
+L00015,D0216,Implementation concern,Data migration risk,Executive engagement,Won,Understand the real pricing concern,High,I00060
+L00016,D0213,Competitive evaluation,Contract terms,Executive engagement,Lost,Address implementation risk explicitly,High,I00536
+L00017,D0226,Competitive evaluation,Contract terms,Implementation roadmap,Partially Successful,Validate technical requirements early,High,I00302
+L00018,D0211,Implementation concern,Contract terms,Customized package,Won,Map competitor strengths to customer priorities,Low,I01082
+L00019,D0271,Implementation concern,Contract terms,Implementation roadmap,Won,Understand the real pricing concern,Medium,I00211
+L00020,D0272,Implementation concern,Competitor pricing,Technical proof,Partially Successful,Provide evidence before negotiation,High,I00937
+L00021,D0083,Implementation concern,Price too high,Technical proof,Partially Successful,Map competitor strengths to customer priorities,High,I00096
+L00022,D0092,Competitive evaluation,Competitor pricing,No change,Partially Successful,Validate technical requirements early,Medium,I01386
+L00023,D0017,Security review,Compliance requirement,Implementation roadmap,Won,Map competitor strengths to customer priorities,Medium,I00480
+L00024,D0081,Security review,Compliance requirement,No change,Partially Successful,Address implementation risk explicitly,Medium,I00612
+L00025,D0153,Competitive evaluation,Implementation timeline,Security documentation,Won,Map competitor strengths to customer priorities,Medium,I01182
+L00026,D0198,Competitive evaluation,Missing feature,Security documentation,Lost,Provide evidence before negotiation,High,I00570
+L00027,D0263,Implementation concern,Implementation timeline,No change,Partially Successful,Understand the real pricing concern,High,I00173
+L00028,D0179,Security review,Competitor pricing,Implementation roadmap,Partially Successful,Provide evidence before negotiation,Low,I01358
+L00029,D0292,Implementation concern,Data migration risk,No change,Won,Provide evidence before negotiation,Medium,I00168
+L00030,D0166,Implementation concern,Implementation timeline,Customized package,Lost,Map competitor strengths to customer priorities,Low,I00746
+L00031,D0258,Security review,Contract terms,Implementation roadmap,Won,Provide evidence before negotiation,High,I00187
+L00032,D0243,Integration concern,Price too high,Executive engagement,Lost,Provide evidence before negotiation,Medium,I01047
+L00033,D0147,Implementation concern,Implementation timeline,Executive engagement,Partially Successful,Validate technical requirements early,High,I00405
+L00034,D0262,Security review,Security concerns,Executive engagement,Won,Understand the real pricing concern,Low,I01399
+L00035,D0260,Pricing concern,Implementation timeline,Customized package,Won,Provide evidence before negotiation,High,I00304
+L00036,D0094,Feature gap,Data migration risk,Implementation roadmap,Won,Understand the real pricing concern,Medium,I01005
+L00037,D0065,Competitive evaluation,Price too high,Customized package,Won,Understand the real pricing concern,High,I00021
+L00038,D0037,Pricing concern,Competitor pricing,Executive engagement,Lost,Validate technical requirements early,High,I00170
+L00039,D0277,Integration concern,Data migration risk,Implementation roadmap,Partially Successful,Map competitor strengths to customer priorities,High,I00415
+L00040,D0133,Implementation concern,Implementation timeline,Technical proof,Won,Map competitor strengths to customer priorities,Medium,I01326
+L00041,D0171,Feature gap,Integration complexity,Executive engagement,Lost,Understand the real pricing concern,Medium,I01495
+L00042,D0082,Security review,Compliance requirement,Executive engagement,Partially Successful,Validate technical requirements early,Low,I00921
+L00043,D0117,Competitive evaluation,Competitor pricing,Customized package,Lost,Map competitor strengths to customer priorities,Medium,I00505
+L00044,D0121,Pricing concern,Data migration risk,Customized package,Won,Map competitor strengths to customer priorities,Medium,I00469
+L00045,D0175,Implementation concern,Implementation timeline,Technical proof,Won,Map competitor strengths to customer priorities,Medium,I00317
+L00046,D0053,Competitive evaluation,Data migration risk,Customized package,Won,Provide evidence before negotiation,High,I00511
+L00047,D0236,Feature gap,Compliance requirement,Implementation roadmap,Won,Address implementation risk explicitly,Medium,I00744
+L00048,D0118,Integration concern,Security concerns,No change,Won,Address implementation risk explicitly,Medium,I01028
+L00049,D0073,Competitive evaluation,Contract terms,Customized package,Lost,Understand the real pricing concern,Medium,I00345
+L00050,D0005,Pricing concern,Compliance requirement,Implementation roadmap,Lost,Provide evidence before negotiation,High,I00054
+L00051,D0031,Pricing concern,Support concerns,Security documentation,Partially Successful,Understand the real pricing concern,High,I00840
+L00052,D0081,Feature gap,Competitor pricing,No change,Partially Successful,Address implementation risk explicitly,High,I00365
+L00053,D0220,Competitive evaluation,Compliance requirement,Security documentation,Won,Map competitor strengths to customer priorities,Low,I00601
+L00054,D0257,Integration concern,Price too high,Executive engagement,Lost,Validate technical requirements early,Medium,I01068
+L00055,D0286,Feature gap,Security concerns,No change,Partially Successful,Validate technical requirements early,Medium,I01346
+L00056,D0090,Feature gap,Integration complexity,Customized package,Won,Understand the real pricing concern,High,I00802
+L00057,D0192,Pricing concern,Missing feature,Technical proof,Partially Successful,Validate technical requirements early,Medium,I01392
+L00058,D0081,Pricing concern,Data migration risk,Technical proof,Won,Validate technical requirements early,High,I00404
+L00059,D0043,Integration concern,Price too high,Technical proof,Lost,Map competitor strengths to customer priorities,High,I01070
+L00060,D0163,Competitive evaluation,Missing feature,Implementation roadmap,Partially Successful,Provide evidence before negotiation,Medium,I01470
+L00061,D0194,Implementation concern,Integration complexity,Customized package,Lost,Address implementation risk explicitly,High,I00324
+L00062,D0229,Implementation concern,Data migration risk,Security documentation,Lost,Provide evidence before negotiation,High,I01108
+L00063,D0035,Security review,Implementation timeline,Customized package,Lost,Address implementation risk explicitly,High,I00711
+L00064,D0225,Security review,Competitor pricing,Implementation roadmap,Lost,Address implementation risk explicitly,High,I01322
+L00065,D0092,Implementation concern,Contract terms,Executive engagement,Partially Successful,Validate technical requirements early,Low,I00459
+L00066,D0084,Pricing concern,Contract terms,Security documentation,Partially Successful,Validate technical requirements early,Medium,I01441
+L00067,D0010,Implementation concern,Competitor pricing,Security documentation,Won,Provide evidence before negotiation,Low,I01198
+L00068,D0062,Integration concern,Integration complexity,Security documentation,Lost,Understand the real pricing concern,Low,I01058
+L00069,D0147,Competitive evaluation,Security concerns,Technical proof,Partially Successful,Map competitor strengths to customer priorities,High,I00044
+L00070,D0057,Integration concern,Support concerns,Security documentation,Lost,Understand the real pricing concern,High,I00125
+L00071,D0097,Pricing concern,Support concerns,No change,Lost,Understand the real pricing concern,Medium,I00994
+L00072,D0160,Security review,Price too high,Customized package,Partially Successful,Provide evidence before negotiation,High,I00719
+L00073,D0030,Security review,Security concerns,Executive engagement,Partially Successful,Validate technical requirements early,Low,I00485
+L00074,D0263,Implementation concern,Security concerns,Customized package,Won,Map competitor strengths to customer priorities,High,I01263
+L00075,D0093,Feature gap,Price too high,Customized package,Partially Successful,Validate technical requirements early,Medium,I00722
+L00076,D0228,Competitive evaluation,Contract terms,Technical proof,Partially Successful,Map competitor strengths to customer priorities,Medium,I00689
+L00077,D0195,Security review,Price too high,Technical proof,Won,Address implementation risk explicitly,Low,I00485
+L00078,D0226,Competitive evaluation,Competitor pricing,Technical proof,Partially Successful,Map competitor strengths to customer priorities,Medium,I01473
+L00079,D0087,Implementation concern,Missing feature,No change,Lost,Understand the real pricing concern,Medium,I00548
+L00080,D0052,Integration concern,Support concerns,No change,Won,Map competitor strengths to customer priorities,High,I00390
+L00081,D0043,Pricing concern,Data migration risk,Executive engagement,Lost,Map competitor strengths to customer priorities,Medium,I01012
+L00082,D0069,Pricing concern,Compliance requirement,Customized package,Lost,Provide evidence before negotiation,Medium,I00052
+L00083,D0164,Integration concern,Security concerns,No change,Lost,Understand the real pricing concern,Medium,I00894
+L00084,D0188,Competitive evaluation,Missing feature,No change,Won,Validate technical requirements early,Medium,I00847
+L00085,D0226,Security review,Price too high,Customized package,Partially Successful,Validate technical requirements early,High,I00367
+L00086,D0290,Security review,Competitor pricing,Security documentation,Lost,Provide evidence before negotiation,High,I01154
+L00087,D0250,Security review,Missing feature,Executive engagement,Won,Map competitor strengths to customer priorities,Low,I00066
+L00088,D0108,Integration concern,Integration complexity,Customized package,Lost,Provide evidence before negotiation,High,I01473
+L00089,D0142,Competitive evaluation,Competitor pricing,Customized package,Lost,Map competitor strengths to customer priorities,Medium,I01285
+L00090,D0287,Pricing concern,Compliance requirement,Implementation roadmap,Won,Address implementation risk explicitly,Medium,I00264
+L00091,D0214,Implementation concern,Price too high,Security documentation,Partially Successful,Address implementation risk explicitly,Low,I00739
+L00092,D0126,Feature gap,Competitor pricing,Security documentation,Lost,Address implementation risk explicitly,High,I00296
+L00093,D0250,Feature gap,Support concerns,Executive engagement,Partially Successful,Map competitor strengths to customer priorities,High,I00929
+L00094,D0041,Security review,Implementation timeline,Implementation roadmap,Partially Successful,Map competitor strengths to customer priorities,Medium,I00529
+L00095,D0202,Feature gap,Contract terms,Executive engagement,Won,Validate technical requirements early,Medium,I00733
+L00096,D0285,Integration concern,Support concerns,Customized package,Won,Provide evidence before negotiation,Medium,I01436
+L00097,D0159,Integration concern,Data migration risk,Customized package,Partially Successful,Provide evidence before negotiation,High,I00929
+L00098,D0184,Security review,Contract terms,Technical proof,Lost,Map competitor strengths to customer priorities,High,I01301
+L00099,D0018,Pricing concern,Price too high,Technical proof,Won,Understand the real pricing concern,Low,I00941
+L00100,D0182,Integration concern,Compliance requirement,Technical proof,Won,Map competitor strengths to customer priorities,Medium,I00712
+L00101,D0088,Feature gap,Compliance requirement,Executive engagement,Lost,Provide evidence before negotiation,Low,I00023
+L00102,D0299,Competitive evaluation,Security concerns,Customized package,Lost,Map competitor strengths to customer priorities,Low,I00134
+L00103,D0096,Integration concern,Data migration risk,Customized package,Won,Address implementation risk explicitly,Medium,I00800
+L00104,D0095,Integration concern,Security concerns,Technical proof,Won,Understand the real pricing concern,Medium,I00756
+L00105,D0119,Security review,Implementation timeline,Technical proof,Lost,Map competitor strengths to customer priorities,Medium,I00754
+L00106,D0210,Pricing concern,Security concerns,Technical proof,Lost,Validate technical requirements early,Medium,I01269
+L00107,D0286,Pricing concern,Competitor pricing,Technical proof,Won,Validate technical requirements early,Medium,I00144
+L00108,D0104,Feature gap,Contract terms,Implementation roadmap,Won,Provide evidence before negotiation,High,I00989
+L00109,D0063,Competitive evaluation,Competitor pricing,Customized package,Won,Understand the real pricing concern,Low,I01119
+L00110,D0230,Competitive evaluation,Support concerns,Customized package,Lost,Validate technical requirements early,Medium,I00969
+L00111,D0163,Integration concern,Support concerns,No change,Won,Map competitor strengths to customer priorities,Medium,I00354
+L00112,D0137,Feature gap,Integration complexity,Customized package,Won,Validate technical requirements early,High,I00610
+L00113,D0298,Integration concern,Competitor pricing,Customized package,Partially Successful,Provide evidence before negotiation,High,I00082
+L00114,D0149,Feature gap,Support concerns,Customized package,Partially Successful,Understand the real pricing concern,Medium,I00266
+L00115,D0186,Implementation concern,Integration complexity,Implementation roadmap,Lost,Understand the real pricing concern,Medium,I01205
+L00116,D0295,Integration concern,Price too high,Executive engagement,Won,Understand the real pricing concern,High,I00927
+L00117,D0063,Competitive evaluation,Support concerns,Executive engagement,Partially Successful,Understand the real pricing concern,High,I01298
+L00118,D0271,Security review,Implementation timeline,Executive engagement,Partially Successful,Address implementation risk explicitly,Medium,I01038
+L00119,D0289,Integration concern,Implementation timeline,Customized package,Partially Successful,Understand the real pricing concern,Low,I00362
+L00120,D0142,Competitive evaluation,Implementation timeline,Security documentation,Won,Address implementation risk explicitly,High,I01220
+L00121,D0101,Competitive evaluation,Competitor pricing,Implementation roadmap,Lost,Provide evidence before negotiation,High,I01032
+L00122,D0049,Implementation concern,Implementation timeline,Executive engagement,Partially Successful,Address implementation risk explicitly,High,I00288
+L00123,D0015,Security review,Implementation timeline,Security documentation,Won,Provide evidence before negotiation,High,I00008
+L00124,D0296,Integration concern,Implementation timeline,No change,Won,Understand the real pricing concern,High,I01146
+L00125,D0130,Security review,Price too high,No change,Won,Provide evidence before negotiation,Medium,I01082
+L00126,D0201,Feature gap,Price too high,Executive engagement,Lost,Address implementation risk explicitly,Medium,I00135
+L00127,D0073,Security review,Data migration risk,Executive engagement,Lost,Provide evidence before negotiation,High,I00698
+L00128,D0098,Feature gap,Price too high,No change,Won,Map competitor strengths to customer priorities,High,I01371
+L00129,D0246,Pricing concern,Support concerns,Executive engagement,Partially Successful,Provide evidence before negotiation,Low,I01189
+L00130,D0197,Pricing concern,Data migration risk,Implementation roadmap,Lost,Understand the real pricing concern,High,I01226
+L00131,D0066,Integration concern,Missing feature,Security documentation,Won,Validate technical requirements early,Medium,I00590
+L00132,D0002,Pricing concern,Implementation timeline,Security documentation,Partially Successful,Understand the real pricing concern,High,I00182
+L00133,D0246,Feature gap,Support concerns,Executive engagement,Partially Successful,Validate technical requirements early,Medium,I00527
+L00134,D0025,Security review,Data migration risk,Technical proof,Won,Validate technical requirements early,Medium,I01031
+L00135,D0011,Pricing concern,Price too high,Implementation roadmap,Partially Successful,Understand the real pricing concern,High,I01262
+L00136,D0091,Implementation concern,Data migration risk,Implementation roadmap,Won,Understand the real pricing concern,Medium,I00967
+L00137,D0279,Feature gap,Integration complexity,Security documentation,Partially Successful,Map competitor strengths to customer priorities,Medium,I00058
+L00138,D0194,Feature gap,Missing feature,Security documentation,Lost,Address implementation risk explicitly,High,I00886
+L00139,D0013,Pricing concern,Missing feature,Customized package,Won,Address implementation risk explicitly,Medium,I00281
+L00140,D0276,Competitive evaluation,Data migration risk,Executive engagement,Won,Provide evidence before negotiation,High,I00915
+L00141,D0282,Security review,Implementation timeline,Customized package,Partially Successful,Validate technical requirements early,High,I00619
+L00142,D0210,Feature gap,Missing feature,Customized package,Lost,Map competitor strengths to customer priorities,Low,I00800
+L00143,D0023,Implementation concern,Contract terms,Technical proof,Lost,Provide evidence before negotiation,High,I00895
+L00144,D0005,Competitive evaluation,Competitor pricing,Implementation roadmap,Partially Successful,Provide evidence before negotiation,High,I00958
+L00145,D0262,Feature gap,Compliance requirement,Technical proof,Lost,Address implementation risk explicitly,High,I00008
+L00146,D0247,Feature gap,Price too high,No change,Won,Validate technical requirements early,Low,I01450
+L00147,D0250,Pricing concern,Contract terms,No change,Partially Successful,Provide evidence before negotiation,High,I00863
+L00148,D0146,Competitive evaluation,Price too high,Security documentation,Lost,Address implementation risk explicitly,High,I00761
+L00149,D0179,Pricing concern,Data migration risk,No change,Won,Address implementation risk explicitly,Medium,I00568
+L00150,D0052,Feature gap,Support concerns,Customized package,Partially Successful,Provide evidence before negotiation,Medium,I00157
+L00151,D0011,Implementation concern,Missing feature,Customized package,Partially Successful,Map competitor strengths to customer priorities,Medium,I00946
+L00152,D0067,Integration concern,Competitor pricing,Security documentation,Won,Map competitor strengths to customer priorities,Low,I00545
+L00153,D0187,Integration concern,Compliance requirement,No change,Lost,Validate technical requirements early,High,I01361
+L00154,D0121,Feature gap,Compliance requirement,Implementation roadmap,Partially Successful,Validate technical requirements early,Medium,I00987
+L00155,D0186,Implementation concern,Contract terms,Executive engagement,Partially Successful,Provide evidence before negotiation,Medium,I00662
+L00156,D0133,Integration concern,Contract terms,Implementation roadmap,Won,Map competitor strengths to customer priorities,High,I00048
+L00157,D0168,Competitive evaluation,Competitor pricing,Security documentation,Partially Successful,Provide evidence before negotiation,Medium,I00832
+L00158,D0286,Competitive evaluation,Security concerns,No change,Won,Understand the real pricing concern,Medium,I01268
+L00159,D0190,Pricing concern,Implementation timeline,No change,Lost,Provide evidence before negotiation,High,I00695
+L00160,D0287,Integration concern,Implementation timeline,Security documentation,Lost,Map competitor strengths to customer priorities,High,I00976
+L00161,D0291,Feature gap,Support concerns,Executive engagement,Won,Validate technical requirements early,High,I00178
+L00162,D0186,Security review,Implementation timeline,Implementation roadmap,Partially Successful,Provide evidence before negotiation,Medium,I00611
+L00163,D0299,Pricing concern,Integration complexity,Implementation roadmap,Won,Address implementation risk explicitly,High,I01190
+L00164,D0075,Implementation concern,Support concerns,Customized package,Partially Successful,Understand the real pricing concern,Low,I00636
+L00165,D0157,Feature gap,Support concerns,Technical proof,Partially Successful,Validate technical requirements early,High,I01328
+L00166,D0023,Implementation concern,Missing feature,No change,Lost,Address implementation risk explicitly,Low,I00615
+L00167,D0028,Feature gap,Competitor pricing,Technical proof,Lost,Address implementation risk explicitly,Medium,I01218
+L00168,D0040,Pricing concern,Support concerns,Implementation roadmap,Won,Address implementation risk explicitly,High,I00966
+L00169,D0041,Competitive evaluation,Compliance requirement,No change,Partially Successful,Address implementation risk explicitly,High,I01422
+L00170,D0124,Implementation concern,Security concerns,Implementation roadmap,Partially Successful,Address implementation risk explicitly,Medium,I00800
+L00171,D0217,Feature gap,Integration complexity,Technical proof,Lost,Understand the real pricing concern,High,I00703
+L00172,D0296,Implementation concern,Implementation timeline,No change,Won,Validate technical requirements early,High,I00531
+L00173,D0295,Competitive evaluation,Competitor pricing,Customized package,Lost,Map competitor strengths to customer priorities,Medium,I00979
+L00174,D0054,Pricing concern,Compliance requirement,Executive engagement,Partially Successful,Understand the real pricing concern,Low,I01471
+L00175,D0131,Pricing concern,Integration complexity,Technical proof,Partially Successful,Map competitor strengths to customer priorities,Medium,I00253
+L00176,D0130,Competitive evaluation,Competitor pricing,Implementation roadmap,Won,Provide evidence before negotiation,Medium,I01405
+L00177,D0030,Pricing concern,Data migration risk,Security documentation,Partially Successful,Provide evidence before negotiation,Medium,I01466
+L00178,D0012,Feature gap,Competitor pricing,Implementation roadmap,Won,Validate technical requirements early,Medium,I01154
+L00179,D0106,Pricing concern,Contract terms,Security documentation,Lost,Map competitor strengths to customer priorities,High,I00871
+L00180,D0257,Competitive evaluation,Price too high,Implementation roadmap,Lost,Provide evidence before negotiation,Medium,I01295
+L00181,D0116,Security review,Data migration risk,No change,Won,Map competitor strengths to customer priorities,Medium,I00393
+L00182,D0116,Implementation concern,Price too high,Executive engagement,Won,Address implementation risk explicitly,Medium,I00951
+L00183,D0299,Implementation concern,Implementation timeline,Security documentation,Partially Successful,Validate technical requirements early,Low,I01209
+L00184,D0114,Security review,Support concerns,No change,Lost,Map competitor strengths to customer priorities,High,I01208
+L00185,D0206,Security review,Contract terms,No change,Partially Successful,Provide evidence before negotiation,Medium,I00880
+L00186,D0295,Implementation concern,Support concerns,Implementation roadmap,Lost,Validate technical requirements early,Medium,I00579
+L00187,D0036,Competitive evaluation,Contract terms,Implementation roadmap,Lost,Provide evidence before negotiation,High,I01425
+L00188,D0154,Competitive evaluation,Price too high,Customized package,Won,Address implementation risk explicitly,High,I01011
+L00189,D0102,Security review,Missing feature,Implementation roadmap,Lost,Address implementation risk explicitly,Low,I01155
+L00190,D0036,Security review,Data migration risk,Technical proof,Partially Successful,Understand the real pricing concern,High,I00935
+L00191,D0015,Pricing concern,Missing feature,Customized package,Won,Map competitor strengths to customer priorities,Medium,I01316
+L00192,D0195,Competitive evaluation,Security concerns,No change,Lost,Understand the real pricing concern,Medium,I00717
+L00193,D0196,Integration concern,Support concerns,Technical proof,Lost,Provide evidence before negotiation,Medium,I00820
+L00194,D0169,Security review,Contract terms,Implementation roadmap,Partially Successful,Map competitor strengths to customer priorities,Medium,I01206
+L00195,D0202,Feature gap,Data migration risk,No change,Won,Validate technical requirements early,High,I00776
+L00196,D0216,Competitive evaluation,Price too high,Implementation roadmap,Won,Provide evidence before negotiation,High,I00368
+L00197,D0018,Security review,Price too high,Executive engagement,Won,Provide evidence before negotiation,Medium,I01136
+L00198,D0011,Security review,Implementation timeline,Executive engagement,Won,Address implementation risk explicitly,High,I00564
+L00199,D0101,Integration concern,Missing feature,Security documentation,Partially Successful,Address implementation risk explicitly,Medium,I00158
+L00200,D0171,Implementation concern,Compliance requirement,No change,Won,Address implementation risk explicitly,High,I00560
+L00201,D0271,Pricing concern,Support concerns,No change,Lost,Understand the real pricing concern,High,I00082
+L00202,D0294,Feature gap,Data migration risk,Security documentation,Won,Provide evidence before negotiation,Low,I01318
+L00203,D0249,Feature gap,Security concerns,Executive engagement,Partially Successful,Validate technical requirements early,Low,I01476
+L00204,D0088,Integration concern,Integration complexity,Technical proof,Lost,Map competitor strengths to customer priorities,Medium,I00400
+L00205,D0173,Integration concern,Integration complexity,Customized package,Lost,Understand the real pricing concern,High,I01375
+L00206,D0035,Implementation concern,Price too high,Implementation roadmap,Partially Successful,Provide evidence before negotiation,Low,I01068
+L00207,D0146,Implementation concern,Compliance requirement,Implementation roadmap,Won,Address implementation risk explicitly,Medium,I01434
+L00208,D0030,Implementation concern,Price too high,Implementation roadmap,Partially Successful,Address implementation risk explicitly,Low,I00245
+L00209,D0298,Pricing concern,Competitor pricing,Executive engagement,Lost,Validate technical requirements early,High,I00094
+L00210,D0136,Competitive evaluation,Missing feature,Security documentation,Lost,Address implementation risk explicitly,High,I01381
+L00211,D0217,Pricing concern,Contract terms,Executive engagement,Won,Understand the real pricing concern,Medium,I00404
+L00212,D0032,Security review,Compliance requirement,No change,Won,Provide evidence before negotiation,Low,I00895
+L00213,D0286,Competitive evaluation,Support concerns,Customized package,Partially Successful,Validate technical requirements early,High,I01353
+L00214,D0158,Feature gap,Integration complexity,Security documentation,Partially Successful,Address implementation risk explicitly,High,I00515
+L00215,D0022,Implementation concern,Compliance requirement,Technical proof,Partially Successful,Provide evidence before negotiation,Medium,I00135
+L00216,D0111,Pricing concern,Integration complexity,Implementation roadmap,Won,Validate technical requirements early,Low,I01187
+L00217,D0064,Competitive evaluation,Missing feature,Security documentation,Partially Successful,Validate technical requirements early,Medium,I00678
+L00218,D0021,Pricing concern,Contract terms,Technical proof,Won,Address implementation risk explicitly,Low,I00034
+L00219,D0010,Integration concern,Security concerns,Technical proof,Partially Successful,Validate technical requirements early,Medium,I00512
+L00220,D0214,Pricing concern,Contract terms,Security documentation,Lost,Provide evidence before negotiation,Medium,I00796
+L00221,D0261,Feature gap,Contract terms,Customized package,Partially Successful,Address implementation risk explicitly,Medium,I01320
+L00222,D0199,Security review,Compliance requirement,Customized package,Won,Map competitor strengths to customer priorities,High,I00340
+L00223,D0209,Implementation concern,Compliance requirement,Implementation roadmap,Partially Successful,Validate technical requirements early,Medium,I00778
+L00224,D0012,Competitive evaluation,Implementation timeline,No change,Lost,Understand the real pricing concern,Medium,I00273
+L00225,D0054,Feature gap,Contract terms,Implementation roadmap,Lost,Validate technical requirements early,High,I00436
+L00226,D0011,Feature gap,Competitor pricing,No change,Lost,Map competitor strengths to customer priorities,High,I00396
+L00227,D0293,Pricing concern,Price too high,Customized package,Partially Successful,Provide evidence before negotiation,Medium,I00787
+L00228,D0222,Security review,Contract terms,No change,Lost,Map competitor strengths to customer priorities,Medium,I00996
+L00229,D0287,Security review,Compliance requirement,Implementation roadmap,Lost,Validate technical requirements early,High,I00169
+L00230,D0272,Competitive evaluation,Integration complexity,Executive engagement,Lost,Address implementation risk explicitly,Low,I00114
+L00231,D0068,Security review,Support concerns,Customized package,Won,Validate technical requirements early,High,I01097
+L00232,D0154,Integration concern,Price too high,Implementation roadmap,Partially Successful,Validate technical requirements early,High,I00441
+L00233,D0195,Competitive evaluation,Data migration risk,Security documentation,Partially Successful,Provide evidence before negotiation,High,I00928
+L00234,D0223,Security review,Competitor pricing,No change,Lost,Understand the real pricing concern,High,I00116
+L00235,D0201,Competitive evaluation,Compliance requirement,Executive engagement,Partially Successful,Understand the real pricing concern,High,I00902
+L00236,D0136,Security review,Support concerns,No change,Won,Validate technical requirements early,Medium,I01365
+L00237,D0002,Security review,Support concerns,No change,Won,Provide evidence before negotiation,Medium,I00657
+L00238,D0282,Pricing concern,Security concerns,Executive engagement,Partially Successful,Understand the real pricing concern,Medium,I00867
+L00239,D0207,Pricing concern,Competitor pricing,Technical proof,Partially Successful,Map competitor strengths to customer priorities,Medium,I00442
+L00240,D0251,Pricing concern,Contract terms,Technical proof,Partially Successful,Address implementation risk explicitly,Low,I00429
+L00241,D0067,Integration concern,Compliance requirement,No change,Won,Provide evidence before negotiation,High,I00099
+L00242,D0032,Security review,Contract terms,Implementation roadmap,Lost,Address implementation risk explicitly,High,I00719
+L00243,D0271,Pricing concern,Price too high,No change,Partially Successful,Provide evidence before negotiation,High,I01421
+L00244,D0242,Pricing concern,Missing feature,Executive engagement,Won,Provide evidence before negotiation,Medium,I00175
+L00245,D0252,Feature gap,Support concerns,Implementation roadmap,Partially Successful,Map competitor strengths to customer priorities,High,I00625
+L00246,D0133,Feature gap,Support concerns,Customized package,Partially Successful,Provide evidence before negotiation,Medium,I01256
+L00247,D0272,Integration concern,Implementation timeline,No change,Won,Provide evidence before negotiation,Medium,I00744
+L00248,D0068,Feature gap,Integration complexity,Technical proof,Lost,Provide evidence before negotiation,Medium,I01141
+L00249,D0228,Pricing concern,Competitor pricing,Technical proof,Partially Successful,Address implementation risk explicitly,High,I00564
+L00250,D0149,Pricing concern,Competitor pricing,Customized package,Partially Successful,Address implementation risk explicitly,High,I00904
